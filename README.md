@@ -1,7 +1,3 @@
-Here is the complete README.md draft in English, incorporating all project details:
-
----
-
 # **QSAR Model Development for Discovering New PTP1B Inhibitors**
 
 This project focuses on developing a QSAR (Quantitative Structure-Activity Relationship) model to discover potential inhibitors for PTP1B. The pipeline involves molecular descriptor processing, feature selection, machine learning model training, and compound screening using XGBoost.
