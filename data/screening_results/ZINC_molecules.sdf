@@ -1,0 +1,6495 @@
+ZINC02090520
+     RDKit          3D
+
+ 15 15  0  0  1  0  0  0  0  0999 V2000
+   -2.1762   -6.8112    4.1738 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7363   -5.9443    3.5456 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3006   -4.6754    3.4037 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0395   -6.1076    2.7865 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.8041   -4.1635    2.1518 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -4.2474   -4.7333    2.1004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1909   -6.4064    3.7491 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8249   -2.6335    2.1602 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0297   -7.7962    4.3091 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3897   -2.1038    2.1496 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0818   -8.4837    3.9700 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8473   -8.2327    5.1013 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4104   -0.5737    2.1580 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0248   -0.0441    2.1473 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0040    1.4857    2.1557 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  3  5  1  0
+  4  6  1  0
+  4  7  1  1
+  5  8  1  1
+  7  9  1  0
+  8 10  1  0
+  9 11  2  0
+  9 12  1  0
+ 10 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+  5  6  1  0
+M  CHG  1  12  -1
+M  END
+>  <Name>  (1) 
+ZINC02090520
+
+>  <Molecule Name>  (1) 
+ZINC02090520
+
+>  <Polar Surface Area>  (1) 
+66.43
+
+>  <Molweight>  (1) 
+213.252
+
+>  <cLogP>  (1) 
+-0.5065
+
+>  <cLogS>  (1) 
+-2.336
+
+>  <H-Acceptors>  (1) 
+4
+
+>  <H-Donors>  (1) 
+0
+
+>  <Druglikeness>  (1) 
+-10.645
+
+>  <Mutagenic>  (1) 
+none
+
+>  <Tumorigenic>  (1) 
+none
+
+>  <Reproductive Effective>  (1) 
+none
+
+>  <Irritant>  (1) 
+none
+
+>  <DrugScore>  (1) 
+0.475258538873738
+
+>  <Rotatable Bonds>  (1) 
+6
+
+>  <Aromatic Rings>  (1) 
+0
+
+>  <Num_H_Acceptors_Lipinski>  (1) 
+4
+
+>  <Num_H_Donors_Lipinski>  (1) 
+0
+
+>  <Molecular_Weight>  (1) 
+213.25028
+
+>  <ALogP>  (1) 
+0.713
+
+>  <Num_RotatableBonds>  (1) 
+6
+
+>  <Molecular_PolarSurfaceArea>  (1) 
+66.43
+
+>  <Num_H_Acceptors>  (1) 
+4
+
+>  <Num_H_Donors>  (1) 
+0
+
+>  <ADMET_Solubility>  (1) 
+-1.375
+
+>  <ADMET_Solubility_Level>  (1) 
+4
+
+>  <ADMET_Unknown_AlogP98>  (1) 
+0
+
+>  <ADMET_BBB>  (1) 
+-0.896
+
+>  <ADMET_BBB_Level>  (1) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (1) 
+-5.10947599021798
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (1) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (1) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -367494947: [*]CC(=O)[O-]
+Unknown FCFP_2 feature: 260714409: [*]C(=[*])[O-]
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (1) 
+9.84058702941088
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (1) 
+0.14653689645779
+
+>  <ADMET_EXT_Hepatotoxic>  (1) 
+-11.7366367296152
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (1) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (1) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (1) 
+6.41614926200033
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (1) 
+0.999759477419662
+
+>  <ADMET_Absorption_Level>  (1) 
+0
+
+>  <ADMET_EXT_PPB>  (1) 
+0.392553827031026
+
+>  <ADMET_EXT_PPB#Prediction>  (1) 
+true
+
+>  <ADMET_EXT_PPB_Applicability>  (1) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (1) 
+11.3573941707294
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (1) 
+0.309535783771842
+
+>  <ADMET_AlogP98>  (1) 
+0.713
+
+>  <ADMET_PSA_2D>  (1) 
+60.832
+
+$$$$
+ZINC02090535
+     RDKit          3D
+
+ 17 17  0  0  1  0  0  0  0  0999 V2000
+   -0.3642    1.5488   -0.2732 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9032    1.7929   -1.5651 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1009    1.7912    0.9174 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9108    2.3735   -0.1709 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0796   -0.0458   -0.2387 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0455   -0.7886    1.0234 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5064   -0.7139   -1.4705 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2919   -1.5209    1.1482 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.0318   -0.6626   -1.5760 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3854   -2.5189    0.1301 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3833   -2.1853    2.5236 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4788   -1.4517   -2.7795 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7689   -2.7974   -2.6547 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6040   -0.8283   -4.0069 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1741   -3.5222   -3.7597 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0144   -1.5519   -5.1107 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2989   -2.8990   -4.9872 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  2  0
+  1  4  1  0
+  1  5  1  0
+  5  6  1  0
+  5  7  1  0
+  6  8  1  0
+  7  9  1  0
+  8 10  1  0
+  8 11  1  1
+  9 12  1  0
+ 12 13  2  0
+ 12 14  1  0
+ 13 15  1  0
+ 14 16  2  0
+ 15 17  2  0
+ 16 17  1  0
+M  END
+>  <Name>  (2) 
+ZINC02090535
+
+>  <Molecule Name>  (2) 
+ZINC02090535
+
+>  <Polar Surface Area>  (2) 
+86.22
+
+>  <Molweight>  (2) 
+259.325
+
+>  <cLogP>  (2) 
+-0.2753
+
+>  <cLogS>  (2) 
+-0.615
+
+>  <H-Acceptors>  (2) 
+5
+
+>  <H-Donors>  (2) 
+2
+
+>  <Druglikeness>  (2) 
+1.7881
+
+>  <Mutagenic>  (2) 
+high
+
+>  <Tumorigenic>  (2) 
+high
+
+>  <Reproductive Effective>  (2) 
+none
+
+>  <Irritant>  (2) 
+none
+
+>  <DrugScore>  (2) 
+0.322565353547218
+
+>  <Rotatable Bonds>  (2) 
+5
+
+>  <Aromatic Rings>  (2) 
+1
+
+>  <Num_H_Acceptors_Lipinski>  (2) 
+5
+
+>  <Num_H_Donors_Lipinski>  (2) 
+2
+
+>  <Molecular_Weight>  (2) 
+259.32198
+
+>  <ALogP>  (2) 
+0.919
+
+>  <Num_RotatableBonds>  (2) 
+6
+
+>  <Molecular_PolarSurfaceArea>  (2) 
+86.22
+
+>  <Num_H_Acceptors>  (2) 
+4
+
+>  <Num_H_Donors>  (2) 
+2
+
+>  <ADMET_Solubility>  (2) 
+-1.044
+
+>  <ADMET_Solubility_Level>  (2) 
+4
+
+>  <ADMET_Unknown_AlogP98>  (2) 
+0
+
+>  <ADMET_BBB>  (2) 
+-1.129
+
+>  <ADMET_BBB_Level>  (2) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (2) 
+-8.63998248382303
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (2) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (2) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: 1704171835: [*]N([*])S(=O)(=O)O
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (2) 
+16.1749612563155
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (2) 
+9.26100228221857e-08
+
+>  <ADMET_EXT_Hepatotoxic>  (2) 
+-7.59608739979621
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (2) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (2) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: 1704171835: [*]N([*])S(=O)(=O)O
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (2) 
+10.0127258962769
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (2) 
+0.0875883055042026
+
+>  <ADMET_Absorption_Level>  (2) 
+0
+
+>  <ADMET_EXT_PPB>  (2) 
+0.570875818392411
+
+>  <ADMET_EXT_PPB#Prediction>  (2) 
+true
+
+>  <ADMET_EXT_PPB_Applicability>  (2) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (2) 
+11.1148081202926
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (2) 
+0.427367646246716
+
+>  <ADMET_AlogP98>  (2) 
+0.92
+
+>  <ADMET_PSA_2D>  (2) 
+79.585
+
+$$$$
+ZINC02091295
+     RDKit          3D
+
+ 23 25  0  0  0  0  0  0  0  0999 V2000
+   -5.5116    1.4851    0.0873 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8072    2.4812    0.0860 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3555    3.7154    0.0967 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3983    2.3705    0.0742 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5655    4.8191    0.0957 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8130    3.8642    0.1089 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5377    1.2889    0.0610 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6444    3.5425    0.0733 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2655    4.7358    0.0844 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.3318    3.9228   -1.3291 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2283    1.7262    0.0458 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2348    3.1316    0.0588 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.8541    4.0781   -1.3164 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0130    1.0472    0.0364 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0282    3.8374    0.0511 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.3386    4.1329   -2.6597 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1734    1.7535    0.0289 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1664    3.1508    0.0366 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.7569    4.2782   -2.7606 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3565    1.0847    0.0137 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3423    3.8355    0.0290 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2947   -0.3429    0.0062 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2624    5.2623    0.0377 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  3  5  1  0
+  3  6  1  0
+  4  7  1  0
+  4  8  2  0
+  5  9  2  0
+  6 10  1  0
+  7 11  1  0
+  8 12  1  0
+ 10 13  1  0
+ 11 14  2  0
+ 12 15  2  0
+ 13 16  1  0
+ 14 17  1  0
+ 15 18  1  0
+ 16 19  1  0
+ 17 20  1  0
+ 18 21  1  0
+ 20 22  1  0
+ 21 23  1  0
+  8  9  1  0
+ 11 12  1  0
+ 17 18  2  0
+M  END
+>  <Name>  (3) 
+ZINC02091295
+
+>  <Molecule Name>  (3) 
+ZINC02091295
+
+>  <Polar Surface Area>  (3) 
+76.15
+
+>  <Molweight>  (3) 
+317.344
+
+>  <cLogP>  (3) 
+1.1292
+
+>  <cLogS>  (3) 
+-2.618
+
+>  <H-Acceptors>  (3) 
+7
+
+>  <H-Donors>  (3) 
+1
+
+>  <Druglikeness>  (3) 
+4.2953
+
+>  <Mutagenic>  (3) 
+none
+
+>  <Tumorigenic>  (3) 
+none
+
+>  <Reproductive Effective>  (3) 
+none
+
+>  <Irritant>  (3) 
+none
+
+>  <DrugScore>  (3) 
+0.89426531332501
+
+>  <Rotatable Bonds>  (3) 
+6
+
+>  <Aromatic Rings>  (3) 
+2
+
+>  <Num_H_Acceptors_Lipinski>  (3) 
+7
+
+>  <Num_H_Donors_Lipinski>  (3) 
+1
+
+>  <Molecular_Weight>  (3) 
+317.33976
+
+>  <ALogP>  (3) 
+1.44
+
+>  <Num_RotatableBonds>  (3) 
+6
+
+>  <Molecular_PolarSurfaceArea>  (3) 
+76.15
+
+>  <Num_H_Acceptors>  (3) 
+5
+
+>  <Num_H_Donors>  (3) 
+1
+
+>  <ADMET_Solubility>  (3) 
+-3.094
+
+>  <ADMET_Solubility_Level>  (3) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (3) 
+0
+
+>  <ADMET_BBB>  (3) 
+-0.877
+
+>  <ADMET_BBB_Level>  (3) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (3) 
+-7.83658454505836
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (3) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (3) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -2100279446: [*]\N=C/N([*])[*]
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (3) 
+23.2124900653455
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (3) 
+9.49438542301242e-16
+
+>  <ADMET_EXT_Hepatotoxic>  (3) 
+-4.82070373469152
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (3) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (3) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (3) 
+12.2667296622921
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (3) 
+5.27291312538998e-05
+
+>  <ADMET_Absorption_Level>  (3) 
+0
+
+>  <ADMET_EXT_PPB>  (3) 
+1.12411591452512
+
+>  <ADMET_EXT_PPB#Prediction>  (3) 
+true
+
+>  <ADMET_EXT_PPB_Applicability>  (3) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (3) 
+14.0005506444881
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (3) 
+0.000104078346129589
+
+>  <ADMET_AlogP98>  (3) 
+1.44
+
+>  <ADMET_PSA_2D>  (3) 
+73.821
+
+$$$$
+ZINC02139933
+     RDKit          3D
+
+ 28 30  0  0  1  0  0  0  0  0999 V2000
+    5.9630   -1.9265    0.9629 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3272   -1.5699    1.9350 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1604   -0.9174    1.7743 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7897   -1.8275    3.1745 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7306   -0.6780    0.4327 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0423   -2.5279    3.4932 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.1201   -1.4592    4.4353 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4153    0.0575    0.4503 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2149   -1.7547    2.9470 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1425   -2.6111    5.0309 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6655   -2.4627    5.4818 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3965    1.4397    0.4575 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2277   -0.6496    0.4588 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0865   -0.5848    2.6543 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4061   -2.3635    2.7839 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1900    2.1145    0.4727 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0213    0.0250    0.4726 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5458   -1.6118    2.2530 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0024    1.4072    0.4803 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5159   -2.5639    1.6024 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2349   -0.8831    3.3778 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.7760   -3.7904    2.1845 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1412   -2.2129    0.4207 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2193   -1.3476    4.5051 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8079    0.1708    3.1607 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6658   -4.6635    1.5878 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0342   -3.0843   -0.1735 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.2950   -4.3103    0.4088 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  3  5  1  0
+  4  6  1  0
+  4  7  1  0
+  5  8  1  0
+  6  9  1  1
+  6 10  1  0
+  7 11  1  0
+  8 12  2  0
+  8 13  1  0
+  9 14  2  0
+  9 15  1  0
+ 12 16  1  0
+ 13 17  2  0
+ 18 15  1  1
+ 16 19  2  0
+ 18 20  1  0
+ 18 21  1  0
+ 20 22  2  0
+ 20 23  1  0
+ 21 24  2  0
+ 21 25  1  0
+ 22 26  1  0
+ 23 27  2  0
+ 26 28  2  0
+ 10 11  1  0
+ 17 19  1  0
+ 27 28  1  0
+M  CHG  1  25  -1
+M  END
+>  <Name>  (4) 
+ZINC02139933
+
+>  <Molecule Name>  (4) 
+ZINC02139933
+
+>  <Polar Surface Area>  (4) 
+98.77
+
+>  <Molweight>  (4) 
+381.407
+
+>  <cLogP>  (4) 
+-0.312
+
+>  <cLogS>  (4) 
+-3.127
+
+>  <H-Acceptors>  (4) 
+7
+
+>  <H-Donors>  (4) 
+1
+
+>  <Druglikeness>  (4) 
+2.3287
+
+>  <Mutagenic>  (4) 
+none
+
+>  <Tumorigenic>  (4) 
+none
+
+>  <Reproductive Effective>  (4) 
+none
+
+>  <Irritant>  (4) 
+none
+
+>  <DrugScore>  (4) 
+0.803396687138739
+
+>  <Rotatable Bonds>  (4) 
+7
+
+>  <Aromatic Rings>  (4) 
+2
+
+>  <Num_H_Acceptors_Lipinski>  (4) 
+7
+
+>  <Num_H_Donors_Lipinski>  (4) 
+1
+
+>  <Molecular_Weight>  (4) 
+381.40184
+
+>  <ALogP>  (4) 
+1.188
+
+>  <Num_RotatableBonds>  (4) 
+7
+
+>  <Molecular_PolarSurfaceArea>  (4) 
+98.77
+
+>  <Num_H_Acceptors>  (4) 
+5
+
+>  <Num_H_Donors>  (4) 
+1
+
+>  <ADMET_Solubility>  (4) 
+-2.434
+
+>  <ADMET_Solubility_Level>  (4) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (4) 
+0
+
+>  <ADMET_BBB>  (4) 
+-1.279
+
+>  <ADMET_BBB_Level>  (4) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (4) 
+-6.89384577711747
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (4) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (4) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -367494947: [*]CC(=O)[O-]
+Unknown FCFP_2 feature: 260714409: [*]C(=[*])[O-]
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (4) 
+9.46408976649877
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (4) 
+0.237826630311965
+
+>  <ADMET_EXT_Hepatotoxic>  (4) 
+-7.5749726890331
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (4) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (4) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (4) 
+9.13487777390097
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (4) 
+0.390203149328248
+
+>  <ADMET_Absorption_Level>  (4) 
+0
+
+>  <ADMET_EXT_PPB>  (4) 
+-9.29242017178285
+
+>  <ADMET_EXT_PPB#Prediction>  (4) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (4) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (4) 
+12.026603200665
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (4) 
+0.0892026691697439
+
+>  <ADMET_AlogP98>  (4) 
+1.189
+
+>  <ADMET_PSA_2D>  (4) 
+94.295
+
+$$$$
+ZINC02139965
+     RDKit          3D
+
+ 34 36  0  0  1  0  0  0  0  0999 V2000
+    8.8128    3.2312    1.4352 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8748    3.3889    2.2003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3798    2.3275    2.8834 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3197    4.6659    2.3642 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2457    2.4615    3.6093 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1573    1.0890    2.8359 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2274    4.8165    3.1674 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6817    3.6863    3.7855 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5566    1.2800    4.2503 C   0  0  1  0  0  0  0  0  0  0  0  0
+    7.3426   -0.1224    3.2504 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.5359    0.7368    3.2429 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5806    0.1799    4.5411 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3954   -0.5782    2.1494 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2713    0.3574    2.0260 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9240    0.8623    0.8258 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5425    0.5443   -0.1674 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7669    1.8219    0.7183 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.8758    2.5801   -0.5303 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4524    1.0391    0.7267 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8740    1.9341   -1.7131 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2761    2.0173    0.7432 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7821    0.7229   -1.7436 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9740    2.6309   -2.8607 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0185    1.2463    0.7516 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9656    1.8695   -4.0969 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0022    0.0383    0.7449 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1900    1.9016    0.7607 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1447    0.8949   -4.1034 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0871    2.8254   -5.2853 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6557    1.0862   -4.2043 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3968    1.0944    0.7621 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4140    0.2047    2.0066 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6228    2.0100    0.7730 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4258    0.2183   -0.4915 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  3  5  1  0
+  3  6  1  0
+  4  7  2  0
+  5  8  2  0
+  5  9  1  0
+ 10  6  1  6
+  9 11  1  6
+  9 12  1  0
+ 10 13  1  0
+ 11 14  1  0
+ 14 15  1  0
+ 15 16  2  0
+ 15 17  1  0
+ 17 18  1  0
+ 17 19  1  6
+ 18 20  1  0
+ 19 21  1  0
+ 20 22  2  0
+ 20 23  1  0
+ 21 24  1  0
+ 23 25  1  0
+ 24 26  2  0
+ 24 27  1  0
+ 25 28  1  0
+ 25 29  1  0
+ 25 30  1  0
+ 27 31  1  0
+ 31 32  1  0
+ 31 33  1  0
+ 31 34  1  0
+  7  8  1  0
+ 10 12  1  0
+ 13 14  1  0
+M  END
+>  <Name>  (5) 
+ZINC02139965
+
+>  <Molecule Name>  (5) 
+ZINC02139965
+
+>  <Polar Surface Area>  (5) 
+105.25
+
+>  <Molweight>  (5) 
+475.584
+
+>  <cLogP>  (5) 
+2.6929
+
+>  <cLogS>  (5) 
+-3.401
+
+>  <H-Acceptors>  (5) 
+9
+
+>  <H-Donors>  (5) 
+1
+
+>  <Druglikeness>  (5) 
+-57.984
+
+>  <Mutagenic>  (5) 
+none
+
+>  <Tumorigenic>  (5) 
+none
+
+>  <Reproductive Effective>  (5) 
+none
+
+>  <Irritant>  (5) 
+none
+
+>  <DrugScore>  (5) 
+0.34382841409922
+
+>  <Rotatable Bonds>  (5) 
+9
+
+>  <Aromatic Rings>  (5) 
+0
+
+>  <Num_H_Acceptors_Lipinski>  (5) 
+9
+
+>  <Num_H_Donors_Lipinski>  (5) 
+1
+
+>  <Molecular_Weight>  (5) 
+475.57778
+
+>  <ALogP>  (5) 
+1.435
+
+>  <Num_RotatableBonds>  (5) 
+9
+
+>  <Molecular_PolarSurfaceArea>  (5) 
+105.25
+
+>  <Num_H_Acceptors>  (5) 
+6
+
+>  <Num_H_Donors>  (5) 
+1
+
+>  <ADMET_Solubility>  (5) 
+-2.685
+
+>  <ADMET_Solubility_Level>  (5) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (5) 
+0
+
+>  <ADMET_BBB>  (5) 
+-1.397
+
+>  <ADMET_BBB_Level>  (5) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (5) 
+-10.6670133831518
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (5) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (5) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (5) 
+10.9106119222931
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (5) 
+0.026097534872707
+
+>  <ADMET_EXT_Hepatotoxic>  (5) 
+-4.99904561162039
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (5) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (5) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (5) 
+11.7277779667962
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (5) 
+0.00047700608743114
+
+>  <ADMET_Absorption_Level>  (5) 
+0
+
+>  <ADMET_EXT_PPB>  (5) 
+-4.95483212781829
+
+>  <ADMET_EXT_PPB#Prediction>  (5) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (5) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (5) 
+13.4456500454586
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (5) 
+0.00109078822881176
+
+>  <ADMET_AlogP98>  (5) 
+1.435
+
+>  <ADMET_PSA_2D>  (5) 
+106.578
+
+$$$$
+ZINC06623697
+     RDKit          3D
+
+ 28 30  0  0  1  0  0  0  0  0999 V2000
+    4.7455    0.9114    4.5627 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1520    1.5780    2.8967 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.9266    0.7152    4.3271 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8208    2.1263    2.4998 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0539    2.7736    3.0180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7707    1.1576    2.8454 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.0528    3.3430    1.9748 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3627    3.8433    2.4377 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3085    2.9669    3.5478 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4186    1.7950    2.6530 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2985    3.9402    1.2317 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9717    5.0960    2.3717 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8993    4.2183    3.4927 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3386    2.9524    2.2990 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2982    1.0791    2.8741 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2326    5.2772    2.9022 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0159    1.6969    2.6813 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.0374    0.9792    3.5255 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4137    1.5999    1.2072 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.8178   -0.1477    3.9156 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1954    1.5899    3.8471 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4636    2.4542    0.3654 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3287    0.1421    0.7510 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1404    0.9365    4.7562 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.6694    3.9318    0.7054 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5522    1.4628    4.4891 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7488    1.2399    6.2039 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6125    2.8527    4.8165 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  1  3  1  0
+  2  4  1  0
+  2  5  1  0
+  3  6  1  0
+  4  7  1  0
+  5  8  2  0
+  5  9  1  0
+  6 10  1  1
+  7 11  2  0
+  8 12  1  0
+  9 13  2  0
+ 10 14  2  0
+ 10 15  1  0
+ 12 16  2  0
+ 17 15  1  6
+ 17 18  1  0
+ 17 19  1  0
+ 18 20  2  0
+ 18 21  1  0
+ 19 22  1  0
+ 19 23  1  6
+ 21 24  1  0
+ 22 25  1  0
+ 24 26  1  0
+ 24 27  1  1
+ 26 28  1  0
+  4  6  1  0
+  7  8  1  0
+ 13 16  1  0
+M  END
+>  <Name>  (6) 
+ZINC06623697
+
+>  <Molecule Name>  (6) 
+ZINC06623697
+
+>  <Polar Surface Area>  (6) 
+124.04
+
+>  <Molweight>  (6) 
+405.517
+
+>  <cLogP>  (6) 
+0.9259
+
+>  <cLogS>  (6) 
+-2.846
+
+>  <H-Acceptors>  (6) 
+7
+
+>  <H-Donors>  (6) 
+3
+
+>  <Druglikeness>  (6) 
+6.3979
+
+>  <Mutagenic>  (6) 
+none
+
+>  <Tumorigenic>  (6) 
+none
+
+>  <Reproductive Effective>  (6) 
+none
+
+>  <Irritant>  (6) 
+none
+
+>  <DrugScore>  (6) 
+0.824969594877856
+
+>  <Rotatable Bonds>  (6) 
+7
+
+>  <Aromatic Rings>  (6) 
+1
+
+>  <Num_H_Acceptors_Lipinski>  (6) 
+7
+
+>  <Num_H_Donors_Lipinski>  (6) 
+3
+
+>  <Molecular_Weight>  (6) 
+405.51108
+
+>  <ALogP>  (6) 
+1.506
+
+>  <Num_RotatableBonds>  (6) 
+7
+
+>  <Molecular_PolarSurfaceArea>  (6) 
+124.04
+
+>  <Num_H_Acceptors>  (6) 
+5
+
+>  <Num_H_Donors>  (6) 
+3
+
+>  <ADMET_Solubility>  (6) 
+-2.731
+
+>  <ADMET_Solubility_Level>  (6) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (6) 
+0
+
+>  <ADMET_BBB>  (6) 
+-1.298
+
+>  <ADMET_BBB_Level>  (6) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (6) 
+-7.229736676741
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (6) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (6) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (6) 
+14.7082776066618
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (6) 
+4.34464448932745e-06
+
+>  <ADMET_EXT_Hepatotoxic>  (6) 
+-5.28387511311087
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (6) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (6) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (6) 
+10.6087922532156
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (6) 
+0.0199423215429185
+
+>  <ADMET_Absorption_Level>  (6) 
+0
+
+>  <ADMET_EXT_PPB>  (6) 
+-9.39708199082913
+
+>  <ADMET_EXT_PPB#Prediction>  (6) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (6) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (6) 
+18.4147478989671
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (6) 
+2.95974824631679e-17
+
+>  <ADMET_AlogP98>  (6) 
+1.506
+
+>  <ADMET_PSA_2D>  (6) 
+101.69
+
+$$$$
+ZINC06623714
+     RDKit          3D
+
+ 29 32  0  0  1  0  0  0  0  0999 V2000
+   -0.0914   -3.2963   10.3712 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9760   -2.6874    8.9940 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0255   -1.7293   10.6363 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7961   -1.1557    9.1161 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.4361   -3.0876    9.2141 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4684   -3.1931    7.6421 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0477   -0.7508   10.3070 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3289   -1.5455   12.0959 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0671   -0.6564    7.8953 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0221    0.2017   11.2619 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6939   -0.3426   12.4581 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0362   -2.2787   13.0201 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1129   -0.3842    7.9625 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7264   -0.5122    6.7288 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4029    1.3353   11.1527 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8172    0.1227   13.7669 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1521   -1.8253   14.3237 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0178   -0.0268    5.5420 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.5608   -0.6325   14.7005 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7230   -0.5127    4.3022 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0029    1.5030    5.5506 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7195   -1.1969    4.4004 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2463   -0.1867    3.0845 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8330   -0.5911    1.7986 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.9456    0.6397    2.8214 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0638   -0.0121    0.6838 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2506   -0.0294    1.6739 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4169    0.2171    1.4076 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1952    1.3976    1.6268 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  3  1  1  1
+  2  4  1  0
+  2  5  1  0
+  2  6  1  0
+  3  7  1  0
+  3  8  1  0
+  4  9  1  6
+  7 10  1  0
+  8 11  2  0
+  8 12  1  0
+  9 13  2  0
+  9 14  1  0
+ 10 15  2  0
+ 11 16  1  0
+ 12 17  2  0
+ 14 18  1  0
+ 16 19  2  0
+ 18 20  1  0
+ 18 21  1  6
+ 20 22  2  0
+ 20 23  1  0
+ 23 24  1  0
+ 23 25  1  0
+ 24 26  1  0
+ 24 27  1  6
+ 25 28  1  0
+ 27 29  1  0
+  4  7  1  0
+ 10 11  1  0
+ 17 19  1  0
+ 26 28  1  0
+M  END
+>  <Name>  (7) 
+ZINC06623714
+
+>  <Molecule Name>  (7) 
+ZINC06623714
+
+>  <Polar Surface Area>  (7) 
+115.25
+
+>  <Molweight>  (7) 
+417.528
+
+>  <cLogP>  (7) 
+1.6453
+
+>  <cLogS>  (7) 
+-2.548
+
+>  <H-Acceptors>  (7) 
+7
+
+>  <H-Donors>  (7) 
+2
+
+>  <Druglikeness>  (7) 
+4.7279
+
+>  <Mutagenic>  (7) 
+none
+
+>  <Tumorigenic>  (7) 
+none
+
+>  <Reproductive Effective>  (7) 
+none
+
+>  <Irritant>  (7) 
+none
+
+>  <DrugScore>  (7) 
+0.812651298410396
+
+>  <Rotatable Bonds>  (7) 
+4
+
+>  <Aromatic Rings>  (7) 
+1
+
+>  <Num_H_Acceptors_Lipinski>  (7) 
+7
+
+>  <Num_H_Donors_Lipinski>  (7) 
+2
+
+>  <Molecular_Weight>  (7) 
+417.52178
+
+>  <ALogP>  (7) 
+1.107
+
+>  <Num_RotatableBonds>  (7) 
+4
+
+>  <Molecular_PolarSurfaceArea>  (7) 
+115.25
+
+>  <Num_H_Acceptors>  (7) 
+5
+
+>  <Num_H_Donors>  (7) 
+2
+
+>  <ADMET_Solubility>  (7) 
+-2.744
+
+>  <ADMET_Solubility_Level>  (7) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (7) 
+0
+
+>  <ADMET_BBB>  (7) 
+-1.271
+
+>  <ADMET_BBB_Level>  (7) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (7) 
+-10.335759988609
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (7) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (7) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (7) 
+15.4559737562528
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (7) 
+6.19403467572229e-07
+
+>  <ADMET_EXT_Hepatotoxic>  (7) 
+-5.63655253289802
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (7) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (7) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (7) 
+10.9290173704801
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (7) 
+0.00774852653265322
+
+>  <ADMET_Absorption_Level>  (7) 
+0
+
+>  <ADMET_EXT_PPB>  (7) 
+-6.00642795651878
+
+>  <ADMET_EXT_PPB#Prediction>  (7) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (7) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (7) 
+18.1634759257377
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (7) 
+2.29537475258579e-16
+
+>  <ADMET_AlogP98>  (7) 
+1.107
+
+>  <ADMET_PSA_2D>  (7) 
+92.233
+
+$$$$
+ZINC08791279
+     RDKit          3D
+
+ 32 37  0  0  1  0  0  0  0  0999 V2000
+   -5.0883    1.2011   -0.9238 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1515    1.1875   -2.1304 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1848    1.6495   -2.8679 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0819    0.6468   -3.0655 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -6.2124    0.8643   -4.1210 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -4.7094    0.8076   -4.4622 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.7998    1.4743   -2.9526 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7340   -0.5214   -3.7367 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3435   -0.3062   -5.4069 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1787    1.2061   -1.6390 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3919   -1.5615   -4.7924 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -4.8658   -1.6620   -4.9271 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.4791   -0.0961   -1.6681 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2273    2.2859   -1.3001 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9935   -1.1815   -6.1440 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9529   -2.9195   -4.3652 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5565   -2.7137   -6.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.9472   -0.4056   -0.2670 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6877    2.0474    0.1120 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7305   -2.3004   -7.1546 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2729   -3.3319   -5.9793 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2215   -2.4686   -7.3556 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3569   -4.1579   -5.5466 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0291    0.6944    0.1583 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1444    0.7146   -0.7348 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5179    0.4217    1.5824 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3814    1.5671    2.0452 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7458    1.5370    1.8246 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8100    2.6451    2.6954 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5374    2.5896    2.2451 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6022    3.6957    3.1199 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9657    3.6680    2.8946 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  3  5  1  0
+  4  6  1  0
+  4  7  1  6
+  5  8  1  1
+  6  9  1  6
+  7 10  1  0
+  8 11  1  0
+ 12  9  1  6
+ 10 13  1  0
+ 10 14  1  0
+ 11 15  1  0
+ 11 16  1  1
+ 12 17  1  0
+ 13 18  1  0
+ 14 19  1  0
+ 15 20  1  0
+ 17 21  1  0
+ 17 22  1  6
+ 17 23  1  0
+ 18 24  1  0
+ 24 25  1  0
+ 24 26  1  0
+ 26 27  1  0
+ 27 28  2  0
+ 27 29  1  0
+ 28 30  1  0
+ 29 31  2  0
+ 30 32  2  0
+  5  6  1  0
+ 11 12  1  0
+ 19 24  1  0
+ 20 22  1  0
+ 21 23  1  0
+ 31 32  1  0
+M  CHG  1  10   1
+M  END
+>  <Name>  (8) 
+ZINC08791279
+
+>  <Molecule Name>  (8) 
+ZINC08791279
+
+>  <Polar Surface Area>  (8) 
+63.5
+
+>  <Molweight>  (8) 
+440.602
+
+>  <cLogP>  (8) 
+0.8649
+
+>  <cLogS>  (8) 
+-4.028
+
+>  <H-Acceptors>  (8) 
+5
+
+>  <H-Donors>  (8) 
+2
+
+>  <Druglikeness>  (8) 
+-2.9817
+
+>  <Mutagenic>  (8) 
+high
+
+>  <Tumorigenic>  (8) 
+high
+
+>  <Reproductive Effective>  (8) 
+none
+
+>  <Irritant>  (8) 
+high
+
+>  <DrugScore>  (8) 
+0.0809652795194517
+
+>  <Rotatable Bonds>  (8) 
+4
+
+>  <Aromatic Rings>  (8) 
+1
+
+>  <Num_H_Acceptors_Lipinski>  (8) 
+5
+
+>  <Num_H_Donors_Lipinski>  (8) 
+2
+
+>  <Molecular_Weight>  (8) 
+440.59492
+
+>  <ALogP>  (8) 
+1.428
+
+>  <Num_RotatableBonds>  (8) 
+4
+
+>  <Molecular_PolarSurfaceArea>  (8) 
+63.5
+
+>  <Num_H_Acceptors>  (8) 
+4
+
+>  <Num_H_Donors>  (8) 
+2
+
+>  <ADMET_Solubility>  (8) 
+-3.151
+
+>  <ADMET_Solubility_Level>  (8) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (8) 
+0
+
+>  <ADMET_BBB>  (8) 
+-0.649
+
+>  <ADMET_BBB_Level>  (8) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (8) 
+-5.41520122803978
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (8) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (8) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: 10: [*][NH+]([*])[*]
+Unknown FCFP_2 feature: 1155241219: [*]CC[NH+]([*])[*]
+Unknown FCFP_2 feature: -1853714334: [*][C@@H]1[*][*][C@H]([*])[N@H+]1C
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (8) 
+13.1354187982249
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (8) 
+0.000220571327477017
+
+>  <ADMET_EXT_Hepatotoxic>  (8) 
+-11.4009438028691
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (8) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (8) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: 10: [*][NH+]([*])[*]
+Unknown FCFP_2 feature: 1155241219: [*]CC[NH+]([*])[*]
+Unknown FCFP_2 feature: -1853714334: [*][C@@H]1[*][*][C@H]([*])[N@H+]1C
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (8) 
+10.0722396053048
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (8) 
+0.0768345895721626
+
+>  <ADMET_Absorption_Level>  (8) 
+0
+
+>  <ADMET_EXT_PPB>  (8) 
+-5.92440615088587
+
+>  <ADMET_EXT_PPB#Prediction>  (8) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (8) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: 1155241219: [*]CC[NH+]([*])[*]
+Unknown FCFP_2 feature: -1853714334: [*][C@@H]1[*][*][C@H]([*])[N@H+]1C
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (8) 
+10.4464662114107
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (8) 
+0.758423335105362
+
+>  <ADMET_AlogP98>  (8) 
+1.428
+
+>  <ADMET_PSA_2D>  (8) 
+59.18
+
+$$$$
+ZINC08879908
+     RDKit          3D
+
+ 27 30  0  0  1  0  0  0  0  0999 V2000
+    0.0000    9.9543    2.7000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3634    9.6794    3.8288 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4533    8.3949    4.2453 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7264   10.7300    4.7916 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8550    8.1045    5.5102 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1090    7.3079    3.3256 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1334   10.3329    6.0846 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6729   12.0829    4.4616 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1774    9.0104    6.3831 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3404    6.8808    2.5694 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4794   11.3076    7.0229 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0190   13.0258    5.4045 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4015    7.4302    2.7782 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2629    5.8882    1.6611 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4202   12.6387    6.6767 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4677    5.3576    1.0019 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.0251    5.2931    1.2900 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6755    6.1492    1.4332 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6283    3.8976    1.4221 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1046    3.7913    1.2418 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2342    5.8821    2.4707 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1308    7.1511    0.6647 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3246    3.1554    1.2905 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0604    3.0439    1.1358 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3771    1.7686    1.2184 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0058    1.6669    1.0763 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2190    1.0270    1.1184 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  3  5  1  0
+  3  6  1  0
+  4  7  2  0
+  4  8  1  0
+  5  9  2  0
+  6 10  1  0
+  7 11  1  0
+  8 12  2  0
+ 10 13  2  0
+ 10 14  1  0
+ 11 15  2  0
+ 14 16  1  0
+ 14 17  1  0
+ 16 18  1  1
+ 16 19  1  0
+ 17 20  1  0
+ 18 21  2  0
+ 18 22  1  0
+ 19 23  1  0
+ 20 24  2  0
+ 23 25  2  0
+ 24 26  1  0
+ 25 27  1  0
+  7  9  1  0
+ 12 15  1  0
+ 20 23  1  0
+ 26 27  2  0
+M  CHG  1  22  -1
+M  END
+>  <Name>  (9) 
+ZINC08879908
+
+>  <Molecule Name>  (9) 
+ZINC08879908
+
+>  <Polar Surface Area>  (9) 
+93.11
+
+>  <Molweight>  (9) 
+362.364
+
+>  <cLogP>  (9) 
+-1.3496
+
+>  <cLogS>  (9) 
+-2.772
+
+>  <H-Acceptors>  (9) 
+7
+
+>  <H-Donors>  (9) 
+0
+
+>  <Druglikeness>  (9) 
+4.914
+
+>  <Mutagenic>  (9) 
+none
+
+>  <Tumorigenic>  (9) 
+none
+
+>  <Reproductive Effective>  (9) 
+none
+
+>  <Irritant>  (9) 
+none
+
+>  <DrugScore>  (9) 
+0.870887030231767
+
+>  <Rotatable Bonds>  (9) 
+3
+
+>  <Aromatic Rings>  (9) 
+2
+
+>  <Num_H_Acceptors_Lipinski>  (9) 
+7
+
+>  <Num_H_Donors_Lipinski>  (9) 
+0
+
+>  <Molecular_Weight>  (9) 
+362.35874
+
+>  <ALogP>  (9) 
+0.023
+
+>  <Num_RotatableBonds>  (9) 
+3
+
+>  <Molecular_PolarSurfaceArea>  (9) 
+93.11
+
+>  <Num_H_Acceptors>  (9) 
+5
+
+>  <Num_H_Donors>  (9) 
+0
+
+>  <ADMET_Solubility>  (9) 
+-2.02
+
+>  <ADMET_Solubility_Level>  (9) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (9) 
+0
+
+>  <ADMET_BBB>  (9) 
+-1.527
+
+>  <ADMET_BBB_Level>  (9) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (9) 
+-9.11054016871175
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (9) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (9) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -2100279446: [*]\N=C/N([*])[*]
+Unknown FCFP_2 feature: -367494947: [*]CC(=O)[O-]
+Unknown FCFP_2 feature: 260714409: [*]C(=[*])[O-]
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (9) 
+13.0104416287084
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (9) 
+0.000297048723413284
+
+>  <ADMET_EXT_Hepatotoxic>  (9) 
+-5.5976814981934
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (9) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (9) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (9) 
+10.8602052515695
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (9) 
+0.00957601450164001
+
+>  <ADMET_Absorption_Level>  (9) 
+0
+
+>  <ADMET_EXT_PPB>  (9) 
+2.53192641384286
+
+>  <ADMET_EXT_PPB#Prediction>  (9) 
+true
+
+>  <ADMET_EXT_PPB_Applicability>  (9) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (9) 
+14.9898007421619
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (9) 
+7.08167652470824e-07
+
+>  <ADMET_AlogP98>  (9) 
+0.023
+
+>  <ADMET_PSA_2D>  (9) 
+87.231
+
+$$$$
+ZINC08880009
+     RDKit          3D
+
+ 26 28  0  0  1  0  0  0  0  0999 V2000
+    1.9253    1.5584    1.4666 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6108    2.3646    0.4496 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5045   -0.1816    1.0071 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4449    1.3290    0.4712 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0149   -0.0305    0.7500 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.7381    1.6302    0.2391 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7536   -0.5255    1.9669 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5776    0.7551    0.2597 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1408    3.0543   -0.0459 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.1592    0.2642    2.7934 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9636   -1.8458    2.1369 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4854    3.0941   -0.6330 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2426    3.8552    1.2711 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3844   -2.8218    1.2042 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7713   -2.3366    3.2621 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2306    4.0676   -0.0813 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4327    4.7977    0.9763 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5042   -3.7243    0.6767 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8801   -3.2442    2.7084 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3762    4.3234   -0.3871 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2496   -4.3493    1.8583 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3306   -5.2641    1.3430 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4888   -5.4020    0.1533 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1178   -5.9257    2.2057 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1379   -6.7893    1.6384 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9293   -7.4534    2.7670 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  2  4  1  0
+  3  5  1  0
+  4  6  1  0
+  5  7  1  1
+  6  8  2  0
+  9  6  1  1
+  7 10  2  0
+  7 11  1  0
+  9 12  1  0
+  9 13  1  0
+ 11 14  1  0
+ 11 15  1  0
+ 12 16  1  0
+ 13 17  1  0
+ 14 18  1  0
+ 15 19  1  0
+ 16 20  2  0
+ 18 21  1  0
+ 21 22  1  0
+ 22 23  2  0
+ 22 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+  4  5  1  0
+ 16 17  1  0
+ 19 21  1  0
+M  END
+>  <Name>  (10) 
+ZINC08880009
+
+>  <Molecule Name>  (10) 
+ZINC08880009
+
+>  <Polar Surface Area>  (10) 
+121.32
+
+>  <Molweight>  (10) 
+383.468
+
+>  <cLogP>  (10) 
+0.0053
+
+>  <cLogS>  (10) 
+-2.143
+
+>  <H-Acceptors>  (10) 
+8
+
+>  <H-Donors>  (10) 
+1
+
+>  <Druglikeness>  (10) 
+3.0025
+
+>  <Mutagenic>  (10) 
+none
+
+>  <Tumorigenic>  (10) 
+none
+
+>  <Reproductive Effective>  (10) 
+none
+
+>  <Irritant>  (10) 
+none
+
+>  <DrugScore>  (10) 
+0.852879599015108
+
+>  <Rotatable Bonds>  (10) 
+5
+
+>  <Aromatic Rings>  (10) 
+0
+
+>  <Num_H_Acceptors_Lipinski>  (10) 
+8
+
+>  <Num_H_Donors_Lipinski>  (10) 
+1
+
+>  <Molecular_Weight>  (10) 
+383.4625
+
+>  <ALogP>  (10) 
+-0.478
+
+>  <Num_RotatableBonds>  (10) 
+5
+
+>  <Molecular_PolarSurfaceArea>  (10) 
+121.32
+
+>  <Num_H_Acceptors>  (10) 
+6
+
+>  <Num_H_Donors>  (10) 
+1
+
+>  <ADMET_Solubility>  (10) 
+-1.234
+
+>  <ADMET_Solubility_Level>  (10) 
+4
+
+>  <ADMET_Unknown_AlogP98>  (10) 
+0
+
+>  <ADMET_BBB>  (10) 
+-1.847
+
+>  <ADMET_BBB_Level>  (10) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (10) 
+-10.8077776265522
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (10) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (10) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (10) 
+11.7326584999116
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (10) 
+0.00520021211413269
+
+>  <ADMET_EXT_Hepatotoxic>  (10) 
+-6.19101465560845
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (10) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (10) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (10) 
+8.95705176944835
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (10) 
+0.478745488225342
+
+>  <ADMET_Absorption_Level>  (10) 
+0
+
+>  <ADMET_EXT_PPB>  (10) 
+-12.9424124419482
+
+>  <ADMET_EXT_PPB#Prediction>  (10) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (10) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (10) 
+15.9724967236798
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (10) 
+1.96672987326015e-09
+
+>  <ADMET_AlogP98>  (10) 
+-0.478
+
+>  <ADMET_PSA_2D>  (10) 
+97.648
+
+$$$$
+ZINC08995147
+     RDKit          3D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+   -0.5184   -2.3344   -6.9282 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6764   -2.5801   -6.8772 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4209   -2.9859   -8.0840 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3849   -2.4854   -5.6658 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7941   -3.2569   -7.9673 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7883   -3.1016   -9.3214 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7180   -2.7587   -5.6318 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6683   -2.0746   -4.4049 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4091   -3.1393   -6.7380 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5134   -3.6404   -9.0947 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5183   -3.4828  -10.4252 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3751   -2.6545   -4.4560 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6091   -0.5705   -4.3279 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8752   -3.7507  -10.3108 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0983    0.0990   -5.2066 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0126    0.0250   -3.2831 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0066    1.4542   -3.2750 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  3  5  2  0
+  3  6  1  0
+  4  7  2  0
+  4  8  1  0
+  5  9  1  0
+  5 10  1  0
+  6 11  2  0
+  7 12  1  0
+  8 13  1  0
+ 10 14  2  0
+ 13 15  2  0
+ 13 16  1  0
+ 16 17  1  0
+  7  9  1  0
+ 11 14  1  0
+M  CHG  1  12  -1
+M  END
+>  <Name>  (11) 
+ZINC08995147
+
+>  <Molecule Name>  (11) 
+ZINC08995147
+
+>  <Polar Surface Area>  (11) 
+78.46
+
+>  <Molweight>  (11) 
+232.214
+
+>  <cLogP>  (11) 
+-0.9809
+
+>  <cLogS>  (11) 
+-3.688
+
+>  <H-Acceptors>  (11) 
+5
+
+>  <H-Donors>  (11) 
+1
+
+>  <Druglikeness>  (11) 
+-3.9021
+
+>  <Mutagenic>  (11) 
+none
+
+>  <Tumorigenic>  (11) 
+none
+
+>  <Reproductive Effective>  (11) 
+none
+
+>  <Irritant>  (11) 
+none
+
+>  <DrugScore>  (11) 
+0.446436669508624
+
+>  <Rotatable Bonds>  (11) 
+3
+
+>  <Aromatic Rings>  (11) 
+1
+
+>  <Num_H_Acceptors_Lipinski>  (11) 
+5
+
+>  <Num_H_Donors_Lipinski>  (11) 
+1
+
+>  <Molecular_Weight>  (11) 
+232.2121
+
+>  <ALogP>  (11) 
+0.799
+
+>  <Num_RotatableBonds>  (11) 
+3
+
+>  <Molecular_PolarSurfaceArea>  (11) 
+78.45
+
+>  <Num_H_Acceptors>  (11) 
+5
+
+>  <Num_H_Donors>  (11) 
+1
+
+>  <ADMET_Solubility>  (11) 
+-2.123
+
+>  <ADMET_Solubility_Level>  (11) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (11) 
+0
+
+>  <ADMET_BBB>  (11) 
+-1.072
+
+>  <ADMET_BBB_Level>  (11) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (11) 
+-4.22842411609655
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (11) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (11) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -496488293: [*]NC(=C([*])[*])[O-]
+Unknown FCFP_2 feature: 260714409: [*]C(=[*])[O-]
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (11) 
+12.1778302007295
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (11) 
+0.00200061610018336
+
+>  <ADMET_EXT_Hepatotoxic>  (11) 
+-4.40171856125222
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (11) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (11) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -496488293: [*]NC(=C([*])[*])[O-]
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (11) 
+11.5973267788648
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (11) 
+0.000782847099552102
+
+>  <ADMET_Absorption_Level>  (11) 
+0
+
+>  <ADMET_EXT_PPB>  (11) 
+-1.22879676925803
+
+>  <ADMET_EXT_PPB#Prediction>  (11) 
+true
+
+>  <ADMET_EXT_PPB_Applicability>  (11) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -496488293: [*]NC(=C([*])[*])[O-]
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (11) 
+10.8917092009395
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (11) 
+0.543382860812851
+
+>  <ADMET_AlogP98>  (11) 
+0.799
+
+>  <ADMET_PSA_2D>  (11) 
+73.642
+
+$$$$
+ZINC12886704
+     RDKit          3D
+
+ 32 36  0  0  1  0  0  0  0  0999 V2000
+   -0.8032    3.3943   -2.7685 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5172    3.5777   -3.2345 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9325    1.7931   -1.9840 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0457    4.5035   -3.8203 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0856    2.4447   -2.7743 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3761    1.5197   -2.1497 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0275    1.0395   -1.3941 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5220    2.2335   -2.9708 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8853    0.4962   -1.7326 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4414    1.4245   -1.5149 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2901    2.8062   -1.7777 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4176    0.7603   -0.7640 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8184    2.4531   -2.3853 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7677    2.5890   -1.9799 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7412    1.1275   -0.8828 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1455    2.8122   -2.4879 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.1673    2.0311   -2.9798 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.6452    3.0148   -1.0494 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1051    2.1502   -1.7415 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.1779    3.6884    0.1728 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.0876    2.8116   -1.2300 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.9079    5.0455    0.2503 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -9.8364    4.1182   -1.0062 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -7.5790    5.8395   -0.9918 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.4141    4.7764    0.3077 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.6430    5.0904   -2.1557 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.3392    5.7766   -2.1095 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4750    6.6327   -0.9537 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.9205    6.3841   -3.2469 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0721    7.3464   -2.0874 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.5338    6.2075   -4.2873 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7899    7.2131   -3.2398 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  2  4  2  0
+  2  5  1  0
+  3  6  1  0
+  3  7  2  0
+  5  8  1  0
+  6  9  2  0
+  7 10  1  0
+  8 11  1  0
+ 10 12  2  0
+ 10 13  1  0
+ 11 14  1  0
+ 12 15  1  0
+ 13 16  2  0
+ 14 17  2  0
+ 14 18  1  0
+ 15 19  2  0
+ 18 20  1  0
+ 18 21  1  0
+ 22 20  1  6
+ 23 21  1  6
+ 22 24  1  0
+ 22 25  1  0
+ 23 26  1  0
+ 24 27  1  0
+ 24 28  2  0
+ 27 29  1  0
+ 28 30  1  0
+ 29 31  2  0
+ 29 32  1  0
+  5  6  1  0
+ 16 19  1  0
+ 23 25  1  0
+ 26 27  1  0
+ 30 32  2  0
+M  END
+>  <Name>  (12) 
+ZINC12886704
+
+>  <Molecule Name>  (12) 
+ZINC12886704
+
+>  <Polar Surface Area>  (12) 
+103.3
+
+>  <Molweight>  (12) 
+449.53
+
+>  <cLogP>  (12) 
+2.3197
+
+>  <cLogS>  (12) 
+-3.597
+
+>  <H-Acceptors>  (12) 
+7
+
+>  <H-Donors>  (12) 
+0
+
+>  <Druglikeness>  (12) 
+4.7271
+
+>  <Mutagenic>  (12) 
+none
+
+>  <Tumorigenic>  (12) 
+none
+
+>  <Reproductive Effective>  (12) 
+none
+
+>  <Irritant>  (12) 
+none
+
+>  <DrugScore>  (12) 
+0.715263507737052
+
+>  <Rotatable Bonds>  (12) 
+4
+
+>  <Aromatic Rings>  (12) 
+1
+
+>  <Num_H_Acceptors_Lipinski>  (12) 
+7
+
+>  <Num_H_Donors_Lipinski>  (12) 
+0
+
+>  <Molecular_Weight>  (12) 
+449.52212
+
+>  <ALogP>  (12) 
+1.54
+
+>  <Num_RotatableBonds>  (12) 
+4
+
+>  <Molecular_PolarSurfaceArea>  (12) 
+103.29
+
+>  <Num_H_Acceptors>  (12) 
+5
+
+>  <Num_H_Donors>  (12) 
+0
+
+>  <ADMET_Solubility>  (12) 
+-3.586
+
+>  <ADMET_Solubility_Level>  (12) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (12) 
+0
+
+>  <ADMET_BBB>  (12) 
+-0.77
+
+>  <ADMET_BBB_Level>  (12) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (12) 
+-8.18609530028961
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (12) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (12) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (12) 
+14.7929213493628
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (12) 
+3.49153562052996e-06
+
+>  <ADMET_EXT_Hepatotoxic>  (12) 
+-7.31222171530135
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (12) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (12) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (12) 
+11.5426193032528
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (12) 
+0.000959266091526729
+
+>  <ADMET_Absorption_Level>  (12) 
+0
+
+>  <ADMET_EXT_PPB>  (12) 
+-0.996698498804261
+
+>  <ADMET_EXT_PPB#Prediction>  (12) 
+true
+
+>  <ADMET_EXT_PPB_Applicability>  (12) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (12) 
+14.1513577422718
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (12) 
+5.18922070832816e-05
+
+>  <ADMET_AlogP98>  (12) 
+2.065
+
+>  <ADMET_PSA_2D>  (12) 
+79.26
+
+$$$$
+ZINC12888308
+     RDKit          3D
+
+ 33 35  0  0  1  0  0  0  0  0999 V2000
+   -1.3740    6.5148    8.3551 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2703    5.9911    6.8287 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4165    4.9583    8.5926 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.0476    4.4602    6.8483 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -3.7593    6.3301    6.9225 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6449    6.6206    5.5825 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4189    3.9786    8.0797 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2656    4.6532   10.0546 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1729    4.0844    5.6804 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4306    2.9588    8.9644 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8769    3.4116   10.2552 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3114    5.3188   11.1113 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0117    3.8880    5.8488 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7072    3.9668    4.4488 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8356    1.8366    8.7324 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8771    2.8453   11.5304 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3020    4.7528   12.3750 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8569    3.6015    3.3134 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.2882    3.5188   12.5810 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4754    4.1128    2.0379 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7272    2.0787    3.2428 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5233    4.7224    2.0739 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8639    3.8928    0.8574 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0124    1.5721    4.4824 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4652    4.3898   -0.3825 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0332    0.0423    4.4740 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4477    2.1016    4.4718 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5770    4.0083   -1.5683 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2048    4.5275   -2.8633 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3753    4.1711   -3.9708 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8742    4.6111   -5.2356 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3269    6.0066   -5.5421 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4270    3.6366   -6.3268 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  3  1  1  1
+  2  4  1  0
+  2  5  1  0
+  2  6  1  0
+  3  7  1  0
+  3  8  1  0
+  4  9  1  6
+  7 10  1  0
+  8 11  2  0
+  8 12  1  0
+  9 13  2  0
+  9 14  1  0
+ 10 15  2  0
+ 11 16  1  0
+ 12 17  2  0
+ 14 18  1  0
+ 16 19  2  0
+ 18 20  1  0
+ 18 21  1  6
+ 20 22  2  0
+ 20 23  1  0
+ 21 24  1  0
+ 23 25  1  0
+ 24 26  1  0
+ 24 27  1  0
+ 25 28  1  0
+ 28 29  1  0
+ 29 30  1  0
+ 30 31  1  0
+ 31 32  1  0
+ 31 33  1  0
+  4  7  1  0
+ 10 11  1  0
+ 17 19  1  0
+M  END
+>  <Name>  (13) 
+ZINC12888308
+
+>  <Molecule Name>  (13) 
+ZINC12888308
+
+>  <Polar Surface Area>  (13) 
+113.04
+
+>  <Molweight>  (13) 
+475.652
+
+>  <cLogP>  (13) 
+3.4444
+
+>  <cLogS>  (13) 
+-3.922
+
+>  <H-Acceptors>  (13) 
+7
+
+>  <H-Donors>  (13) 
+2
+
+>  <Druglikeness>  (13) 
+7.5561
+
+>  <Mutagenic>  (13) 
+none
+
+>  <Tumorigenic>  (13) 
+none
+
+>  <Reproductive Effective>  (13) 
+none
+
+>  <Irritant>  (13) 
+none
+
+>  <DrugScore>  (13) 
+0.626473136985358
+
+>  <Rotatable Bonds>  (13) 
+10
+
+>  <Aromatic Rings>  (13) 
+1
+
+>  <Num_H_Acceptors_Lipinski>  (13) 
+7
+
+>  <Num_H_Donors_Lipinski>  (13) 
+2
+
+>  <Molecular_Weight>  (13) 
+475.64398
+
+>  <ALogP>  (13) 
+2.84
+
+>  <Num_RotatableBonds>  (13) 
+10
+
+>  <Molecular_PolarSurfaceArea>  (13) 
+113.04
+
+>  <Num_H_Acceptors>  (13) 
+5
+
+>  <Num_H_Donors>  (13) 
+2
+
+>  <ADMET_Solubility>  (13) 
+-3.864
+
+>  <ADMET_Solubility_Level>  (13) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (13) 
+0
+
+>  <ADMET_BBB>  (13) 
+-0.697
+
+>  <ADMET_BBB_Level>  (13) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (13) 
+-6.79786717488502
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (13) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (13) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (13) 
+16.697529282134
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (13) 
+2.30399283885304e-08
+
+>  <ADMET_EXT_Hepatotoxic>  (13) 
+-7.50241840407789
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (13) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (13) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (13) 
+11.9147874553762
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (13) 
+0.000228439245754337
+
+>  <ADMET_Absorption_Level>  (13) 
+0
+
+>  <ADMET_EXT_PPB>  (13) 
+-10.5817791621433
+
+>  <ADMET_EXT_PPB#Prediction>  (13) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (13) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (13) 
+18.3878056376731
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (13) 
+3.6938493349851e-17
+
+>  <ADMET_AlogP98>  (13) 
+2.84
+
+>  <ADMET_PSA_2D>  (13) 
+89.805
+
+$$$$
+ZINC12891059
+     RDKit          3D
+
+ 31 33  0  0  1  0  0  0  0  0999 V2000
+    3.0117    2.6571    4.8751 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5277    2.7590    3.7789 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6935    3.4212    3.6419 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9337    2.2100    2.7010 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4133    3.9476    4.8064 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.2926    3.6504    2.3168 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7257    1.3973    2.8649 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.8926    5.3456    4.5231 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4922    3.9665    5.9990 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3128    5.1573    2.0649 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1153   -0.0207    3.1928 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9178    1.4171    1.5658 C   0  0  2  0  0  0  0  0  0  0  0  0
+    5.8570    5.8941    3.2607 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3930    6.0851    5.5869 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2990    4.6619    5.9400 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8431    3.2929    7.1540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2820   -0.3215    3.2807 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1659   -0.9495    3.3874 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4024    0.6727    1.7751 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7188    0.7326    0.4569 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3369    7.1831    3.0574 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8670    7.3687    5.3889 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4520    4.6757    7.0326 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9982    3.3103    8.2482 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2638    0.7987    0.5171 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8405    7.9212    4.1117 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3561    8.0867    6.4353 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8027    4.0017    8.1876 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3088    9.1807    3.9022 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3508    7.4529    7.7161 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2494    9.6806    2.5649 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  3  5  1  0
+  3  6  1  0
+  7  4  1  6
+  5  8  1  0
+  5  9  1  1
+  6 10  1  0
+  7 11  1  0
+  7 12  1  0
+  8 13  2  0
+  8 14  1  0
+  9 15  2  0
+  9 16  1  0
+ 11 17  2  0
+ 11 18  1  0
+ 12 19  1  0
+ 12 20  1  6
+ 13 21  1  0
+ 14 22  2  0
+ 15 23  1  0
+ 16 24  2  0
+ 19 25  1  0
+ 21 26  2  0
+ 22 27  1  0
+ 23 28  2  0
+ 26 29  1  0
+ 27 30  1  0
+ 29 31  1  0
+ 10 13  1  0
+ 22 26  1  0
+ 24 28  1  0
+M  CHG  1  18  -1
+M  END
+>  <Name>  (14) 
+ZINC12891059
+
+>  <Molecule Name>  (14) 
+ZINC12891059
+
+>  <Polar Surface Area>  (14) 
+90.93
+
+>  <Molweight>  (14) 
+425.503
+
+>  <cLogP>  (14) 
+1.6926
+
+>  <cLogS>  (14) 
+-4.089
+
+>  <H-Acceptors>  (14) 
+7
+
+>  <H-Donors>  (14) 
+1
+
+>  <Druglikeness>  (14) 
+5.7727
+
+>  <Mutagenic>  (14) 
+none
+
+>  <Tumorigenic>  (14) 
+none
+
+>  <Reproductive Effective>  (14) 
+none
+
+>  <Irritant>  (14) 
+none
+
+>  <DrugScore>  (14) 
+0.718222945271596
+
+>  <Rotatable Bonds>  (14) 
+7
+
+>  <Aromatic Rings>  (14) 
+2
+
+>  <Num_H_Acceptors_Lipinski>  (14) 
+7
+
+>  <Num_H_Donors_Lipinski>  (14) 
+1
+
+>  <Molecular_Weight>  (14) 
+425.49746
+
+>  <ALogP>  (14) 
+2.604
+
+>  <Num_RotatableBonds>  (14) 
+7
+
+>  <Molecular_PolarSurfaceArea>  (14) 
+90.93
+
+>  <Num_H_Acceptors>  (14) 
+5
+
+>  <Num_H_Donors>  (14) 
+1
+
+>  <ADMET_Solubility>  (14) 
+-3.92
+
+>  <ADMET_Solubility_Level>  (14) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (14) 
+0
+
+>  <ADMET_BBB>  (14) 
+-0.709
+
+>  <ADMET_BBB_Level>  (14) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (14) 
+-8.48884989166902
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (14) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (14) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -367494947: [*]CC(=O)[O-]
+Unknown FCFP_2 feature: 260714409: [*]C(=[*])[O-]
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (14) 
+15.6461164521194
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (14) 
+3.75496898652979e-07
+
+>  <ADMET_EXT_Hepatotoxic>  (14) 
+-4.58259366842659
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (14) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (14) 
+OPS PC11 out of range. Value: 4.287. Training min, max, SD, explained variance: -4.0074, 4.0205, 1.463, 0.0267.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (14) 
+10.886722354775
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (14) 
+0.00883050237699412
+
+>  <ADMET_Absorption_Level>  (14) 
+0
+
+>  <ADMET_EXT_PPB>  (14) 
+-1.09586193403489
+
+>  <ADMET_EXT_PPB#Prediction>  (14) 
+true
+
+>  <ADMET_EXT_PPB_Applicability>  (14) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (14) 
+14.8774565546795
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (14) 
+1.31102175443595e-06
+
+>  <ADMET_AlogP98>  (14) 
+2.604
+
+>  <ADMET_PSA_2D>  (14) 
+85.925
+
+$$$$
+ZINC20761216
+     RDKit          3D
+
+ 31 33  0  0  0  0  0  0  0  0999 V2000
+    2.2628    3.6571    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2059    3.0528    0.0065 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1700    1.7001    0.0001 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0790    3.7640    0.0221 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0175    1.0387    0.0081 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4231    0.9414   -0.0156 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2640    2.9934    0.0293 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1487    5.1577    0.0292 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1682    1.6394    0.0169 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8391    0.6888   -1.4417 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5016    3.6371    0.0444 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3812    5.7773    0.0436 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1561    1.1021   -2.3549 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9702    0.0038   -1.7024 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5559    5.0174    0.0509 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4548    7.1355    0.0511 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3746   -0.2415   -3.0889 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7615    5.6430    0.0650 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2186    7.8524    0.0436 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6832   -1.0338   -3.1056 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9238    4.8117    0.0719 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0993   -1.2863   -4.5317 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9102   -0.3770   -5.1849 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6736   -2.4297   -5.1822 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2937   -0.6077   -6.4961 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0480   -2.6630   -6.4923 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0911    0.2859   -7.1401 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8607   -1.7556   -7.1526 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4964    1.4419   -6.4042 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2338   -1.9864   -8.4398 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7517   -3.1850   -9.0501 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  3  5  1  0
+  3  6  1  0
+  4  7  2  0
+  4  8  1  0
+  5  9  2  0
+  6 10  1  0
+  7 11  1  0
+  8 12  2  0
+ 10 13  2  0
+ 10 14  1  0
+ 11 15  2  0
+ 12 16  1  0
+ 14 17  1  0
+ 15 18  1  0
+ 16 19  1  0
+ 17 20  1  0
+ 18 21  1  0
+ 20 22  1  0
+ 22 23  2  0
+ 22 24  1  0
+ 23 25  1  0
+ 24 26  2  0
+ 25 27  1  0
+ 25 28  2  0
+ 27 29  1  0
+ 28 30  1  0
+ 30 31  1  0
+  7  9  1  0
+ 12 15  1  0
+ 26 28  1  0
+M  END
+>  <Name>  (15) 
+ZINC20761216
+
+>  <Molecule Name>  (15) 
+ZINC20761216
+
+>  <Polar Surface Area>  (15) 
+98.69
+
+>  <Molweight>  (15) 
+427.456
+
+>  <cLogP>  (15) 
+1.4658
+
+>  <cLogS>  (15) 
+-3.116
+
+>  <H-Acceptors>  (15) 
+9
+
+>  <H-Donors>  (15) 
+1
+
+>  <Druglikeness>  (15) 
+4.3206
+
+>  <Mutagenic>  (15) 
+none
+
+>  <Tumorigenic>  (15) 
+none
+
+>  <Reproductive Effective>  (15) 
+none
+
+>  <Irritant>  (15) 
+none
+
+>  <DrugScore>  (15) 
+0.779761354645731
+
+>  <Rotatable Bonds>  (15) 
+9
+
+>  <Aromatic Rings>  (15) 
+2
+
+>  <Num_H_Acceptors_Lipinski>  (15) 
+9
+
+>  <Num_H_Donors_Lipinski>  (15) 
+1
+
+>  <Molecular_Weight>  (15) 
+427.4504
+
+>  <ALogP>  (15) 
+1.855
+
+>  <Num_RotatableBonds>  (15) 
+9
+
+>  <Molecular_PolarSurfaceArea>  (15) 
+98.69
+
+>  <Num_H_Acceptors>  (15) 
+7
+
+>  <Num_H_Donors>  (15) 
+1
+
+>  <ADMET_Solubility>  (15) 
+-2.876
+
+>  <ADMET_Solubility_Level>  (15) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (15) 
+0
+
+>  <ADMET_BBB>  (15) 
+-1.128
+
+>  <ADMET_BBB_Level>  (15) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (15) 
+-9.07901414437143
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (15) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (15) 
+OPS PC6 out of range. Value: 4.2987. Training min, max, SD, explained variance: -5.674, 3.9834, 1.993, 0.0519.
+Unknown FCFP_2 feature: -2100279446: [*]\N=C/N([*])[*]
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (15) 
+16.4628693515225
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (15) 
+4.30628593051614e-08
+
+>  <ADMET_EXT_Hepatotoxic>  (15) 
+-4.70368741761006
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (15) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (15) 
+OPS PC11 out of range. Value: 4.1951. Training min, max, SD, explained variance: -4.0074, 4.0205, 1.463, 0.0267.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (15) 
+12.0088903301271
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (15) 
+0.000155930512252159
+
+>  <ADMET_Absorption_Level>  (15) 
+0
+
+>  <ADMET_EXT_PPB>  (15) 
+2.42552471668453
+
+>  <ADMET_EXT_PPB#Prediction>  (15) 
+true
+
+>  <ADMET_EXT_PPB_Applicability>  (15) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (15) 
+11.5297688045418
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (15) 
+0.236314798985625
+
+>  <ADMET_AlogP98>  (15) 
+1.855
+
+>  <ADMET_PSA_2D>  (15) 
+97.807
+
+$$$$
+ZINC32123762
+     RDKit          3D
+
+ 26 28  0  0  1  0  0  0  0  0999 V2000
+   -3.5716   -7.7644    0.5221 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9656   -6.6142    0.5495 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7691   -5.9105    1.6695 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6258   -6.0828   -0.6477 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2485   -4.5318    1.7809 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -5.7450   -5.2424   -0.5942 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0910   -6.4344   -1.8972 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7454   -4.5250    1.6455 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6293   -3.6819    0.6696 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3431   -4.8637    0.5648 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2948   -4.7579   -1.7913 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6496   -5.9515   -3.0571 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4888   -4.1481    2.7045 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1389   -3.5953    0.8750 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7502   -5.1098   -3.0039 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6231   -4.1577    1.8174 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3796   -2.8926    0.0115 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0690   -2.8084    0.2111 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6790   -1.9713   -0.8832 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6238   -0.5871   -0.8112 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2886   -2.5819   -1.9622 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0200    0.0158    0.2463 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1910    0.1807   -1.8179 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8534   -1.8146   -2.9637 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0005    1.4448    0.2543 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8043   -0.4343   -2.8916 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  3  5  1  0
+  4  6  2  0
+  4  7  1  0
+  5  8  1  0
+  5  9  1  6
+  6 10  1  0
+  6 11  1  0
+  7 12  2  0
+  8 13  1  0
+  9 14  1  0
+ 11 15  2  0
+ 14 16  2  0
+ 14 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  2  0
+ 19 21  1  0
+ 20 22  1  0
+ 20 23  1  0
+ 21 24  2  0
+ 22 25  1  0
+ 23 26  2  0
+  8 10  2  0
+ 12 15  1  0
+ 24 26  1  0
+M  END
+>  <Name>  (16) 
+ZINC32123762
+
+>  <Molecule Name>  (16) 
+ZINC32123762
+
+>  <Polar Surface Area>  (16) 
+100.02
+
+>  <Molweight>  (16) 
+353.377
+
+>  <cLogP>  (16) 
+0.7588
+
+>  <cLogS>  (16) 
+-2.984
+
+>  <H-Acceptors>  (16) 
+7
+
+>  <H-Donors>  (16) 
+3
+
+>  <Druglikeness>  (16) 
+1.999
+
+>  <Mutagenic>  (16) 
+none
+
+>  <Tumorigenic>  (16) 
+none
+
+>  <Reproductive Effective>  (16) 
+none
+
+>  <Irritant>  (16) 
+none
+
+>  <DrugScore>  (16) 
+0.814278036850167
+
+>  <Rotatable Bonds>  (16) 
+5
+
+>  <Aromatic Rings>  (16) 
+2
+
+>  <Num_H_Acceptors_Lipinski>  (16) 
+7
+
+>  <Num_H_Donors_Lipinski>  (16) 
+3
+
+>  <Molecular_Weight>  (16) 
+353.37186
+
+>  <ALogP>  (16) 
+1.537
+
+>  <Num_RotatableBonds>  (16) 
+5
+
+>  <Molecular_PolarSurfaceArea>  (16) 
+100.02
+
+>  <Num_H_Acceptors>  (16) 
+5
+
+>  <Num_H_Donors>  (16) 
+3
+
+>  <ADMET_Solubility>  (16) 
+-2.474
+
+>  <ADMET_Solubility_Level>  (16) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (16) 
+0
+
+>  <ADMET_BBB>  (16) 
+-1.396
+
+>  <ADMET_BBB_Level>  (16) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (16) 
+-6.61728468930918
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (16) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (16) 
+OPS PC6 out of range. Value: 4.3746. Training min, max, SD, explained variance: -5.674, 3.9834, 1.993, 0.0519.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (16) 
+14.5472737160627
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (16) 
+6.57424837690923e-06
+
+>  <ADMET_EXT_Hepatotoxic>  (16) 
+-4.55523521263036
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (16) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (16) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (16) 
+11.965557867465
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (16) 
+0.00018608132369591
+
+>  <ADMET_Absorption_Level>  (16) 
+0
+
+>  <ADMET_EXT_PPB>  (16) 
+-1.39101924609775
+
+>  <ADMET_EXT_PPB#Prediction>  (16) 
+true
+
+>  <ADMET_EXT_PPB_Applicability>  (16) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (16) 
+14.5695344306312
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (16) 
+6.65659820683636e-06
+
+>  <ADMET_AlogP98>  (16) 
+1.167
+
+>  <ADMET_PSA_2D>  (16) 
+101.29
+
+$$$$
+ZINC40312668
+     RDKit          3D
+
+ 31 34  0  0  1  0  0  0  0  0999 V2000
+    4.8772   -0.9567    3.3077 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6619   -1.8307    4.1372 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5967   -2.3664    4.7184 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2852   -2.2359    4.4347 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8513   -3.2543    5.3895 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1250   -1.7332    3.8698 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5649   -4.0736    6.2216 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4856   -3.2812    5.3336 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0680   -2.3730    4.4163 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9446   -4.6570    7.2060 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6855   -4.2170    6.2069 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.2727   -2.1283    4.0862 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6478   -5.4878    8.0046 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4850   -4.4572    7.4921 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4671   -5.5237    5.4887 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7926   -0.8456    4.1977 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0808   -3.1685    3.6473 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7056   -6.2341    5.6847 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4399   -6.0161    4.6385 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1128   -0.6052    3.8722 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4022   -2.9280    3.3271 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6612   -5.7538    6.5250 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9070   -7.4375    5.0149 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2426   -7.2140    3.9781 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9197   -1.6449    3.4333 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7292   -5.0092    5.9355 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0594   -8.1357    5.1994 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0714   -7.9252    4.1645 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2194   -1.4076    3.1125 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1945   -9.3651    4.4841 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6854   -0.0631    3.2453 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  4  6  2  0
+  5  7  1  0
+  5  8  2  0
+  6  9  1  0
+  7 10  2  0
+  8 11  1  0
+  9 12  1  0
+ 10 13  1  0
+ 10 14  1  0
+ 11 15  1  6
+ 12 16  2  0
+ 12 17  1  0
+ 15 18  2  0
+ 15 19  1  0
+ 16 20  1  0
+ 17 21  2  0
+ 18 22  1  0
+ 18 23  1  0
+ 19 24  2  0
+ 20 25  2  0
+ 22 26  1  0
+ 23 27  1  0
+ 23 28  2  0
+ 25 29  1  0
+ 27 30  1  0
+ 29 31  1  0
+  8  9  1  0
+ 11 14  1  0
+ 21 25  1  0
+ 24 28  1  0
+M  CHG  1   3  -1
+M  END
+>  <Name>  (17) 
+ZINC40312668
+
+>  <Molecule Name>  (17) 
+ZINC40312668
+
+>  <Polar Surface Area>  (17) 
+105.34
+
+>  <Molweight>  (17) 
+421.428
+
+>  <cLogP>  (17) 
+-0.4854
+
+>  <cLogS>  (17) 
+-5.549
+
+>  <H-Acceptors>  (17) 
+8
+
+>  <H-Donors>  (17) 
+1
+
+>  <Druglikeness>  (17) 
+2.4824
+
+>  <Mutagenic>  (17) 
+none
+
+>  <Tumorigenic>  (17) 
+none
+
+>  <Reproductive Effective>  (17) 
+none
+
+>  <Irritant>  (17) 
+none
+
+>  <DrugScore>  (17) 
+0.563504251242091
+
+>  <Rotatable Bonds>  (17) 
+6
+
+>  <Aromatic Rings>  (17) 
+3
+
+>  <Num_H_Acceptors_Lipinski>  (17) 
+8
+
+>  <Num_H_Donors_Lipinski>  (17) 
+1
+
+>  <Molecular_Weight>  (17) 
+421.42264
+
+>  <ALogP>  (17) 
+2.305
+
+>  <Num_RotatableBonds>  (17) 
+6
+
+>  <Molecular_PolarSurfaceArea>  (17) 
+105.34
+
+>  <Num_H_Acceptors>  (17) 
+7
+
+>  <Num_H_Donors>  (17) 
+1
+
+>  <ADMET_Solubility>  (17) 
+-3.458
+
+>  <ADMET_Solubility_Level>  (17) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (17) 
+0
+
+>  <ADMET_BBB>  (17) 
+-1.12
+
+>  <ADMET_BBB_Level>  (17) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (17) 
+-3.58620357836484
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (17) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (17) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -1549282195: [*]:[c](:[*])C(=O)[O-]
+Unknown FCFP_2 feature: 260714409: [*]C(=[*])[O-]
+Unknown FCFP_2 feature: 1922787335: [*][c]1:[*]:[*]:[c]([*]):n:1[c](:[*]):[*]
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (17) 
+15.2880488668981
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (17) 
+9.6223556657152e-07
+
+>  <ADMET_EXT_Hepatotoxic>  (17) 
+-4.63847464162161
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (17) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (17) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -1549282195: [*]:[c](:[*])C(=O)[O-]
+Unknown FCFP_2 feature: 1922787335: [*][c]1:[*]:[*]:[c]([*]):n:1[c](:[*]):[*]
+Unknown FCFP_2 feature: -1732563065: [*]:n(:[*])[c](:c:[*]):c:[*]
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (17) 
+16.920925543328
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (17) 
+1.11429766663402e-16
+
+>  <ADMET_Absorption_Level>  (17) 
+0
+
+>  <ADMET_EXT_PPB>  (17) 
+3.64175539453097
+
+>  <ADMET_EXT_PPB#Prediction>  (17) 
+true
+
+>  <ADMET_EXT_PPB_Applicability>  (17) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -1549282195: [*]:[c](:[*])C(=O)[O-]
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (17) 
+14.4226385958504
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (17) 
+1.39766343820684e-05
+
+>  <ADMET_AlogP98>  (17) 
+1.936
+
+>  <ADMET_PSA_2D>  (17) 
+98.878
+
+$$$$
+ZINC40312735
+     RDKit          3D
+
+ 26 29  0  0  1  0  0  0  0  0999 V2000
+   -1.5557   -5.0389   -0.9149 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0001   -4.1568   -1.9362 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9808   -6.3066   -1.2002 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8586   -5.3204    0.0673 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3684   -4.1503    0.0362 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6580   -4.1975    0.5636 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3973   -2.7642    0.0512 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5857   -4.8417    0.7632 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9843   -4.7211    1.1183 C   0  0  1  0  0  0  0  0  0  0  0  0
+    0.5275   -2.0638    0.7963 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4544   -2.0603   -0.7605 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8215   -6.1781    0.9110 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5223   -4.1391    1.5139 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7431   -5.5131    2.2872 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8832   -3.5363    1.5327 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4902   -2.7519    1.5277 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5284   -0.5583    0.8509 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5898   -0.6098   -0.2965 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1607   -6.2774    1.4296 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3476   -5.0345    2.1322 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3805   -4.9094    3.4266 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5360   -4.0595    2.8411 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4049   -2.0613    2.2597 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2494   -0.0036   -0.2611 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0588   -1.7596    3.6129 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3358    1.4595   -0.1650 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  1  3  2  0
+  1  4  1  0
+  1  5  1  0
+  4  6  1  0
+  5  7  1  0
+  5  8  2  0
+  9  6  1  1
+  7 10  2  0
+  7 11  1  0
+  8 12  1  0
+  8 13  1  0
+  9 14  1  0
+  9 15  1  0
+ 10 16  1  0
+ 10 17  1  0
+ 11 18  1  0
+ 12 19  1  0
+ 13 20  1  0
+ 14 21  1  0
+ 15 22  1  0
+ 16 23  1  0
+ 17 24  1  0
+ 23 25  1  0
+ 24 26  1  0
+ 13 16  2  0
+ 18 24  1  0
+ 19 20  1  0
+ 21 22  1  0
+M  END
+>  <Name>  (18) 
+ZINC40312735
+
+>  <Molecule Name>  (18) 
+ZINC40312735
+
+>  <Polar Surface Area>  (18) 
+94.71
+
+>  <Molweight>  (18) 
+384.452
+
+>  <cLogP>  (18) 
+0.8449
+
+>  <cLogS>  (18) 
+-2.446
+
+>  <H-Acceptors>  (18) 
+8
+
+>  <H-Donors>  (18) 
+1
+
+>  <Druglikeness>  (18) 
+3.6545
+
+>  <Mutagenic>  (18) 
+high
+
+>  <Tumorigenic>  (18) 
+none
+
+>  <Reproductive Effective>  (18) 
+none
+
+>  <Irritant>  (18) 
+none
+
+>  <DrugScore>  (18) 
+0.509997609056246
+
+>  <Rotatable Bonds>  (18) 
+4
+
+>  <Aromatic Rings>  (18) 
+1
+
+>  <Num_H_Acceptors_Lipinski>  (18) 
+8
+
+>  <Num_H_Donors_Lipinski>  (18) 
+1
+
+>  <Molecular_Weight>  (18) 
+384.44726
+
+>  <ALogP>  (18) 
+0.999
+
+>  <Num_RotatableBonds>  (18) 
+5
+
+>  <Molecular_PolarSurfaceArea>  (18) 
+94.71
+
+>  <Num_H_Acceptors>  (18) 
+7
+
+>  <Num_H_Donors>  (18) 
+1
+
+>  <ADMET_Solubility>  (18) 
+-3.243
+
+>  <ADMET_Solubility_Level>  (18) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (18) 
+0
+
+>  <ADMET_BBB>  (18) 
+-1.214
+
+>  <ADMET_BBB_Level>  (18) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (18) 
+-7.74526189822704
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (18) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (18) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (18) 
+21.7390926096086
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (18) 
+3.90704316903129e-14
+
+>  <ADMET_EXT_Hepatotoxic>  (18) 
+-4.61186235522666
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (18) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (18) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (18) 
+12.8641279842074
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (18) 
+3.4896012221186e-06
+
+>  <ADMET_Absorption_Level>  (18) 
+0
+
+>  <ADMET_EXT_PPB>  (18) 
+0.114285871166181
+
+>  <ADMET_EXT_PPB#Prediction>  (18) 
+true
+
+>  <ADMET_EXT_PPB_Applicability>  (18) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (18) 
+14.6426327221583
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (18) 
+4.5648760242978e-06
+
+>  <ADMET_AlogP98>  (18) 
+0.999
+
+>  <ADMET_PSA_2D>  (18) 
+86.484
+
+$$$$
+ZINC40313093
+     RDKit          3D
+
+ 26 28  0  0  1  0  0  0  0  0999 V2000
+   -0.6088   -5.2274   15.0367 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3429   -5.5516   14.3475 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4426   -5.0712   14.5623 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1599   -6.5464   13.2306 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.1227   -6.2641   12.1630 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3911   -7.9613   13.7648 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8326   -5.3463   11.2195 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0888   -8.9632   12.6804 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2250   -4.7539   11.2544 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8229   -5.0559   10.1213 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1908   -9.4676   12.5427 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0900   -9.3735   11.8203 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2767   -4.0293    9.2301 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4680  -10.3865   11.5480 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8137  -10.2957   10.8284 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3688   -2.6711    9.4376 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5855   -4.2776    8.0744 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4656  -10.8007   10.6912 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7175   -2.0422    8.3623 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9407   -1.8935   10.4406 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2266   -3.1193    7.4990 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6583   -0.6446    8.3023 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8704   -0.5193   10.3722 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0347   -0.0302    7.2630 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2335    0.1058    9.3099 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0152    1.3985    7.2709 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  4  6  1  1
+  5  7  1  0
+  6  8  1  0
+  7  9  2  0
+  7 10  1  0
+  8 11  2  0
+  8 12  1  0
+ 10 13  1  0
+ 11 14  1  0
+ 12 15  2  0
+ 13 16  1  0
+ 13 17  1  0
+ 14 18  2  0
+ 16 19  2  0
+ 16 20  1  0
+ 17 21  2  0
+ 19 22  1  0
+ 20 23  2  0
+ 22 24  1  0
+ 22 25  2  0
+ 24 26  1  0
+ 15 18  1  0
+ 19 21  1  0
+ 23 25  1  0
+M  CHG  1   3  -1
+M  END
+>  <Name>  (19) 
+ZINC40313093
+
+>  <Molecule Name>  (19) 
+ZINC40313093
+
+>  <Polar Surface Area>  (19) 
+83.39
+
+>  <Molweight>  (19) 
+351.381
+
+>  <cLogP>  (19) 
+-0.4496
+
+>  <cLogS>  (19) 
+-2.582
+
+>  <H-Acceptors>  (19) 
+6
+
+>  <H-Donors>  (19) 
+1
+
+>  <Druglikeness>  (19) 
+5.3759
+
+>  <Mutagenic>  (19) 
+none
+
+>  <Tumorigenic>  (19) 
+low
+
+>  <Reproductive Effective>  (19) 
+none
+
+>  <Irritant>  (19) 
+none
+
+>  <DrugScore>  (19) 
+0.708917959214008
+
+>  <Rotatable Bonds>  (19) 
+7
+
+>  <Aromatic Rings>  (19) 
+3
+
+>  <Num_H_Acceptors_Lipinski>  (19) 
+6
+
+>  <Num_H_Donors_Lipinski>  (19) 
+1
+
+>  <Molecular_Weight>  (19) 
+351.37586
+
+>  <ALogP>  (19) 
+1.42
+
+>  <Num_RotatableBonds>  (19) 
+7
+
+>  <Molecular_PolarSurfaceArea>  (19) 
+83.39
+
+>  <Num_H_Acceptors>  (19) 
+4
+
+>  <Num_H_Donors>  (19) 
+1
+
+>  <ADMET_Solubility>  (19) 
+-2.886
+
+>  <ADMET_Solubility_Level>  (19) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (19) 
+0
+
+>  <ADMET_BBB>  (19) 
+-0.965
+
+>  <ADMET_BBB_Level>  (19) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (19) 
+-3.98502395039635
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (19) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (19) 
+OPS PC6 out of range. Value: 4.716. Training min, max, SD, explained variance: -5.674, 3.9834, 1.993, 0.0519.
+Unknown FCFP_2 feature: -367494947: [*]CC(=O)[O-]
+Unknown FCFP_2 feature: 260714409: [*]C(=[*])[O-]
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (19) 
+16.5174293450262
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (19) 
+3.7238199996508e-08
+
+>  <ADMET_EXT_Hepatotoxic>  (19) 
+-4.49940601365065
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (19) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (19) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (19) 
+15.9607688456493
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (19) 
+6.93777035708429e-14
+
+>  <ADMET_Absorption_Level>  (19) 
+0
+
+>  <ADMET_EXT_PPB>  (19) 
+-6.44999652301553
+
+>  <ADMET_EXT_PPB#Prediction>  (19) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (19) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (19) 
+15.4324745945965
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (19) 
+5.56793824999845e-08
+
+>  <ADMET_AlogP98>  (19) 
+1.42
+
+>  <ADMET_PSA_2D>  (19) 
+78.99
+
+$$$$
+ZINC59875600
+     RDKit          3D
+
+ 22 24  0  0  1  0  0  0  0  0999 V2000
+    0.0000   -2.4175   -1.2082 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0032   -2.0534    0.4349 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0265   -0.7443   -1.8314 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0097   -0.7379    0.4506 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0203   -2.9298    1.5138 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0303   -0.0425   -0.6712 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0378   -4.2605    1.3008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0510    1.4644   -0.6628 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0382   -4.6931    0.1679 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0565   -5.2107    2.4705 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0741   -6.6517    1.9567 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0930   -7.6164    3.1442 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1106   -9.0575    2.6303 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1295  -10.0222    3.8179 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.7483   -9.9530    4.7018 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1042  -11.4898    3.3401 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7900  -11.6962    5.2753 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6536  -11.5611    1.9770 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0175  -12.4160    4.1488 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.6997  -12.3853    1.9626 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9837  -12.9179    3.1592 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3410  -12.6292    0.9589 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  2  4  2  0
+  2  5  1  0
+  3  6  2  0
+  5  7  1  0
+  6  8  1  0
+  7  9  2  0
+  7 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 14 13  1  6
+ 14 15  1  0
+ 14 16  1  0
+ 15 17  1  0
+ 16 18  1  6
+ 16 19  1  0
+ 18 20  1  0
+ 19 21  1  0
+ 20 22  2  0
+  4  6  1  0
+ 19 17  1  1
+ 20 21  1  0
+M  END
+>  <Name>  (20) 
+ZINC59875600
+
+>  <Molecule Name>  (20) 
+ZINC59875600
+
+>  <Polar Surface Area>  (20) 
+136.66
+
+>  <Molweight>  (20) 
+340.471
+
+>  <cLogP>  (20) 
+2.2906
+
+>  <cLogS>  (20) 
+-4.036
+
+>  <H-Acceptors>  (20) 
+6
+
+>  <H-Donors>  (20) 
+3
+
+>  <Druglikeness>  (20) 
+-10.563
+
+>  <Mutagenic>  (20) 
+high
+
+>  <Tumorigenic>  (20) 
+high
+
+>  <Reproductive Effective>  (20) 
+none
+
+>  <Irritant>  (20) 
+none
+
+>  <DrugScore>  (20) 
+0.140657275697214
+
+>  <Rotatable Bonds>  (20) 
+6
+
+>  <Aromatic Rings>  (20) 
+1
+
+>  <Num_H_Acceptors_Lipinski>  (20) 
+6
+
+>  <Num_H_Donors_Lipinski>  (20) 
+3
+
+>  <Molecular_Weight>  (20) 
+340.4642
+
+>  <ALogP>  (20) 
+1.104
+
+>  <Num_RotatableBonds>  (20) 
+6
+
+>  <Molecular_PolarSurfaceArea>  (20) 
+136.66
+
+>  <Num_H_Acceptors>  (20) 
+4
+
+>  <Num_H_Donors>  (20) 
+3
+
+>  <ADMET_Solubility>  (20) 
+-2.898
+
+>  <ADMET_Solubility_Level>  (20) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (20) 
+0
+
+>  <ADMET_BBB>  (20) 
+-1.087
+
+>  <ADMET_BBB_Level>  (20) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (20) 
+-6.64256771181075
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (20) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (20) 
+OPS PC12 out of range. Value: 3.6941. Training min, max, SD, explained variance: -3.0858, 3.4931, 1.373, 0.0246.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (20) 
+15.8520095689418
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (20) 
+2.1799598889983e-07
+
+>  <ADMET_EXT_Hepatotoxic>  (20) 
+-11.3396685651412
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (20) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (20) 
+OPS PC23 out of range. Value: 2.8304. Training min, max, SD, explained variance: -4.97, 2.7339, 0.967, 0.0117.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (20) 
+13.312272949196
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (20) 
+3.82616780947385e-07
+
+>  <ADMET_Absorption_Level>  (20) 
+0
+
+>  <ADMET_EXT_PPB>  (20) 
+-16.3565636259642
+
+>  <ADMET_EXT_PPB#Prediction>  (20) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (20) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (20) 
+15.5236548732627
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (20) 
+3.22435061844112e-08
+
+>  <ADMET_AlogP98>  (20) 
+1.297
+
+>  <ADMET_PSA_2D>  (20) 
+84.293
+
+$$$$
+ZINC61997691
+     RDKit          3D
+
+ 26 31  0  0  1  0  0  0  0  0999 V2000
+   -2.2846    0.0913   -7.3231 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7995    0.5432   -6.3279 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0073    1.8650   -6.2205 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2088   -0.3768   -5.2068 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.5948    2.6779   -7.3209 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4987   -0.0215   -3.8820 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -4.7300   -0.3019   -4.9200 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.9307   -1.8731   -5.5360 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.1338   -0.6938   -3.8985 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3503   -0.6983   -2.8016 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3893    0.4634   -5.9307 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2082   -1.7638   -4.9609 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.5895   -2.5434   -4.2620 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3130   -2.4333   -5.9988 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0084   -0.0235   -3.9056 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1927   -2.2173   -3.8996 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5091   -2.1714   -3.1677 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -6.6778   -1.8750   -5.0378 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9165   -2.4684   -3.6084 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.0289    1.4833   -3.8972 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.1280   -1.9934   -3.7008 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5655   -1.8782   -6.0921 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0394   -1.9780   -2.8102 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.4836   -2.1055   -3.4173 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.9173   -1.9944   -5.7917 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.3626   -2.1027   -4.4902 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  4  2  1  6
+  3  5  1  0
+  4  6  1  0
+  4  7  1  0
+  4  8  1  0
+  6  9  1  0
+  6 10  1  1
+  7 11  1  6
+  7 12  1  0
+  8 13  1  0
+  8 14  1  1
+  9 15  2  0
+  9 16  1  0
+ 17 10  1  6
+ 12 18  1  6
+ 12 19  1  0
+ 15 20  1  0
+ 18 21  2  0
+ 18 22  1  0
+ 19 23  1  1
+ 21 24  1  0
+ 22 25  2  0
+ 24 26  2  0
+ 12 14  1  0
+ 13 16  1  0
+ 13 17  1  0
+ 17 19  1  0
+ 21 23  1  0
+ 25 26  1  0
+M  END
+>  <Name>  (21) 
+ZINC61997691
+
+>  <Molecule Name>  (21) 
+ZINC61997691
+
+>  <Polar Surface Area>  (21) 
+61.8
+
+>  <Molweight>  (21) 
+352.433
+
+>  <cLogP>  (21) 
+1.1734
+
+>  <cLogS>  (21) 
+-3.21
+
+>  <H-Acceptors>  (21) 
+5
+
+>  <H-Donors>  (21) 
+2
+
+>  <Druglikeness>  (21) 
+0.22396
+
+>  <Mutagenic>  (21) 
+none
+
+>  <Tumorigenic>  (21) 
+none
+
+>  <Reproductive Effective>  (21) 
+none
+
+>  <Irritant>  (21) 
+none
+
+>  <DrugScore>  (21) 
+0.662571564386592
+
+>  <Rotatable Bonds>  (21) 
+2
+
+>  <Aromatic Rings>  (21) 
+1
+
+>  <Num_H_Acceptors_Lipinski>  (21) 
+5
+
+>  <Num_H_Donors_Lipinski>  (21) 
+2
+
+>  <Molecular_Weight>  (21) 
+352.42686
+
+>  <ALogP>  (21) 
+1.637
+
+>  <Num_RotatableBonds>  (21) 
+2
+
+>  <Molecular_PolarSurfaceArea>  (21) 
+61.8
+
+>  <Num_H_Acceptors>  (21) 
+5
+
+>  <Num_H_Donors>  (21) 
+2
+
+>  <ADMET_Solubility>  (21) 
+-3.846
+
+>  <ADMET_Solubility_Level>  (21) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (21) 
+0
+
+>  <ADMET_BBB>  (21) 
+-0.648
+
+>  <ADMET_BBB_Level>  (21) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (21) 
+-1.95892657914128
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (21) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (21) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (21) 
+15.004453666305
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (21) 
+2.01719814527017e-06
+
+>  <ADMET_EXT_Hepatotoxic>  (21) 
+-8.40626087100335
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (21) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (21) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (21) 
+13.5129741966477
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (21) 
+1.35930176512923e-07
+
+>  <ADMET_Absorption_Level>  (21) 
+0
+
+>  <ADMET_EXT_PPB>  (21) 
+-3.0165041383453
+
+>  <ADMET_EXT_PPB#Prediction>  (21) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (21) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (21) 
+13.5984988451476
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (21) 
+0.000590656428684877
+
+>  <ADMET_AlogP98>  (21) 
+1.637
+
+>  <ADMET_PSA_2D>  (21) 
+63.209
+
+$$$$
+ZINC79190738
+     RDKit          3D
+
+ 30 33  0  0  1  0  0  0  0  0999 V2000
+    0.0000   -2.7025   -4.5069 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0038   -2.0950   -3.4512 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0111   -2.7849   -2.2998 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0238   -0.6854   -3.4696 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0079   -2.1590   -1.1033 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0278    0.0058   -2.3002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0057   -0.7526   -1.0480 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0231   -2.8865    0.0766 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0485    1.5127   -2.2919 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0040   -0.1002    0.1898 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0352   -2.2239    1.2937 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0161   -0.8316    1.3420 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0558   -2.9373    2.4483 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0184   -0.1287    2.6751 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0746   -4.3612    2.3309 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4581    0.0174    3.1720 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4604    0.7203    4.5051 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4137    1.0699    5.0084 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6257    0.9605    5.1381 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6279    1.6438    6.4341 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0675    1.7901    6.9309 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.0796    2.6161    8.2215 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.6561    0.4041    7.1994 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3013    1.9381    9.2609 N   0  0  1  0  0  0  0  0  0  0  0  0
+    3.4641    3.9859    7.9168 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8454   -0.2649    8.3143 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8885    0.6232    9.5574 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3102    2.7297   10.5002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4380    4.8363    9.1882 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6498    4.0839   10.2655 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  3  5  1  0
+  4  6  2  0
+  5  7  2  0
+  5  8  1  0
+  6  9  1  0
+  7 10  1  0
+  8 11  2  0
+ 10 12  2  0
+ 11 13  1  0
+ 12 14  1  0
+ 13 15  1  0
+ 14 16  1  0
+ 16 17  1  0
+ 17 18  2  0
+ 17 19  1  0
+ 19 20  1  0
+ 21 20  1  1
+ 21 22  1  0
+ 21 23  1  0
+ 22 24  1  0
+ 22 25  1  6
+ 23 26  1  0
+ 24 27  1  1
+ 24 28  1  0
+ 25 29  1  0
+ 28 30  1  0
+  6  7  1  0
+ 11 12  1  0
+ 26 27  1  0
+ 29 30  1  0
+M  CHG  1  24   1
+M  END
+>  <Name>  (22) 
+ZINC79190738
+
+>  <Molecule Name>  (22) 
+ZINC79190738
+
+>  <Polar Surface Area>  (22) 
+69.07
+
+>  <Molweight>  (22) 
+413.536
+
+>  <cLogP>  (22) 
+0.8547
+
+>  <cLogS>  (22) 
+-3.63
+
+>  <H-Acceptors>  (22) 
+6
+
+>  <H-Donors>  (22) 
+2
+
+>  <Druglikeness>  (22) 
+-6.3726
+
+>  <Mutagenic>  (22) 
+none
+
+>  <Tumorigenic>  (22) 
+none
+
+>  <Reproductive Effective>  (22) 
+high
+
+>  <Irritant>  (22) 
+none
+
+>  <DrugScore>  (22) 
+0.232909293883239
+
+>  <Rotatable Bonds>  (22) 
+6
+
+>  <Aromatic Rings>  (22) 
+1
+
+>  <Num_H_Acceptors_Lipinski>  (22) 
+6
+
+>  <Num_H_Donors_Lipinski>  (22) 
+2
+
+>  <Molecular_Weight>  (22) 
+413.52982
+
+>  <ALogP>  (22) 
+2.108
+
+>  <Num_RotatableBonds>  (22) 
+6
+
+>  <Molecular_PolarSurfaceArea>  (22) 
+69.06
+
+>  <Num_H_Acceptors>  (22) 
+4
+
+>  <Num_H_Donors>  (22) 
+2
+
+>  <ADMET_Solubility>  (22) 
+-3.496
+
+>  <ADMET_Solubility_Level>  (22) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (22) 
+0
+
+>  <ADMET_BBB>  (22) 
+-0.586
+
+>  <ADMET_BBB_Level>  (22) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (22) 
+-5.0689494411434
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (22) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (22) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: 10: [*][NH+]([*])[*]
+Unknown FCFP_2 feature: -1817836174: [*]C[C@@H]1C[*][*][N@H+]1[*]
+Unknown FCFP_2 feature: -1853714334: [*][C@@H]1[*][*][C@H]([*])[N@H+]1C
+Unknown FCFP_2 feature: 1155241219: [*]CC[NH+]([*])[*]
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (22) 
+17.4231261803594
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (22) 
+3.31767316666349e-09
+
+>  <ADMET_EXT_Hepatotoxic>  (22) 
+-4.31036769379578
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (22) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (22) 
+OPS PC27 out of range. Value: -3.351. Training min, max, SD, explained variance: -2.3945, 4.4682, 0.8755, 0.0096.
+Unknown FCFP_2 feature: 10: [*][NH+]([*])[*]
+Unknown FCFP_2 feature: -1817836174: [*]C[C@@H]1C[*][*][N@H+]1[*]
+Unknown FCFP_2 feature: -1853714334: [*][C@@H]1[*][*][C@H]([*])[N@H+]1C
+Unknown FCFP_2 feature: 1155241219: [*]CC[NH+]([*])[*]
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (22) 
+11.4370350891526
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (22) 
+0.00140912856377919
+
+>  <ADMET_Absorption_Level>  (22) 
+0
+
+>  <ADMET_EXT_PPB>  (22) 
+-7.11373019202609
+
+>  <ADMET_EXT_PPB#Prediction>  (22) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (22) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -1817836174: [*]C[C@@H]1C[*][*][N@H+]1[*]
+Unknown FCFP_2 feature: -1853714334: [*][C@@H]1[*][*][C@H]([*])[N@H+]1C
+Unknown FCFP_2 feature: 1155241219: [*]CC[NH+]([*])[*]
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (22) 
+13.3417797057015
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (22) 
+0.00163038371893261
+
+>  <ADMET_AlogP98>  (22) 
+2.108
+
+>  <ADMET_PSA_2D>  (22) 
+68.475
+
+$$$$
+ZINC79190753
+     RDKit          3D
+
+ 15 15  0  0  1  0  0  0  0  0999 V2000
+    1.7606   -0.5866    0.2933 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5395    1.2226    0.9964 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0026   -0.0341    0.1660 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.2820    2.3025    0.1664 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0181    1.4915    0.1744 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6086   -0.5519   -1.1373 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6994   -2.0784   -1.0869 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3107   -2.5962   -2.3904 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4015   -4.1227   -2.3399 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0037   -4.6328   -3.6238 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3283   -3.8521   -4.4934 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1813   -5.9564   -3.8056 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7667   -6.4522   -5.0536 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8575   -7.9786   -5.0033 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7719   -8.3679   -3.9761 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  2  4  1  0
+  3  5  1  0
+  3  6  1  6
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+  4  5  1  0
+M  END
+>  <Name>  (23) 
+ZINC79190753
+
+>  <Molecule Name>  (23) 
+ZINC79190753
+
+>  <Polar Surface Area>  (23) 
+99.93
+
+>  <Molweight>  (23) 
+249.398
+
+>  <cLogP>  (23) 
+2.0627
+
+>  <cLogS>  (23) 
+-2.64
+
+>  <H-Acceptors>  (23) 
+3
+
+>  <H-Donors>  (23) 
+2
+
+>  <Druglikeness>  (23) 
+-5.4639
+
+>  <Mutagenic>  (23) 
+none
+
+>  <Tumorigenic>  (23) 
+none
+
+>  <Reproductive Effective>  (23) 
+none
+
+>  <Irritant>  (23) 
+none
+
+>  <DrugScore>  (23) 
+0.457327092807674
+
+>  <Rotatable Bonds>  (23) 
+7
+
+>  <Aromatic Rings>  (23) 
+0
+
+>  <Num_H_Acceptors_Lipinski>  (23) 
+3
+
+>  <Num_H_Donors_Lipinski>  (23) 
+2
+
+>  <Molecular_Weight>  (23) 
+249.39336
+
+>  <ALogP>  (23) 
+1.297
+
+>  <Num_RotatableBonds>  (23) 
+7
+
+>  <Molecular_PolarSurfaceArea>  (23) 
+99.93
+
+>  <Num_H_Acceptors>  (23) 
+4
+
+>  <Num_H_Donors>  (23) 
+2
+
+>  <ADMET_Solubility>  (23) 
+-1.23
+
+>  <ADMET_Solubility_Level>  (23) 
+4
+
+>  <ADMET_Unknown_AlogP98>  (23) 
+0
+
+>  <ADMET_BBB>  (23) 
+-0.559
+
+>  <ADMET_BBB_Level>  (23) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (23) 
+-7.40702505530915
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (23) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (23) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (23) 
+9.68012768949277
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (23) 
+0.181674355448713
+
+>  <ADMET_EXT_Hepatotoxic>  (23) 
+-13.99424462159
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (23) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (23) 
+OPS PC27 out of range. Value: -2.6724. Training min, max, SD, explained variance: -2.3945, 4.4682, 0.8755, 0.0096.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (23) 
+10.4294837567196
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (23) 
+0.0323583971801965
+
+>  <ADMET_Absorption_Level>  (23) 
+0
+
+>  <ADMET_EXT_PPB>  (23) 
+-10.3667045276289
+
+>  <ADMET_EXT_PPB#Prediction>  (23) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (23) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (23) 
+10.2625580105861
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (23) 
+0.828864065553798
+
+>  <ADMET_AlogP98>  (23) 
+1.297
+
+>  <ADMET_PSA_2D>  (23) 
+50.926
+
+$$$$
+ZINC96113932
+     RDKit          3D
+
+ 31 33  0  0  1  0  0  0  0  0999 V2000
+   -2.5212   -6.2679   -8.8003 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4941   -5.8003   -9.9282 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6364   -5.6358  -10.6285 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2830   -5.4244  -10.5082 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5950   -5.1169  -11.8925 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8260   -5.9936  -10.0681 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2893   -4.9014  -11.7960 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0109   -5.5879   -9.7539 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.4387   -4.7631  -12.4485 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7904   -4.9542  -12.6175 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9835   -5.8450  -10.7497 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1266   -4.5334  -12.3844 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1373   -4.4904   -8.7290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1845   -5.5098  -10.7321 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9738   -5.3161  -12.0481 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1392   -4.8014   -7.3819 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2502   -3.1745   -9.1377 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4695   -5.7952   -9.9983 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2609   -3.7938   -6.4385 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3659   -2.1640   -8.2014 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4486   -6.0362   -8.8147 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6371   -5.7814  -10.6601 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2692   -4.0987   -5.1132 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3689   -2.4690   -6.8498 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8156   -6.0608   -9.9017 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1543   -5.4795   -4.7644 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4831   -1.4761   -5.9274 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5899   -0.1399   -6.4223 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7071    0.8168   -5.2641 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6993    0.3624   -4.0355 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8333    2.2968   -5.5190 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  3  5  1  0
+  3  6  1  0
+  4  7  2  0
+  4  8  1  0
+  5  9  2  0
+  5 10  1  0
+  6 11  2  0
+  7 12  1  0
+  8 13  1  0
+  8 14  1  6
+ 10 15  2  0
+ 13 16  2  0
+ 13 17  1  0
+ 14 18  1  0
+ 16 19  1  0
+ 17 20  2  0
+ 18 21  2  0
+ 18 22  1  0
+ 19 23  1  0
+ 19 24  2  0
+ 22 25  1  0
+ 23 26  1  0
+ 24 27  1  0
+ 27 28  1  0
+ 28 29  1  0
+ 29 30  2  0
+ 29 31  1  0
+  7  9  1  0
+ 11 15  1  0
+ 20 24  1  0
+M  CHG  1  12  -1
+M  END
+>  <Name>  (24) 
+ZINC96113932
+
+>  <Molecule Name>  (24) 
+ZINC96113932
+
+>  <Polar Surface Area>  (24) 
+100.49
+
+>  <Molweight>  (24) 
+423.444
+
+>  <cLogP>  (24) 
+0.5486
+
+>  <cLogS>  (24) 
+-4.579
+
+>  <H-Acceptors>  (24) 
+8
+
+>  <H-Donors>  (24) 
+0
+
+>  <Druglikeness>  (24) 
+-10.355
+
+>  <Mutagenic>  (24) 
+none
+
+>  <Tumorigenic>  (24) 
+none
+
+>  <Reproductive Effective>  (24) 
+none
+
+>  <Irritant>  (24) 
+high
+
+>  <DrugScore>  (24) 
+0.205069034377777
+
+>  <Rotatable Bonds>  (24) 
+9
+
+>  <Aromatic Rings>  (24) 
+1
+
+>  <Num_H_Acceptors_Lipinski>  (24) 
+8
+
+>  <Num_H_Donors_Lipinski>  (24) 
+0
+
+>  <Molecular_Weight>  (24) 
+423.43852
+
+>  <ALogP>  (24) 
+2.118
+
+>  <Num_RotatableBonds>  (24) 
+9
+
+>  <Molecular_PolarSurfaceArea>  (24) 
+100.49
+
+>  <Num_H_Acceptors>  (24) 
+7
+
+>  <Num_H_Donors>  (24) 
+0
+
+>  <ADMET_Solubility>  (24) 
+-3.162
+
+>  <ADMET_Solubility_Level>  (24) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (24) 
+0
+
+>  <ADMET_BBB>  (24) 
+-0.977
+
+>  <ADMET_BBB_Level>  (24) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (24) 
+-5.56963177247283
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (24) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (24) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -496547875: [*]N([*])C(=C([*])[*])[O-]
+Unknown FCFP_2 feature: 260714409: [*]C(=[*])[O-]
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (24) 
+17.0544743139531
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (24) 
+8.88494525666264e-09
+
+>  <ADMET_EXT_Hepatotoxic>  (24) 
+-4.16194857711944
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (24) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (24) 
+OPS PC16 out of range. Value: 3.986. Training min, max, SD, explained variance: -3.1455, 3.8654, 1.2, 0.0180.
+Unknown FCFP_2 feature: -496547875: [*]N([*])C(=C([*])[*])[O-]
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (24) 
+14.2112300089015
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (24) 
+3.03908744007299e-09
+
+>  <ADMET_Absorption_Level>  (24) 
+0
+
+>  <ADMET_EXT_PPB>  (24) 
+0.780940468902294
+
+>  <ADMET_EXT_PPB#Prediction>  (24) 
+true
+
+>  <ADMET_EXT_PPB_Applicability>  (24) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -496547875: [*]N([*])C(=C([*])[*])[O-]
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (24) 
+12.4331528412451
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (24) 
+0.0322377327245153
+
+>  <ADMET_AlogP98>  (24) 
+2.118
+
+>  <ADMET_PSA_2D>  (24) 
+93.368
+
+$$$$
+ZINC96113944
+     RDKit          3D
+
+ 28 31  0  0  1  0  0  0  0  0999 V2000
+   -8.9927   -0.8321    0.8321 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.8745    0.0654    0.6811 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.4968   -0.6876   -0.9379 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -11.0369   -0.0976   -1.1586 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.5916    0.1063   -1.6629 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.1616    0.0519   -1.0444 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0546   -0.8019   -0.4231 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7195   -0.0622   -0.5296 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6125   -0.9162    0.0916 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2974   -0.1877   -0.0132 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2505    0.9069   -0.5335 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1738   -0.7524    0.4710 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0272   -0.0313    0.4740 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2293   -0.6878    0.2952 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0126    1.3474    0.6575 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4373    0.0268    0.2985 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1913    2.0570    0.6556 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6798   -0.7407    0.1283 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4174    1.4103    0.4735 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6899   -1.6650   -0.6612 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8003   -0.4632    0.8065 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5512    2.2031    0.4692 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9531    0.6338    1.7786 C   0  0  2  0  0  0  0  0  0  0  0  0
+    6.0775   -1.1911    0.7120 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7143    1.9322    1.0509 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4125    0.5990    2.2789 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1517   -0.1635    1.1483 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6073    2.7510    0.9943 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  2  4  1  0
+  3  5  1  0
+  3  6  1  1
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 13 15  1  0
+ 14 16  1  0
+ 15 17  2  0
+ 16 18  1  0
+ 16 19  2  0
+ 18 20  2  0
+ 18 21  1  0
+ 19 22  1  0
+ 21 23  1  0
+ 21 24  1  0
+ 22 25  1  0
+ 23 26  1  6
+ 24 27  1  0
+ 25 28  2  0
+  4  5  1  0
+ 17 19  1  0
+ 23 25  1  0
+ 26 27  1  0
+M  END
+>  <Name>  (25) 
+ZINC96113944
+
+>  <Molecule Name>  (25) 
+ZINC96113944
+
+>  <Polar Surface Area>  (25) 
+129.11
+
+>  <Molweight>  (25) 
+419.569
+
+>  <cLogP>  (25) 
+3.3471
+
+>  <cLogS>  (25) 
+-4.949
+
+>  <H-Acceptors>  (25) 
+6
+
+>  <H-Donors>  (25) 
+2
+
+>  <Druglikeness>  (25) 
+-0.1514
+
+>  <Mutagenic>  (25) 
+none
+
+>  <Tumorigenic>  (25) 
+none
+
+>  <Reproductive Effective>  (25) 
+none
+
+>  <Irritant>  (25) 
+none
+
+>  <DrugScore>  (25) 
+0.438414391654153
+
+>  <Rotatable Bonds>  (25) 
+6
+
+>  <Aromatic Rings>  (25) 
+1
+
+>  <Num_H_Acceptors_Lipinski>  (25) 
+6
+
+>  <Num_H_Donors_Lipinski>  (25) 
+2
+
+>  <Molecular_Weight>  (25) 
+419.5608
+
+>  <ALogP>  (25) 
+2.23
+
+>  <Num_RotatableBonds>  (25) 
+6
+
+>  <Molecular_PolarSurfaceArea>  (25) 
+129.11
+
+>  <Num_H_Acceptors>  (25) 
+5
+
+>  <Num_H_Donors>  (25) 
+2
+
+>  <ADMET_Solubility>  (25) 
+-3.763
+
+>  <ADMET_Solubility_Level>  (25) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (25) 
+0
+
+>  <ADMET_BBB>  (25) 
+-0.744
+
+>  <ADMET_BBB_Level>  (25) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (25) 
+-12.048198456432
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (25) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (25) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (25) 
+14.7173207329359
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (25) 
+4.24446485888553e-06
+
+>  <ADMET_EXT_Hepatotoxic>  (25) 
+-9.8658916384744
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (25) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (25) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (25) 
+11.6537829865515
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (25) 
+0.000632951639620053
+
+>  <ADMET_Absorption_Level>  (25) 
+0
+
+>  <ADMET_EXT_PPB>  (25) 
+-13.4196909814488
+
+>  <ADMET_EXT_PPB#Prediction>  (25) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (25) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (25) 
+14.7108580603757
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (25) 
+3.19477986018456e-06
+
+>  <ADMET_AlogP98>  (25) 
+2.23
+
+>  <ADMET_PSA_2D>  (25) 
+80.875
+
+$$$$
+ZINC96221837
+     RDKit          3D
+
+ 25 26  0  0  1  0  0  0  0  0999 V2000
+   -8.0264   -1.6721   -2.7292 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.9053   -2.8814   -2.7313 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7246   -3.5103   -2.7410 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.9434   -3.7370   -2.7276 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8748   -4.8494   -2.7359 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4285   -2.8273   -2.7496 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.3707   -5.0941   -2.7267 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -5.9963   -5.6847   -2.7378 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9668   -2.5913   -1.3101 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.7983   -5.8632   -3.9783 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6337   -1.8888   -1.3190 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.2868   -6.2042   -3.8837 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5815   -0.5070   -1.3178 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4648   -2.6270   -1.3278 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.7080   -6.9616   -5.1164 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3606    0.1390   -1.3253 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2415   -1.9855   -1.3416 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.8974   -7.2046   -5.9850 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.9854   -7.3691   -5.2534 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1865   -0.5993   -1.3347 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.3947   -8.1053   -6.4519 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0156    0.0340   -1.3426 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -13.8833   -8.4464   -6.3572 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0037    1.4630   -1.3347 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -14.6504   -7.2408   -6.3737 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  3  5  1  0
+  3  6  1  0
+  4  7  1  0
+  5  8  2  0
+  6  9  1  0
+  7 10  1  6
+  9 11  1  0
+ 10 12  1  0
+ 11 13  2  0
+ 11 14  1  0
+ 12 15  1  0
+ 13 16  1  0
+ 14 17  2  0
+ 15 18  2  0
+ 15 19  1  0
+ 16 20  2  0
+ 19 21  1  0
+ 20 22  1  0
+ 21 23  1  0
+ 22 24  1  0
+ 23 25  1  0
+  5  7  1  0
+ 17 20  1  0
+M  END
+>  <Name>  (26) 
+ZINC96221837
+
+>  <Molecule Name>  (26) 
+ZINC96221837
+
+>  <Polar Surface Area>  (26) 
+107.97
+
+>  <Molweight>  (26) 
+349.386
+
+>  <cLogP>  (26) 
+0.3059
+
+>  <cLogS>  (26) 
+-2.027
+
+>  <H-Acceptors>  (26) 
+8
+
+>  <H-Donors>  (26) 
+3
+
+>  <Druglikeness>  (26) 
+5.2358
+
+>  <Mutagenic>  (26) 
+none
+
+>  <Tumorigenic>  (26) 
+none
+
+>  <Reproductive Effective>  (26) 
+none
+
+>  <Irritant>  (26) 
+none
+
+>  <DrugScore>  (26) 
+0.900405230955307
+
+>  <Rotatable Bonds>  (26) 
+9
+
+>  <Aromatic Rings>  (26) 
+1
+
+>  <Num_H_Acceptors_Lipinski>  (26) 
+8
+
+>  <Num_H_Donors_Lipinski>  (26) 
+3
+
+>  <Molecular_Weight>  (26) 
+349.38162
+
+>  <ALogP>  (26) 
+0.159
+
+>  <Num_RotatableBonds>  (26) 
+9
+
+>  <Molecular_PolarSurfaceArea>  (26) 
+107.97
+
+>  <Num_H_Acceptors>  (26) 
+5
+
+>  <Num_H_Donors>  (26) 
+3
+
+>  <ADMET_Solubility>  (26) 
+-1.472
+
+>  <ADMET_Solubility_Level>  (26) 
+4
+
+>  <ADMET_Unknown_AlogP98>  (26) 
+0
+
+>  <ADMET_BBB>  (26) 
+-1.693
+
+>  <ADMET_BBB_Level>  (26) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (26) 
+-9.21952754745879
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (26) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (26) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (26) 
+12.0057367761513
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (26) 
+0.00291166352378924
+
+>  <ADMET_EXT_Hepatotoxic>  (26) 
+-6.55956421055438
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (26) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (26) 
+OPS PC11 out of range. Value: 5.4932. Training min, max, SD, explained variance: -4.0074, 4.0205, 1.463, 0.0267.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (26) 
+10.8784958648987
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (26) 
+0.00905602692932233
+
+>  <ADMET_Absorption_Level>  (26) 
+0
+
+>  <ADMET_EXT_PPB>  (26) 
+-10.3157956354625
+
+>  <ADMET_EXT_PPB#Prediction>  (26) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (26) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (26) 
+13.1608694039424
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (26) 
+0.00318864094477543
+
+>  <ADMET_AlogP98>  (26) 
+0.683
+
+>  <ADMET_PSA_2D>  (26) 
+110.62
+
+$$$$
+ZINC96221853
+     RDKit          3D
+
+ 19 19  0  0  1  0  0  0  0  0999 V2000
+   -3.6360   -8.9137    6.7045 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8350  -10.1340    7.9051 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9518   -8.2991    5.5682 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -6.2670  -10.2393    6.7318 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2943   -8.8410    6.0772 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9726   -6.7693    5.5768 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6783   -6.2380    4.9577 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6991   -4.7082    4.9663 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4049   -4.1771    4.3471 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4254   -2.6703    4.3555 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3813   -2.0792    4.8119 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3816   -1.9792    3.8561 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4016   -0.5143    3.8642 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.1305   -0.0150    2.6435 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0335    0.0151    3.8535 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4304   -0.7913    1.7527 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4205    1.1651    2.5467 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0127    1.5450    3.8619 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7734   -0.4914    5.0930 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  2  4  1  0
+  3  5  1  0
+  3  6  1  1
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 13 12  1  6
+ 13 14  1  0
+ 13 15  1  0
+ 14 16  2  0
+ 14 17  1  0
+ 15 18  1  0
+ 15 19  1  0
+  4  5  1  0
+M  CHG  1  17  -1
+M  END
+>  <Name>  (27) 
+ZINC96221853
+
+>  <Molecule Name>  (27) 
+ZINC96221853
+
+>  <Polar Surface Area>  (27) 
+119.83
+
+>  <Molweight>  (27) 
+304.454
+
+>  <cLogP>  (27) 
+0.6691
+
+>  <cLogS>  (27) 
+-3.43
+
+>  <H-Acceptors>  (27) 
+4
+
+>  <H-Donors>  (27) 
+1
+
+>  <Druglikeness>  (27) 
+-4.247
+
+>  <Mutagenic>  (27) 
+none
+
+>  <Tumorigenic>  (27) 
+none
+
+>  <Reproductive Effective>  (27) 
+none
+
+>  <Irritant>  (27) 
+none
+
+>  <DrugScore>  (27) 
+0.440277743675462
+
+>  <Rotatable Bonds>  (27) 
+8
+
+>  <Aromatic Rings>  (27) 
+0
+
+>  <Num_H_Acceptors_Lipinski>  (27) 
+4
+
+>  <Num_H_Donors_Lipinski>  (27) 
+1
+
+>  <Molecular_Weight>  (27) 
+304.44868
+
+>  <ALogP>  (27) 
+1.171
+
+>  <Num_RotatableBonds>  (27) 
+8
+
+>  <Molecular_PolarSurfaceArea>  (27) 
+119.83
+
+>  <Num_H_Acceptors>  (27) 
+5
+
+>  <Num_H_Donors>  (27) 
+1
+
+>  <ADMET_Solubility>  (27) 
+-1.876
+
+>  <ADMET_Solubility_Level>  (27) 
+4
+
+>  <ADMET_Unknown_AlogP98>  (27) 
+0
+
+>  <ADMET_BBB>  (27) 
+-0.816
+
+>  <ADMET_BBB_Level>  (27) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (27) 
+-6.60165364175515
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (27) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (27) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -367494947: [*]CC(=O)[O-]
+Unknown FCFP_2 feature: 260714409: [*]C(=[*])[O-]
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (27) 
+11.5158663415671
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (27) 
+0.00812150614941995
+
+>  <ADMET_EXT_Hepatotoxic>  (27) 
+-12.5697087062894
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (27) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (27) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (27) 
+10.5429502183846
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (27) 
+0.0239126744424373
+
+>  <ADMET_Absorption_Level>  (27) 
+0
+
+>  <ADMET_EXT_PPB>  (27) 
+-8.99849139084735
+
+>  <ADMET_EXT_PPB#Prediction>  (27) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (27) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (27) 
+12.9766152970455
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (27) 
+0.00607459362329494
+
+>  <ADMET_AlogP98>  (27) 
+1.171
+
+>  <ADMET_PSA_2D>  (27) 
+64.712
+
+$$$$
+ZINC96221945
+     RDKit          3D
+
+ 21 22  0  0  0  0  0  0  0  0999 V2000
+    3.5542  -10.5100   -1.7760 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9586  -11.0853   -0.8810 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0446  -12.2964   -0.7718 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1161  -10.2990    0.0903 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1789   -8.8125   -0.2666 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3599   -8.0483    0.6776 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2645   -6.7091    0.5571 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8569   -6.1367   -0.3330 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4221   -5.9230    1.5285 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4839   -4.4587    1.1769 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4364   -3.9195    0.2996 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4619   -3.6544    1.7329 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3859   -2.5745   -0.0272 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5162   -2.3136    1.4122 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5891   -1.7664    0.5305 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4054   -2.0235   -0.9917 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6681   -0.4401    0.2472 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4584   -0.4984   -0.8705 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0217    0.0378   -0.9082 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0425    1.5678   -0.8996 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6820   -0.4606   -2.1715 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 11 13  1  0
+ 12 14  2  0
+ 13 15  2  0
+ 13 16  1  0
+ 15 17  1  0
+ 16 18  1  0
+ 17 19  1  0
+ 19 20  1  0
+ 19 21  1  0
+ 14 15  1  0
+ 18 19  1  0
+M  CHG  1   3  -1
+M  END
+>  <Name>  (28) 
+ZINC96221945
+
+>  <Molecule Name>  (28) 
+ZINC96221945
+
+>  <Polar Surface Area>  (28) 
+78.46
+
+>  <Molweight>  (28) 
+290.338
+
+>  <cLogP>  (28) 
+-0.2046
+
+>  <cLogS>  (28) 
+-2.755
+
+>  <H-Acceptors>  (28) 
+5
+
+>  <H-Donors>  (28) 
+1
+
+>  <Druglikeness>  (28) 
+-0.86452
+
+>  <Mutagenic>  (28) 
+none
+
+>  <Tumorigenic>  (28) 
+none
+
+>  <Reproductive Effective>  (28) 
+none
+
+>  <Irritant>  (28) 
+none
+
+>  <DrugScore>  (28) 
+0.592467403205539
+
+>  <Rotatable Bonds>  (28) 
+5
+
+>  <Aromatic Rings>  (28) 
+1
+
+>  <Num_H_Acceptors_Lipinski>  (28) 
+5
+
+>  <Num_H_Donors_Lipinski>  (28) 
+1
+
+>  <Molecular_Weight>  (28) 
+290.3343
+
+>  <ALogP>  (28) 
+0.425
+
+>  <Num_RotatableBonds>  (28) 
+5
+
+>  <Molecular_PolarSurfaceArea>  (28) 
+78.45
+
+>  <Num_H_Acceptors>  (28) 
+4
+
+>  <Num_H_Donors>  (28) 
+1
+
+>  <ADMET_Solubility>  (28) 
+-1.771
+
+>  <ADMET_Solubility_Level>  (28) 
+4
+
+>  <ADMET_Unknown_AlogP98>  (28) 
+0
+
+>  <ADMET_BBB>  (28) 
+-1.188
+
+>  <ADMET_BBB_Level>  (28) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (28) 
+-6.46817796688555
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (28) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (28) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -367494947: [*]CC(=O)[O-]
+Unknown FCFP_2 feature: 260714409: [*]C(=[*])[O-]
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (28) 
+13.8002781238945
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (28) 
+4.34863505060457e-05
+
+>  <ADMET_EXT_Hepatotoxic>  (28) 
+-4.40503192858786
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (28) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (28) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (28) 
+10.8838414904892
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (28) 
+0.00890890104141349
+
+>  <ADMET_Absorption_Level>  (28) 
+0
+
+>  <ADMET_EXT_PPB>  (28) 
+-2.50947681948468
+
+>  <ADMET_EXT_PPB#Prediction>  (28) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (28) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (28) 
+11.0114150974389
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (28) 
+0.480809808706258
+
+>  <ADMET_AlogP98>  (28) 
+0.425
+
+>  <ADMET_PSA_2D>  (28) 
+73.642
+
+$$$$
+ZINC96221987
+     RDKit          3D
+
+ 22 23  0  0  1  0  0  0  0  0999 V2000
+    6.2513   -6.2513  -15.1591 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7001   -6.8145  -16.5559 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1727   -6.7165  -13.6312 C   0  0  1  0  0  0  0  0  0  0  0  0
+    8.6815   -7.8964  -15.4139 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5759   -7.1691  -14.0560 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2766   -5.5077  -12.6990 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8834   -5.1374  -12.1865 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9875   -3.9286  -11.2542 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5942   -3.5583  -10.7416 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6966   -2.3677   -9.8234 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7775   -1.8648   -9.6007 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5870   -1.8616   -9.2495 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6866   -0.7042   -8.3567 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.3714    0.0314   -8.3392 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0191   -1.1715   -6.9633 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3527    1.4135   -8.3321 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1838   -0.6758   -8.3308 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6441   -2.2672   -6.5820 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6631   -0.4541   -6.2169 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1463    2.0885   -8.3168 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0223   -0.0008   -8.3169 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0412    1.3811   -8.3093 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  2  4  1  0
+  3  5  1  0
+  3  6  1  1
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 13 12  1  6
+ 13 14  1  0
+ 13 15  1  0
+ 14 16  2  0
+ 14 17  1  0
+ 15 18  2  0
+ 15 19  1  0
+ 16 20  1  0
+ 17 21  2  0
+ 20 22  2  0
+  4  5  1  0
+ 21 22  1  0
+M  CHG  1  19  -1
+M  END
+>  <Name>  (29) 
+ZINC96221987
+
+>  <Molecule Name>  (29) 
+ZINC96221987
+
+>  <Polar Surface Area>  (29) 
+119.83
+
+>  <Molweight>  (29) 
+338.471
+
+>  <cLogP>  (29) 
+0.9356
+
+>  <cLogS>  (29) 
+-3.716
+
+>  <H-Acceptors>  (29) 
+4
+
+>  <H-Donors>  (29) 
+1
+
+>  <Druglikeness>  (29) 
+-4.3846
+
+>  <Mutagenic>  (29) 
+none
+
+>  <Tumorigenic>  (29) 
+none
+
+>  <Reproductive Effective>  (29) 
+none
+
+>  <Irritant>  (29) 
+none
+
+>  <DrugScore>  (29) 
+0.419310511797399
+
+>  <Rotatable Bonds>  (29) 
+8
+
+>  <Aromatic Rings>  (29) 
+1
+
+>  <Num_H_Acceptors_Lipinski>  (29) 
+4
+
+>  <Num_H_Donors_Lipinski>  (29) 
+1
+
+>  <Molecular_Weight>  (29) 
+338.4649
+
+>  <ALogP>  (29) 
+1.563
+
+>  <Num_RotatableBonds>  (29) 
+8
+
+>  <Molecular_PolarSurfaceArea>  (29) 
+119.83
+
+>  <Num_H_Acceptors>  (29) 
+5
+
+>  <Num_H_Donors>  (29) 
+1
+
+>  <ADMET_Solubility>  (29) 
+-2.429
+
+>  <ADMET_Solubility_Level>  (29) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (29) 
+0
+
+>  <ADMET_BBB>  (29) 
+-0.695
+
+>  <ADMET_BBB_Level>  (29) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (29) 
+-3.98041565379489
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (29) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (29) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -367494947: [*]CC(=O)[O-]
+Unknown FCFP_2 feature: 260714409: [*]C(=[*])[O-]
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (29) 
+11.5399712537588
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (29) 
+0.00773394511516063
+
+>  <ADMET_EXT_Hepatotoxic>  (29) 
+-15.8878084408861
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (29) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (29) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (29) 
+11.1692416403887
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (29) 
+0.0035682515479119
+
+>  <ADMET_Absorption_Level>  (29) 
+0
+
+>  <ADMET_EXT_PPB>  (29) 
+-10.5180066422959
+
+>  <ADMET_EXT_PPB#Prediction>  (29) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (29) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (29) 
+9.93963001728805
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (29) 
+0.917969212954283
+
+>  <ADMET_AlogP98>  (29) 
+1.563
+
+>  <ADMET_PSA_2D>  (29) 
+64.712
+
+$$$$
+ZINC96222075
+     RDKit          3D
+
+ 30 32  0  0  1  0  0  0  0  0999 V2000
+    0.9607   -4.8100    9.1967 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8997   -3.8803    9.9775 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6319   -2.7662    9.8660 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0912   -3.8584   11.0526 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3664   -1.8952   10.8597 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5982   -2.5206    8.7929 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3163   -2.5659   11.7231 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.8633   -0.8021   11.0278 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9057   -1.8427    7.6389 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8427   -2.7773   13.1440 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3336   -2.6023    6.6355 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8442   -0.4625    7.5856 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2755   -3.3397   14.0238 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6914   -1.9806    5.5765 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2105    0.1637    6.5289 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2426   -3.5479   15.4235 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1228   -2.7266    4.5919 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6345   -0.5914    5.5200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3931   -3.2735   15.6910 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5723   -4.0392   16.3779 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2197   -4.1467    4.7160 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0103    0.0232    4.4800 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0683   -4.2415   17.7387 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0090    1.4522    4.4879 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1699   -4.7955   18.6051 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0114   -3.9362   19.2869 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3425   -6.1626   18.7136 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0218   -4.4445   20.0819 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3502   -6.6708   19.5120 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1913   -5.8116   20.1946 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  3  5  1  0
+  3  6  1  0
+  4  7  1  0
+  5  8  2  0
+  6  9  1  0
+  7 10  1  1
+  9 11  2  0
+  9 12  1  0
+ 10 13  1  0
+ 11 14  1  0
+ 12 15  2  0
+ 13 16  1  0
+ 14 17  1  0
+ 14 18  2  0
+ 16 19  2  0
+ 16 20  1  0
+ 17 21  1  0
+ 18 22  1  0
+ 20 23  1  0
+ 22 24  1  0
+ 23 25  1  0
+ 25 26  2  0
+ 25 27  1  0
+ 26 28  1  0
+ 27 29  2  0
+ 28 30  2  0
+  5  7  1  0
+ 15 18  1  0
+ 29 30  1  0
+M  END
+>  <Name>  (30) 
+ZINC96222075
+
+>  <Molecule Name>  (30) 
+ZINC96222075
+
+>  <Polar Surface Area>  (30) 
+96.97
+
+>  <Molweight>  (30) 
+411.457
+
+>  <cLogP>  (30) 
+1.7443
+
+>  <cLogS>  (30) 
+-3.463
+
+>  <H-Acceptors>  (30) 
+8
+
+>  <H-Donors>  (30) 
+2
+
+>  <Druglikeness>  (30) 
+4.9289
+
+>  <Mutagenic>  (30) 
+none
+
+>  <Tumorigenic>  (30) 
+none
+
+>  <Reproductive Effective>  (30) 
+none
+
+>  <Irritant>  (30) 
+none
+
+>  <DrugScore>  (30) 
+0.77691607872652
+
+>  <Rotatable Bonds>  (30) 
+9
+
+>  <Aromatic Rings>  (30) 
+2
+
+>  <Num_H_Acceptors_Lipinski>  (30) 
+8
+
+>  <Num_H_Donors_Lipinski>  (30) 
+2
+
+>  <Molecular_Weight>  (30) 
+411.451
+
+>  <ALogP>  (30) 
+1.944
+
+>  <Num_RotatableBonds>  (30) 
+9
+
+>  <Molecular_PolarSurfaceArea>  (30) 
+96.97
+
+>  <Num_H_Acceptors>  (30) 
+5
+
+>  <Num_H_Donors>  (30) 
+2
+
+>  <ADMET_Solubility>  (30) 
+-3.432
+
+>  <ADMET_Solubility_Level>  (30) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (30) 
+0
+
+>  <ADMET_BBB>  (30) 
+-0.953
+
+>  <ADMET_BBB_Level>  (30) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (30) 
+-6.89807029355792
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (30) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (30) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (30) 
+14.3834262233925
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (30) 
+9.99800764419395e-06
+
+>  <ADMET_EXT_Hepatotoxic>  (30) 
+-4.86384500975495
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (30) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (30) 
+OPS PC11 out of range. Value: 5.0799. Training min, max, SD, explained variance: -4.0074, 4.0205, 1.463, 0.0267.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (30) 
+10.9226938584118
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (30) 
+0.00790232339611901
+
+>  <ADMET_Absorption_Level>  (30) 
+0
+
+>  <ADMET_EXT_PPB>  (30) 
+-11.3958285937813
+
+>  <ADMET_EXT_PPB#Prediction>  (30) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (30) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (30) 
+12.4903637382722
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (30) 
+0.0274939673717545
+
+>  <ADMET_AlogP98>  (30) 
+2.469
+
+>  <ADMET_PSA_2D>  (30) 
+98.735
+
+$$$$
+ZINC96222500
+     RDKit          3D
+
+ 30 32  0  0  1  0  0  0  0  0999 V2000
+   -4.4477   -4.8845   -3.1381 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1081   -3.9563   -3.5626 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3947   -2.8605   -2.8503 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6355   -3.9178   -4.7996 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1363   -1.9864   -3.5595 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9521   -2.6353   -1.4718 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3489   -2.6338   -4.9136 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -6.5472   -0.9068   -3.1911 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6172   -1.9362   -1.4807 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.8393   -2.8633   -5.1725 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4505   -2.6777   -1.4894 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5618   -0.5547   -1.4795 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.0308   -3.3926   -6.5703 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2222   -2.0364   -1.5034 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3396    0.0911   -1.4871 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0698   -3.5687   -7.2887 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.2700   -3.6700   -7.0220 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0737   -2.7644   -1.5180 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1665   -0.6459   -1.4964 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.4561   -4.1844   -8.3811 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2076   -4.1871   -1.5244 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0365   -0.0119   -1.5044 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.9465   -4.4139   -8.6399 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0170    1.4169   -1.4964 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.1381   -4.9430  -10.0377 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.1274   -6.3066  -10.2880 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.3232   -4.0776  -11.1051 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.3123   -6.7553  -11.5820 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.4956   -4.5995  -12.3730 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.4858   -5.9027  -12.5730 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  3  5  1  0
+  3  6  1  0
+  4  7  1  0
+  5  8  2  0
+  6  9  1  0
+  7 10  1  1
+  9 11  2  0
+  9 12  1  0
+ 10 13  1  0
+ 11 14  1  0
+ 12 15  2  0
+ 13 16  2  0
+ 13 17  1  0
+ 14 18  1  0
+ 14 19  2  0
+ 17 20  1  0
+ 18 21  1  0
+ 19 22  1  0
+ 20 23  1  0
+ 22 24  1  0
+ 23 25  1  0
+ 25 26  2  0
+ 25 27  1  0
+ 26 28  1  0
+ 27 29  2  0
+ 28 30  2  0
+  5  7  1  0
+ 15 19  1  0
+ 29 30  1  0
+M  END
+>  <Name>  (31) 
+ZINC96222500
+
+>  <Molecule Name>  (31) 
+ZINC96222500
+
+>  <Polar Surface Area>  (31) 
+109.86
+
+>  <Molweight>  (31) 
+412.445
+
+>  <cLogP>  (31) 
+0.7191
+
+>  <cLogS>  (31) 
+-2.51
+
+>  <H-Acceptors>  (31) 
+9
+
+>  <H-Donors>  (31) 
+2
+
+>  <Druglikeness>  (31) 
+6.1811
+
+>  <Mutagenic>  (31) 
+none
+
+>  <Tumorigenic>  (31) 
+none
+
+>  <Reproductive Effective>  (31) 
+none
+
+>  <Irritant>  (31) 
+none
+
+>  <DrugScore>  (31) 
+0.830561145483526
+
+>  <Rotatable Bonds>  (31) 
+9
+
+>  <Aromatic Rings>  (31) 
+2
+
+>  <Num_H_Acceptors_Lipinski>  (31) 
+9
+
+>  <Num_H_Donors_Lipinski>  (31) 
+2
+
+>  <Molecular_Weight>  (31) 
+412.43906
+
+>  <ALogP>  (31) 
+0.793
+
+>  <Num_RotatableBonds>  (31) 
+9
+
+>  <Molecular_PolarSurfaceArea>  (31) 
+109.86
+
+>  <Num_H_Acceptors>  (31) 
+6
+
+>  <Num_H_Donors>  (31) 
+2
+
+>  <ADMET_Solubility>  (31) 
+-2.602
+
+>  <ADMET_Solubility_Level>  (31) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (31) 
+0
+
+>  <ADMET_BBB>  (31) 
+-1.487
+
+>  <ADMET_BBB_Level>  (31) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (31) 
+-12.2193651257445
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (31) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (31) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (31) 
+14.4168521310789
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (31) 
+9.18029844076687e-06
+
+>  <ADMET_EXT_Hepatotoxic>  (31) 
+-5.20613501866802
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (31) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (31) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (31) 
+11.8594346550199
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (31) 
+0.000284961071645514
+
+>  <ADMET_Absorption_Level>  (31) 
+0
+
+>  <ADMET_EXT_PPB>  (31) 
+-6.48190591938177
+
+>  <ADMET_EXT_PPB#Prediction>  (31) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (31) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (31) 
+13.2875561121536
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (31) 
+0.00200126702283248
+
+>  <ADMET_AlogP98>  (31) 
+1.318
+
+>  <ADMET_PSA_2D>  (31) 
+109.996
+
+$$$$
+ZINC96222568
+     RDKit          3D
+
+ 17 17  0  0  1  0  0  0  0  0999 V2000
+    6.9925   -0.8604  -13.6306 S   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0189   -0.5659  -14.0484 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1864   -2.0953  -12.2751 C   0  0  1  0  0  0  0  0  0  0  0  0
+    9.6303   -2.1028  -13.2103 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6876   -2.2447  -11.9953 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4702   -1.6017  -11.0160 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9612   -1.5692  -11.2672 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2448   -1.0756  -10.0083 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7358   -1.0430  -10.2594 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0303   -0.5569   -9.0194 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6712   -0.2649   -8.0319 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6870   -0.4462   -9.0077 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0012    0.0260   -7.8022 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.4126   -0.4952   -7.7914 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0196    1.5561   -7.7937 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8691   -1.0396   -8.7821 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1001   -0.3726   -6.7918 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  2  4  1  0
+  3  5  1  0
+  3  6  1  1
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 13 15  1  6
+ 14 16  2  0
+ 14 17  1  0
+  4  5  1  0
+M  CHG  1  17  -1
+M  END
+>  <Name>  (32) 
+ZINC96222568
+
+>  <Molecule Name>  (32) 
+ZINC96222568
+
+>  <Polar Surface Area>  (32) 
+119.83
+
+>  <Molweight>  (32) 
+276.4
+
+>  <cLogP>  (32) 
+-0.0035999
+
+>  <cLogS>  (32) 
+-3
+
+>  <H-Acceptors>  (32) 
+4
+
+>  <H-Donors>  (32) 
+1
+
+>  <Druglikeness>  (32) 
+-5.4966
+
+>  <Mutagenic>  (32) 
+none
+
+>  <Tumorigenic>  (32) 
+none
+
+>  <Reproductive Effective>  (32) 
+none
+
+>  <Irritant>  (32) 
+none
+
+>  <DrugScore>  (32) 
+0.455494404504344
+
+>  <Rotatable Bonds>  (32) 
+7
+
+>  <Aromatic Rings>  (32) 
+0
+
+>  <Num_H_Acceptors_Lipinski>  (32) 
+4
+
+>  <Num_H_Donors_Lipinski>  (32) 
+1
+
+>  <Molecular_Weight>  (32) 
+276.39552
+
+>  <ALogP>  (32) 
+0.328
+
+>  <Num_RotatableBonds>  (32) 
+7
+
+>  <Molecular_PolarSurfaceArea>  (32) 
+119.83
+
+>  <Num_H_Acceptors>  (32) 
+5
+
+>  <Num_H_Donors>  (32) 
+1
+
+>  <ADMET_Solubility>  (32) 
+-1.113
+
+>  <ADMET_Solubility_Level>  (32) 
+4
+
+>  <ADMET_Unknown_AlogP98>  (32) 
+0
+
+>  <ADMET_BBB>  (32) 
+-1.076
+
+>  <ADMET_BBB_Level>  (32) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (32) 
+-7.33715716299996
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (32) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (32) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -367494947: [*]CC(=O)[O-]
+Unknown FCFP_2 feature: 260714409: [*]C(=[*])[O-]
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (32) 
+12.6854948418568
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (32) 
+0.000635793969763696
+
+>  <ADMET_EXT_Hepatotoxic>  (32) 
+-12.904500512192
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (32) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (32) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (32) 
+10.0599042895223
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (32) 
+0.0789736691473223
+
+>  <ADMET_Absorption_Level>  (32) 
+0
+
+>  <ADMET_EXT_PPB>  (32) 
+-10.5715102708492
+
+>  <ADMET_EXT_PPB#Prediction>  (32) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (32) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (32) 
+12.7790770202751
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (32) 
+0.0116019597343706
+
+>  <ADMET_AlogP98>  (32) 
+0.328
+
+>  <ADMET_PSA_2D>  (32) 
+64.712
+
+$$$$

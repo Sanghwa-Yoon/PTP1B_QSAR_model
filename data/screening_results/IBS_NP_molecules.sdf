@@ -1,0 +1,3335 @@
+STOCK1N-24962
+     RDKit          2D
+
+ 21 24  0  0  0  0  0  0  0  0999 V2000
+   -0.3833    1.6208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0458    0.5458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1500    2.5958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5333    1.6125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9333   -0.1500    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4125    3.5708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9333    2.5958    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9083    0.5458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000    2.1458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1208    2.5708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5458    3.5708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0500    0.1833    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9333   -1.2792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9500    2.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6542    3.5458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0000    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9333   -1.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0292   -1.8542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0292   -3.0292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9333   -2.9875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9208   -3.5667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  1  1  0
+  4  1  1  0
+  5  2  1  0
+  6  3  1  6
+  4  7  1  0
+  4  8  1  1
+  9  3  1  0
+ 10  4  1  0
+ 11 10  2  0
+ 12  2  2  0
+ 13  5  1  0
+ 14  9  2  0
+ 15  3  1  0
+ 16  9  1  0
+ 17 13  2  0
+ 18 13  1  0
+ 19 18  2  0
+ 20 17  1  0
+ 21 19  1  0
+  8  5  1  0
+  6  7  1  0
+  6 11  1  0
+ 20 21  2  0
+M  END
+>  <Name>  (1) 
+STOCK1N-24962
+
+>  <id>  (1) 
+STOCK1N-24962
+
+>  <index>  (1) 
+RDNC
+
+>  <donors>  (1) 
+1
+
+>  <acceptors>  (1) 
+5
+
+>  <rotatable>  (1) 
+2
+
+>  <clogp>  (1) 
+1.9
+
+>  <rings>  (1) 
+4
+
+>  <tpsa>  (1) 
+66.84
+
+>  <iupac_name>  (1) 
+(3aS,6R)-7-methyl-1-oxo-2-phenyl-1,2,3,6,7,7a-hexahydro-3a,6-epoxyisoindole-7-carboxylic acid
+
+>  <Num_H_Acceptors_Lipinski>  (1) 
+5
+
+>  <Num_H_Donors_Lipinski>  (1) 
+1
+
+>  <Molecular_Weight>  (1) 
+285.2946
+
+>  <ALogP>  (1) 
+0.947
+
+>  <Num_RotatableBonds>  (1) 
+2
+
+>  <Molecular_PolarSurfaceArea>  (1) 
+66.84
+
+>  <Num_H_Acceptors>  (1) 
+4
+
+>  <Num_H_Donors>  (1) 
+1
+
+>  <ADMET_Solubility>  (1) 
+-2.561
+
+>  <ADMET_Solubility_Level>  (1) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (1) 
+0
+
+>  <ADMET_BBB>  (1) 
+-0.933
+
+>  <ADMET_BBB_Level>  (1) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (1) 
+-9.91606610752592
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (1) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (1) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (1) 
+11.5519622594647
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (1) 
+0.00754761391262002
+
+>  <ADMET_EXT_Hepatotoxic>  (1) 
+-5.90006314396464
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (1) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (1) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (1) 
+10.5299616366774
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (1) 
+0.0247717165151729
+
+>  <ADMET_Absorption_Level>  (1) 
+0
+
+>  <ADMET_EXT_PPB>  (1) 
+-0.913916894666695
+
+>  <ADMET_EXT_PPB#Prediction>  (1) 
+true
+
+>  <ADMET_EXT_PPB_Applicability>  (1) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (1) 
+14.3580389254683
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (1) 
+1.92334064243655e-05
+
+>  <ADMET_AlogP98>  (1) 
+0.947
+
+>  <ADMET_PSA_2D>  (1) 
+67.699
+
+$$$$
+STOCK1N-26980
+     RDKit          2D
+
+ 27 30  0  0  0  0  0  0  0  0999 V2000
+    1.8375   -1.5167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8375   -2.3417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1250   -1.1042    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4042   -2.3417    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4042   -1.5167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1250   -2.7542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6167   -1.2625    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6167   -2.5917    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1042   -1.9292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8750   -3.3792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0417   -6.2667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6792   -3.5542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3125   -1.1042    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1250   -3.5792    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4917   -6.8792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7917   -6.6042    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8917   -7.5917    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7042   -7.4292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9292   -4.3417    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7917   -5.4792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2292   -2.9500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1250   -0.2792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3125   -2.7625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6875   -6.7000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9917   -5.3042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7375   -4.5167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4375   -5.9167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  3  1  1  0
+  4  5  1  0
+  5  3  1  0
+  6  2  1  0
+  7  1  1  0
+  8  2  1  0
+  9  7  2  0
+ 10  8  1  0
+ 11 20  2  0
+ 12 10  1  0
+ 13  5  2  0
+ 14  6  2  0
+ 15 24  2  0
+ 16 11  1  0
+ 17 15  1  0
+ 18 16  1  0
+ 19 12  1  0
+ 20 25  1  0
+ 21 12  2  0
+ 22  3  1  0
+ 23  4  1  0
+ 24 27  1  0
+ 25 26  1  0
+ 26 19  1  0
+ 27 25  2  0
+  9  8  1  0
+  6  4  1  0
+ 11 15  1  0
+ 18 17  1  0
+M  END
+>  <Name>  (2) 
+STOCK1N-26980
+
+>  <id>  (2) 
+STOCK1N-26980
+
+>  <index>  (2) 
+RDNC
+
+>  <donors>  (2) 
+1
+
+>  <acceptors>  (2) 
+10
+
+>  <rotatable>  (2) 
+5
+
+>  <clogp>  (2) 
+0.721
+
+>  <rings>  (2) 
+4
+
+>  <tpsa>  (2) 
+109.38
+
+>  <iupac_name>  (2) 
+N-(benzo[d][1,3]dioxol-5-ylmethyl)-2-(1,3-dimethyl-2,6-dioxo-2,3-dihydro-1H-purin-7(6H)-yl)acetamide
+
+>  <Num_H_Acceptors_Lipinski>  (2) 
+10
+
+>  <Num_H_Donors_Lipinski>  (2) 
+1
+
+>  <Molecular_Weight>  (2) 
+371.34738
+
+>  <ALogP>  (2) 
+0.311
+
+>  <Num_RotatableBonds>  (2) 
+4
+
+>  <Molecular_PolarSurfaceArea>  (2) 
+106
+
+>  <Num_H_Acceptors>  (2) 
+6
+
+>  <Num_H_Donors>  (2) 
+1
+
+>  <ADMET_Solubility>  (2) 
+-2.776
+
+>  <ADMET_Solubility_Level>  (2) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (2) 
+0
+
+>  <ADMET_BBB>  (2) 
+-1.571
+
+>  <ADMET_BBB_Level>  (2) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (2) 
+-9.54044453735443
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (2) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (2) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (2) 
+13.9371320210756
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (2) 
+3.09028098883633e-05
+
+>  <ADMET_EXT_Hepatotoxic>  (2) 
+-8.89403050929468
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (2) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (2) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (2) 
+12.8417185096757
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (2) 
+3.88275179708671e-06
+
+>  <ADMET_Absorption_Level>  (2) 
+0
+
+>  <ADMET_EXT_PPB>  (2) 
+-13.5464976120895
+
+>  <ADMET_EXT_PPB#Prediction>  (2) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (2) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (2) 
+14.076407411341
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (2) 
+7.3557704980868e-05
+
+>  <ADMET_AlogP98>  (2) 
+0.835
+
+>  <ADMET_PSA_2D>  (2) 
+105.887
+
+$$$$
+STOCK1N-35592
+     RDKit          2D
+
+ 23 25  0  0  0  0  0  0  0  0999 V2000
+    2.4625   -3.9292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4625   -3.1000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6667   -4.1875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1792   -4.3375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6875   -2.8542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1667   -2.6792    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2042   -3.5292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9000   -3.9042    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8917   -3.0875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3167   -2.1167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3667   -3.4542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5042   -2.0292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0250   -2.7000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2000   -5.1667    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6167   -4.3167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1417   -1.2875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7958   -2.6042    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6292   -5.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3625   -6.3792    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3417   -5.5500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1333   -1.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6292   -0.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0750   -6.7792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  3  1  1  0
+  4  1  1  0
+  5  2  1  0
+  6  2  1  0
+  7  3  1  0
+  8  4  1  0
+  9  8  1  0
+ 10  5  2  0
+ 11  7  2  0
+ 12 10  1  0
+ 13 11  1  0
+ 14  4  2  0
+ 15  8  1  0
+ 16 12  1  0
+ 17 13  1  0
+ 18 15  1  0
+ 19 20  1  0
+ 20 18  1  0
+ 21 17  1  0
+ 22 16  1  0
+ 23 19  1  0
+  5  7  1  0
+  6  9  2  0
+ 13 12  2  0
+M  END
+>  <Name>  (3) 
+STOCK1N-35592
+
+>  <id>  (3) 
+STOCK1N-35592
+
+>  <index>  (3) 
+RDNC
+
+>  <donors>  (3) 
+1
+
+>  <acceptors>  (3) 
+7
+
+>  <rotatable>  (3) 
+6
+
+>  <clogp>  (3) 
+1.344
+
+>  <rings>  (3) 
+3
+
+>  <tpsa>  (3) 
+78.37
+
+>  <iupac_name>  (3) 
+7,8-dimethoxy-3-(3-methoxypropyl)-3H-pyrimido[5,4-b]indol-4(5H)-one
+
+>  <Num_H_Acceptors_Lipinski>  (3) 
+7
+
+>  <Num_H_Donors_Lipinski>  (3) 
+1
+
+>  <Molecular_Weight>  (3) 
+317.33976
+
+>  <ALogP>  (3) 
+1.44
+
+>  <Num_RotatableBonds>  (3) 
+6
+
+>  <Molecular_PolarSurfaceArea>  (3) 
+76.15
+
+>  <Num_H_Acceptors>  (3) 
+5
+
+>  <Num_H_Donors>  (3) 
+1
+
+>  <ADMET_Solubility>  (3) 
+-3.094
+
+>  <ADMET_Solubility_Level>  (3) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (3) 
+0
+
+>  <ADMET_BBB>  (3) 
+-0.877
+
+>  <ADMET_BBB_Level>  (3) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (3) 
+-7.83658454505836
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (3) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (3) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -2100279446: [*]N([*])C=O
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (3) 
+23.2124900653455
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (3) 
+9.49438542301242e-16
+
+>  <ADMET_EXT_Hepatotoxic>  (3) 
+-4.82070373469152
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (3) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (3) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (3) 
+12.2667296622921
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (3) 
+5.27291312538998e-05
+
+>  <ADMET_Absorption_Level>  (3) 
+0
+
+>  <ADMET_EXT_PPB>  (3) 
+1.12411591452512
+
+>  <ADMET_EXT_PPB#Prediction>  (3) 
+true
+
+>  <ADMET_EXT_PPB_Applicability>  (3) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (3) 
+14.0005506444881
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (3) 
+0.000104078346129589
+
+>  <ADMET_AlogP98>  (3) 
+1.44
+
+>  <ADMET_PSA_2D>  (3) 
+73.821
+
+$$$$
+STOCK1N-60356
+     RDKit          2D
+
+ 21 23  0  0  0  0  0  0  0  0999 V2000
+    4.2417   -3.6042    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7625   -2.9250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7625   -4.2792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0250   -3.8542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2542   -4.9292    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7417   -3.4417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9792   -3.1917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9792   -4.0167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4542   -3.8542    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0292   -4.6792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8792   -3.8542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0125   -2.1542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1667   -3.4500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7542   -2.6250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8917   -4.6792    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6000   -3.4500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2542   -2.7875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2667   -4.4292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1667   -2.6292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5542   -4.0167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5542   -3.2000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  1  1  0
+  4  1  1  0
+  5  3  1  0
+  4  6  1  6
+  7  2  1  0
+  8  3  1  0
+  9  6  1  0
+ 10  4  1  0
+ 11 13  1  0
+ 12  2  2  0
+ 13  9  1  0
+ 14  6  2  0
+ 15 11  2  0
+ 16 11  1  0
+ 17  7  2  0
+ 18  8  2  0
+ 13 19  1  6
+ 20 18  1  0
+ 21 17  1  0
+  5 10  1  0
+  8  7  1  0
+ 21 20  2  0
+M  END
+>  <Name>  (4) 
+STOCK1N-60356
+
+>  <id>  (4) 
+STOCK1N-60356
+
+>  <index>  (4) 
+DNC
+
+>  <donors>  (4) 
+2
+
+>  <acceptors>  (4) 
+6
+
+>  <rotatable>  (4) 
+4
+
+>  <clogp>  (4) 
+1.115
+
+>  <rings>  (4) 
+3
+
+>  <tpsa>  (4) 
+86.71
+
+>  <iupac_name>  (4) 
+(2R)-2-((3R)-5-oxo-2,3,5,9b-tetrahydrothiazolo[2,3-a]isoindole-3-carboxamido)propanoic acid
+
+>  <Num_H_Acceptors_Lipinski>  (4) 
+6
+
+>  <Num_H_Donors_Lipinski>  (4) 
+2
+
+>  <Molecular_Weight>  (4) 
+306.33696
+
+>  <ALogP>  (4) 
+0.79
+
+>  <Num_RotatableBonds>  (4) 
+3
+
+>  <Molecular_PolarSurfaceArea>  (4) 
+112.01
+
+>  <Num_H_Acceptors>  (4) 
+5
+
+>  <Num_H_Donors>  (4) 
+2
+
+>  <ADMET_Solubility>  (4) 
+-2.238
+
+>  <ADMET_Solubility_Level>  (4) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (4) 
+0
+
+>  <ADMET_BBB>  (4) 
+-1.316
+
+>  <ADMET_BBB_Level>  (4) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (4) 
+-9.93061929567448
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (4) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (4) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (4) 
+14.9079736834791
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (4) 
+2.59176136690174e-06
+
+>  <ADMET_EXT_Hepatotoxic>  (4) 
+-5.28638829907958
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (4) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (4) 
+OPS PC22 out of range. Value: 3.3067. Training min, max, SD, explained variance: -3.145, 3.0977, 1.007, 0.0127.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (4) 
+10.5008062043978
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (4) 
+0.0267971824780284
+
+>  <ADMET_Absorption_Level>  (4) 
+0
+
+>  <ADMET_EXT_PPB>  (4) 
+-8.10277995940966
+
+>  <ADMET_EXT_PPB#Prediction>  (4) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (4) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (4) 
+16.9087426098288
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (4) 
+3.33936468708121e-12
+
+>  <ADMET_AlogP98>  (4) 
+0.79
+
+>  <ADMET_PSA_2D>  (4) 
+88.88
+
+$$$$
+STOCK1N-63628
+     RDKit          2D
+
+ 27 30  0  0  0  0  0  0  0  0999 V2000
+    3.9125   -4.1667    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4292   -3.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4250   -4.8375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6917   -4.4167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9042   -5.5000    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4125   -4.0042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6417   -3.7542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6417   -4.5792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1250   -4.4292    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6917   -5.2542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8417   -4.0042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5542   -4.4292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6792   -2.7167    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4167   -3.1875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8375   -3.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5542   -5.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2667   -4.0042    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5417   -2.7875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9375   -3.3417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9375   -4.9792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5292   -1.9667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2542   -3.1917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2167   -4.5667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2250   -3.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9625   -2.7792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2500   -1.5542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9625   -1.9542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  1  1  0
+  4  1  1  0
+  5  3  1  0
+  4  6  1  6
+  7  2  1  0
+  8  3  1  0
+  9  6  1  0
+ 10  4  1  0
+ 11  9  1  0
+ 12 11  1  0
+ 13  2  2  0
+ 14  6  2  0
+ 11 15  1  6
+ 16 12  2  0
+ 17 12  1  0
+ 18 15  1  0
+ 19  7  2  0
+ 20  8  2  0
+ 21 18  2  0
+ 22 18  1  0
+ 23 20  1  0
+ 24 19  1  0
+ 25 22  2  0
+ 26 21  1  0
+ 27 25  1  0
+  5 10  1  0
+  8  7  1  0
+ 24 23  2  0
+ 27 26  2  0
+M  END
+>  <Name>  (5) 
+STOCK1N-63628
+
+>  <id>  (5) 
+STOCK1N-63628
+
+>  <index>  (5) 
+DNC
+
+>  <donors>  (5) 
+2
+
+>  <acceptors>  (5) 
+6
+
+>  <rotatable>  (5) 
+6
+
+>  <clogp>  (5) 
+2.533
+
+>  <rings>  (5) 
+4
+
+>  <tpsa>  (5) 
+86.71
+
+>  <iupac_name>  (5) 
+(2R)-2-((3R)-5-oxo-2,3,5,9b-tetrahydrothiazolo[2,3-a]isoindole-3-carboxamido)-3-phenylpropanoic acid
+
+>  <Num_H_Acceptors_Lipinski>  (5) 
+6
+
+>  <Num_H_Donors_Lipinski>  (5) 
+2
+
+>  <Molecular_Weight>  (5) 
+382.43292
+
+>  <ALogP>  (5) 
+2.346
+
+>  <Num_RotatableBonds>  (5) 
+5
+
+>  <Molecular_PolarSurfaceArea>  (5) 
+112.01
+
+>  <Num_H_Acceptors>  (5) 
+5
+
+>  <Num_H_Donors>  (5) 
+2
+
+>  <ADMET_Solubility>  (5) 
+-3.617
+
+>  <ADMET_Solubility_Level>  (5) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (5) 
+0
+
+>  <ADMET_BBB>  (5) 
+-0.835
+
+>  <ADMET_BBB_Level>  (5) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (5) 
+-9.67118918006853
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (5) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (5) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (5) 
+12.2220327428766
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (5) 
+0.00181469205823898
+
+>  <ADMET_EXT_Hepatotoxic>  (5) 
+-6.84625747785717
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (5) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (5) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (5) 
+10.3147662184855
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (5) 
+0.043342654588423
+
+>  <ADMET_Absorption_Level>  (5) 
+0
+
+>  <ADMET_EXT_PPB>  (5) 
+-3.62853593466098
+
+>  <ADMET_EXT_PPB#Prediction>  (5) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (5) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (5) 
+16.6091433226509
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (5) 
+2.7756288470023e-11
+
+>  <ADMET_AlogP98>  (5) 
+2.346
+
+>  <ADMET_PSA_2D>  (5) 
+88.88
+
+$$$$
+STOCK1N-65226
+     RDKit          2D
+
+ 26 28  0  0  0  0  0  0  0  0999 V2000
+    4.3167   -3.3250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0292   -3.7375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6042   -3.7375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0292   -4.5625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6042   -4.5625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3167   -4.9750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8917   -3.3250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8917   -4.9750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1750   -3.7375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7542   -3.3250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7542   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1750   -4.5625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7542   -4.9792    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0417   -2.0875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4667   -2.0875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8917   -2.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3167   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4542   -4.9792    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4667   -1.2542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1792   -0.0167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1792   -0.8417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9000    0.3958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4667    0.3958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9000    1.2250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4667    1.2250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1792    1.6375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  3  1  1  0
+  4  2  1  0
+  5  3  2  0
+  6  5  1  0
+  7  3  1  0
+  8  5  1  0
+  9  7  2  0
+ 10  2  1  0
+ 11 10  1  0
+ 12  9  1  0
+ 13  4  2  0
+ 14 11  2  0
+ 15 11  1  0
+ 16  7  1  0
+ 17  1  1  0
+ 18 12  1  0
+ 19 15  1  0
+ 20 21  1  0
+ 21 19  1  0
+ 22 20  2  0
+ 23 20  1  0
+ 24 22  1  0
+ 25 23  2  0
+ 26 25  1  0
+  6  4  1  0
+ 12  8  2  0
+ 24 26  2  0
+M  END
+>  <Name>  (6) 
+STOCK1N-65226
+
+>  <id>  (6) 
+STOCK1N-65226
+
+>  <index>  (6) 
+DNC
+
+>  <donors>  (6) 
+3
+
+>  <acceptors>  (6) 
+6
+
+>  <rotatable>  (6) 
+6
+
+>  <clogp>  (6) 
+2.238
+
+>  <rings>  (6) 
+3
+
+>  <tpsa>  (6) 
+99.77
+
+>  <iupac_name>  (6) 
+2-(5,7-dihydroxy-4-methyl-2-oxo-2H-chromen-3-yl)-N-phenethylacetamide
+
+>  <Num_H_Acceptors_Lipinski>  (6) 
+6
+
+>  <Num_H_Donors_Lipinski>  (6) 
+3
+
+>  <Molecular_Weight>  (6) 
+353.36856
+
+>  <ALogP>  (6) 
+2.969
+
+>  <Num_RotatableBonds>  (6) 
+5
+
+>  <Molecular_PolarSurfaceArea>  (6) 
+95.86
+
+>  <Num_H_Acceptors>  (6) 
+5
+
+>  <Num_H_Donors>  (6) 
+3
+
+>  <ADMET_Solubility>  (6) 
+-3.548
+
+>  <ADMET_Solubility_Level>  (6) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (6) 
+0
+
+>  <ADMET_BBB>  (6) 
+-0.786
+
+>  <ADMET_BBB_Level>  (6) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (6) 
+-1.21797970437356
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (6) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (6) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (6) 
+13.8687909382153
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (6) 
+3.66610251659532e-05
+
+>  <ADMET_EXT_Hepatotoxic>  (6) 
+-4.31846567001369
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (6) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (6) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (6) 
+11.9259990420386
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (6) 
+0.000218365538452665
+
+>  <ADMET_Absorption_Level>  (6) 
+0
+
+>  <ADMET_EXT_PPB>  (6) 
+2.54432245605554
+
+>  <ADMET_EXT_PPB#Prediction>  (6) 
+true
+
+>  <ADMET_EXT_PPB_Applicability>  (6) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (6) 
+14.2406342034443
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (6) 
+3.3984001310018e-05
+
+>  <ADMET_AlogP98>  (6) 
+2.97
+
+>  <ADMET_PSA_2D>  (6) 
+97.972
+
+$$$$
+STOCK1N-68711
+     RDKit          2D
+
+ 27 30  0  0  0  0  0  0  0  0999 V2000
+    3.5625   -1.2667    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9917   -2.9250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9917   -3.7542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2792   -1.6792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7125   -4.1667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5625   -0.4417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4292   -2.9292    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7125   -2.5042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8417   -1.6792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2792   -2.5042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8417   -0.0292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2875   -0.0292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4292   -3.7542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1292   -1.2667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1292   -0.4417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2750   -4.1667    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9917   -1.2667    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0042   -0.4417    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2917    0.8083    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7167   -4.9917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4167   -1.6792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4250   -0.0292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1500   -4.1667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4292   -5.4042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7042   -1.2667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7042   -0.4417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1500   -4.9917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2 10  1  0
+  3  2  1  0
+  4  1  1  0
+  5  3  1  0
+  6  1  1  0
+  7  8  2  0
+  8  2  1  0
+  9  1  1  0
+ 10  4  1  0
+ 11  6  1  0
+  6 12  1  1
+ 13  7  1  0
+ 14  9  1  0
+ 15 14  2  0
+ 16  3  2  0
+ 17  4  2  0
+ 18 12  2  0
+ 19 12  1  0
+ 20  5  2  0
+ 21 14  1  0
+ 22 15  1  0
+ 23 13  2  0
+ 24 20  1  0
+ 25 21  2  0
+ 26 25  1  0
+ 27 23  1  0
+ 11 15  1  0
+ 26 22  2  0
+  5 13  1  0
+ 24 27  2  0
+M  END
+>  <Name>  (7) 
+STOCK1N-68711
+
+>  <id>  (7) 
+STOCK1N-68711
+
+>  <index>  (7) 
+DNC
+
+>  <donors>  (7) 
+1
+
+>  <acceptors>  (7) 
+7
+
+>  <rotatable>  (7) 
+4
+
+>  <clogp>  (7) 
+2.043
+
+>  <rings>  (7) 
+4
+
+>  <tpsa>  (7) 
+92.5
+
+>  <iupac_name>  (7) 
+(S)-2-(2-(4-oxoquinazolin-3(4H)-yl)acetyl)-1,2,3,4-tetrahydroisoquinoline-3-carboxylic acid
+
+>  <Num_H_Acceptors_Lipinski>  (7) 
+7
+
+>  <Num_H_Donors_Lipinski>  (7) 
+1
+
+>  <Molecular_Weight>  (7) 
+363.36668
+
+>  <ALogP>  (7) 
+1.497
+
+>  <Num_RotatableBonds>  (7) 
+3
+
+>  <Molecular_PolarSurfaceArea>  (7) 
+90.28
+
+>  <Num_H_Acceptors>  (7) 
+5
+
+>  <Num_H_Donors>  (7) 
+1
+
+>  <ADMET_Solubility>  (7) 
+-2.88
+
+>  <ADMET_Solubility_Level>  (7) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (7) 
+0
+
+>  <ADMET_BBB>  (7) 
+-1.127
+
+>  <ADMET_BBB_Level>  (7) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (7) 
+-10.9757428285844
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (7) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (7) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -2100279446: [*]N([*])C=O
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (7) 
+13.8857092810456
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (7) 
+3.51444392218388e-05
+
+>  <ADMET_EXT_Hepatotoxic>  (7) 
+-4.7189691153233
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (7) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (7) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (7) 
+10.9938716692184
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (7) 
+0.00631968382494446
+
+>  <ADMET_Absorption_Level>  (7) 
+0
+
+>  <ADMET_EXT_PPB>  (7) 
+3.82238598229269
+
+>  <ADMET_EXT_PPB#Prediction>  (7) 
+true
+
+>  <ADMET_EXT_PPB_Applicability>  (7) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (7) 
+13.4133584707465
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (7) 
+0.0012375721977594
+
+>  <ADMET_AlogP98>  (7) 
+1.497
+
+>  <ADMET_PSA_2D>  (7) 
+90.746
+
+$$$$
+STOCK1N-75322
+     RDKit          2D
+
+ 27 30  0  0  0  0  0  0  0  0999 V2000
+    4.9375   -0.1292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5542   -0.8542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3667    0.4708    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6167    0.1083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7625   -0.0917    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7417   -0.7167    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8250   -1.5167    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2000   -0.7917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9917   -1.5542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9042    0.5208    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1917    0.1083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1542   -1.2917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0250   -0.7667    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6125   -2.2917    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4792    0.5208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1500   -2.1125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9042    1.3458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4792    1.3458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8417   -2.5292    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1542    0.6375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2875   -2.2167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1917    1.7583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4292   -2.5042    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7667    0.1083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7667    1.7583    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0500    0.5208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0500    1.3458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  3  1  1  0
+  4  3  2  0
+  5  1  1  0
+  6  2  1  0
+  7  8  1  0
+  8  5  1  0
+  9  2  1  0
+ 10  4  1  0
+ 11 10  1  0
+ 12  6  1  0
+ 13  8  2  0
+ 14  9  2  0
+ 15 11  1  0
+ 16 12  1  0
+ 17 10  1  0
+ 18 22  1  0
+ 19 16  2  0
+ 20  5  1  0
+ 21  7  1  0
+ 22 17  1  0
+ 23 16  1  0
+ 24 15  2  0
+ 25 18  2  0
+ 26 24  1  0
+ 27 25  1  0
+  9  7  1  0
+  6  4  1  0
+ 15 18  1  0
+ 27 26  2  0
+M  END
+>  <Name>  (8) 
+STOCK1N-75322
+
+>  <id>  (8) 
+STOCK1N-75322
+
+>  <index>  (8) 
+DNC
+
+>  <donors>  (8) 
+1
+
+>  <acceptors>  (8) 
+9
+
+>  <rotatable>  (8) 
+3
+
+>  <clogp>  (8) 
+1.381
+
+>  <rings>  (8) 
+4
+
+>  <tpsa>  (8) 
+102.36
+
+>  <iupac_name>  (8) 
+2-(8-(3,4-dihydroisoquinolin-2(1H)-yl)-1,3-dimethyl-2,6-dioxo-2,3-dihydro-1H-purin-7(6H)-yl)acetic acid
+
+>  <Num_H_Acceptors_Lipinski>  (8) 
+9
+
+>  <Num_H_Donors_Lipinski>  (8) 
+1
+
+>  <Molecular_Weight>  (8) 
+369.37456
+
+>  <ALogP>  (8) 
+1.743
+
+>  <Num_RotatableBonds>  (8) 
+3
+
+>  <Molecular_PolarSurfaceArea>  (8) 
+98.98
+
+>  <Num_H_Acceptors>  (8) 
+6
+
+>  <Num_H_Donors>  (8) 
+1
+
+>  <ADMET_Solubility>  (8) 
+-3.82
+
+>  <ADMET_Solubility_Level>  (8) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (8) 
+0
+
+>  <ADMET_BBB>  (8) 
+-1.026
+
+>  <ADMET_BBB_Level>  (8) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (8) 
+-7.93338104143301
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (8) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (8) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -1410079687: [*]N([*])[c]1:n:[*]:[*]:n:1[*]
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (8) 
+12.5224277295989
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (8) 
+0.000924354705811301
+
+>  <ADMET_EXT_Hepatotoxic>  (8) 
+-13.7496278834355
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (8) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (8) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (8) 
+11.7521261596795
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (8) 
+0.00043415227995756
+
+>  <ADMET_Absorption_Level>  (8) 
+0
+
+>  <ADMET_EXT_PPB>  (8) 
+-8.92901830695702
+
+>  <ADMET_EXT_PPB#Prediction>  (8) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (8) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (8) 
+15.3291217217989
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (8) 
+1.02480076333725e-07
+
+>  <ADMET_AlogP98>  (8) 
+2.268
+
+>  <ADMET_PSA_2D>  (8) 
+99.384
+
+$$$$
+STOCK1N-75446
+     RDKit          2D
+
+ 30 33  0  0  0  0  0  0  0  0999 V2000
+    6.8667   -3.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5917   -3.3417    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8667   -4.5875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5875   -5.0042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3042   -4.5917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3042   -3.7542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1542   -4.1542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4292   -2.5250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2500   -3.1917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4417   -3.7375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5625   -5.3792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5792   -5.8292    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1500   -4.9792    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2792   -4.9667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6042   -2.4292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9875   -1.9167    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5542   -6.2042    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5292   -5.3417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7250   -4.1500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9917   -5.3792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2875   -4.1417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0250   -5.0042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8417   -4.9625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0292   -3.3500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7125   -4.9667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0042   -3.7375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8500   -4.1292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7292   -4.5917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7417   -3.7667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1292   -3.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  1  1  0
+  4  3  1  0
+  5  4  1  0
+  6  2  1  0
+  7  1  1  0
+  8  2  1  0
+  9  1  1  0
+ 10  7  1  0
+ 11 14  1  0
+ 12  4  2  0
+ 13  7  2  0
+ 14 21  2  0
+ 15  9  1  0
+ 16  8  2  0
+ 17 11  2  0
+ 18  3  1  0
+ 19 10  1  0
+ 20 25  2  0
+ 21 26  1  0
+ 22  5  2  0
+ 23 11  1  0
+ 24  6  2  0
+ 25 19  1  0
+ 26 19  2  0
+ 27 23  1  0
+ 28 22  1  0
+ 29 24  1  0
+ 30 27  1  0
+ 15  8  1  0
+  6  5  1  0
+ 29 28  2  0
+ 14 20  1  0
+M  END
+>  <Name>  (9) 
+STOCK1N-75446
+
+>  <id>  (9) 
+STOCK1N-75446
+
+>  <index>  (9) 
+DNC
+
+>  <donors>  (9) 
+1
+
+>  <acceptors>  (9) 
+8
+
+>  <rotatable>  (9) 
+6
+
+>  <clogp>  (9) 
+3.295
+
+>  <rings>  (9) 
+4
+
+>  <tpsa>  (9) 
+96.02
+
+>  <iupac_name>  (9) 
+ethyl 4-(4-methyl-1,5-dioxo-1,2,3,3a,4,5-hexahydropyrrolo[1,2-a]quinazoline-3a-carboxamido)benzoate
+
+>  <Num_H_Acceptors_Lipinski>  (9) 
+8
+
+>  <Num_H_Donors_Lipinski>  (9) 
+1
+
+>  <Molecular_Weight>  (9) 
+407.41924
+
+>  <ALogP>  (9) 
+1.617
+
+>  <Num_RotatableBonds>  (9) 
+5
+
+>  <Molecular_PolarSurfaceArea>  (9) 
+96.02
+
+>  <Num_H_Acceptors>  (9) 
+5
+
+>  <Num_H_Donors>  (9) 
+1
+
+>  <ADMET_Solubility>  (9) 
+-3.44
+
+>  <ADMET_Solubility_Level>  (9) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (9) 
+0
+
+>  <ADMET_BBB>  (9) 
+-1.199
+
+>  <ADMET_BBB_Level>  (9) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (9) 
+-9.74801875252493
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (9) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (9) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (9) 
+15.3923526733545
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (9) 
+7.32033236991544e-07
+
+>  <ADMET_EXT_Hepatotoxic>  (9) 
+-6.95084289428404
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (9) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (9) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (9) 
+10.1757140576624
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (9) 
+0.0606407591358318
+
+>  <ADMET_Absorption_Level>  (9) 
+0
+
+>  <ADMET_EXT_PPB>  (9) 
+-2.30375311953237
+
+>  <ADMET_EXT_PPB#Prediction>  (9) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (9) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (9) 
+14.433572592788
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (9) 
+1.32358292414979e-05
+
+>  <ADMET_AlogP98>  (9) 
+1.617
+
+>  <ADMET_PSA_2D>  (9) 
+97.648
+
+$$$$
+STOCK1N-75591
+     RDKit          2D
+
+ 22 24  0  0  0  0  0  0  0  0999 V2000
+    8.6042   -2.5875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5750   -2.5667    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3292   -3.0042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6042   -1.7042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3625   -3.0292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8417   -3.0167    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8167   -3.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1167   -2.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0625   -2.5625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3750   -1.2792    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1250   -1.7167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0917   -2.5792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5792   -1.6917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0667   -1.6875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3292   -3.8792    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3542   -3.9000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8250   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8542   -1.2667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3042   -2.9917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3042   -1.2417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5542   -2.5625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5542   -1.6875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0
+  3 12  1  0
+  4  1  2  0
+  5  1  1  0
+  6  1  1  0
+  7  2  1  0
+  8  5  1  0
+  9  7  1  0
+ 10  4  1  0
+ 11  8  2  0
+ 12  6  1  0
+ 13  2  1  0
+ 14 17  1  0
+ 15  3  2  0
+ 16  5  2  0
+ 17 13  1  0
+ 18  4  1  0
+ 19  9  2  0
+ 20 14  2  0
+ 21 19  1  0
+ 22 20  1  0
+ 10 11  1  0
+ 14  9  1  0
+ 22 21  2  0
+M  END
+>  <Name>  (10) 
+STOCK1N-75591
+
+>  <id>  (10) 
+STOCK1N-75591
+
+>  <index>  (10) 
+DNC
+
+>  <donors>  (10) 
+0
+
+>  <acceptors>  (10) 
+5
+
+>  <rotatable>  (10) 
+4
+
+>  <clogp>  (10) 
+1.221
+
+>  <rings>  (10) 
+3
+
+>  <tpsa>  (10) 
+59.75
+
+>  <iupac_name>  (10) 
+3-(2-(3,4-dihydroisoquinolin-2(1H)-yl)-2-oxoethoxy)-2-methyl-4H-pyran-4-one
+
+>  <Num_H_Acceptors_Lipinski>  (10) 
+5
+
+>  <Num_H_Donors_Lipinski>  (10) 
+0
+
+>  <Molecular_Weight>  (10) 
+299.32118
+
+>  <ALogP>  (10) 
+0.927
+
+>  <Num_RotatableBonds>  (10) 
+3
+
+>  <Molecular_PolarSurfaceArea>  (10) 
+55.84
+
+>  <Num_H_Acceptors>  (10) 
+4
+
+>  <Num_H_Donors>  (10) 
+0
+
+>  <ADMET_Solubility>  (10) 
+-2.336
+
+>  <ADMET_Solubility_Level>  (10) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (10) 
+0
+
+>  <ADMET_BBB>  (10) 
+-0.751
+
+>  <ADMET_BBB_Level>  (10) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (10) 
+-6.50421737882934
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (10) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (10) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (10) 
+11.3980450931333
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (10) 
+0.0102882191393347
+
+>  <ADMET_EXT_Hepatotoxic>  (10) 
+-5.29464934452109
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (10) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (10) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (10) 
+12.6590695733218
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (10) 
+9.14071665110915e-06
+
+>  <ADMET_Absorption_Level>  (10) 
+0
+
+>  <ADMET_EXT_PPB>  (10) 
+-5.12600719602422
+
+>  <ADMET_EXT_PPB#Prediction>  (10) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (10) 
+OPS PC25 out of range. Value: -3.4228. Training min, max, SD, explained variance: -2.9886, 4.7328, 1.181, 0.0115.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (10) 
+12.5928196511066
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (10) 
+0.0204736019979532
+
+>  <ADMET_AlogP98>  (10) 
+0.927
+
+>  <ADMET_PSA_2D>  (10) 
+55.814
+
+$$$$
+STOCK1N-78794
+     RDKit          2D
+
+ 30 33  0  0  0  0  0  0  0  0999 V2000
+    6.4292   -7.0375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7167   -5.7917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7167   -6.6250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1500   -6.6250    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4292   -7.8625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0042   -5.3792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9875   -9.0917    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4292   -5.3792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1417   -8.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1500   -5.7917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2750   -9.5042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5625   -9.0917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0000   -7.0500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0042   -4.5542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1375   -9.0917    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8500   -9.5042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8542   -7.8625    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4292   -4.5542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7167   -4.1417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2875   -5.7917    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9917   -8.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2875   -4.1292    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7000   -9.5042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2750   -7.8542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5625   -8.2667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2750  -10.3250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5750   -5.3792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2875   -3.3125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7042  -10.3292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9875  -10.7417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0
+  3  1  1  0
+  4  1  1  0
+  5  1  1  0
+  6  2  2  0
+  7 11  1  0
+  8 10  1  0
+  9  5  1  0
+ 10  4  2  0
+ 11 12  1  0
+ 12 16  1  6
+ 13  3  2  0
+ 14  6  1  0
+ 15  9  1  0
+ 16 15  1  0
+ 17  9  2  0
+ 18  8  2  0
+ 19 18  1  0
+ 20  6  1  0
+ 21 24  1  0
+ 22 14  1  0
+ 23  7  1  0
+ 24 25  1  0
+ 25 12  1  0
+ 11 26  1  6
+ 27 20  1  0
+ 28 22  1  0
+ 29 30  1  0
+ 30 26  1  0
+  8  2  1  0
+ 19 14  2  0
+  7 21  1  0
+ 23 29  1  0
+M  END
+>  <Name>  (11) 
+STOCK1N-78794
+
+>  <id>  (11) 
+STOCK1N-78794
+
+>  <index>  (11) 
+DNC
+
+>  <donors>  (11) 
+1
+
+>  <acceptors>  (11) 
+8
+
+>  <rotatable>  (11) 
+7
+
+>  <clogp>  (11) 
+-0.315
+
+>  <rings>  (11) 
+4
+
+>  <tpsa>  (11) 
+85.69
+
+>  <iupac_name>  (11) 
+2-(7,8-dimethoxy-1-oxophthalazin-2(1H)-yl)-N-(((1S,9aR)-octahydro-1H-quinolizin-1-yl)methyl)acetamide
+
+>  <Num_H_Acceptors_Lipinski>  (11) 
+8
+
+>  <Num_H_Donors_Lipinski>  (11) 
+1
+
+>  <Molecular_Weight>  (11) 
+414.498
+
+>  <ALogP>  (11) 
+1.726
+
+>  <Num_RotatableBonds>  (11) 
+6
+
+>  <Molecular_PolarSurfaceArea>  (11) 
+83.47
+
+>  <Num_H_Acceptors>  (11) 
+6
+
+>  <Num_H_Donors>  (11) 
+1
+
+>  <ADMET_Solubility>  (11) 
+-3.272
+
+>  <ADMET_Solubility_Level>  (11) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (11) 
+0
+
+>  <ADMET_BBB>  (11) 
+-0.938
+
+>  <ADMET_BBB_Level>  (11) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (11) 
+-2.44219645807001
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (11) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (11) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (11) 
+15.8603599915049
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (11) 
+2.13233324162201e-07
+
+>  <ADMET_EXT_Hepatotoxic>  (11) 
+-5.147959986068
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (11) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (11) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (11) 
+10.514720567722
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (11) 
+0.0258134754808751
+
+>  <ADMET_Absorption_Level>  (11) 
+0
+
+>  <ADMET_EXT_PPB>  (11) 
+-5.46565771892543
+
+>  <ADMET_EXT_PPB#Prediction>  (11) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (11) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (11) 
+12.649884858846
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (11) 
+0.0172791122500881
+
+>  <ADMET_AlogP98>  (11) 
+1.726
+
+>  <ADMET_PSA_2D>  (11) 
+83.3
+
+$$$$
+STOCK1N-80413
+     RDKit          2D
+
+ 23 25  0  0  0  0  0  0  0  0999 V2000
+    3.7667    1.0833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4792    0.6708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1917    1.0833    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4792    2.3208    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2042    1.8958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7667    1.9083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0542    0.6708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7833   -0.1417    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5833   -0.3042    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9042    1.0833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6167    0.6708    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3292    1.0833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4667   -0.1542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9042    1.9083    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0542    2.3208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3292    1.9083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6958    0.6958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4458    1.0208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0083    0.4083    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1792    0.6708    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9583    1.0958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5333    1.0958    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2458    0.6833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  2  1  0
+  4  6  1  0
+  5  4  2  0
+  6  1  2  0
+  7  1  1  0
+  8 17  1  0
+  9  8  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12  7  2  0
+ 13  2  2  0
+ 14 10  2  0
+ 15  6  1  0
+ 16 12  1  0
+ 17 21  1  0
+ 18 17  1  0
+ 19 18  1  0
+ 20 10  1  0
+ 21 23  1  0
+ 22 20  1  0
+ 23 22  1  0
+ 16 15  2  0
+  5  3  1  0
+  9 19  1  0
+M  END
+>  <Name>  (12) 
+STOCK1N-80413
+
+>  <id>  (12) 
+STOCK1N-80413
+
+>  <index>  (12) 
+DNC
+
+>  <donors>  (12) 
+2
+
+>  <acceptors>  (12) 
+5
+
+>  <rotatable>  (12) 
+7
+
+>  <clogp>  (12) 
+2.646
+
+>  <rings>  (12) 
+3
+
+>  <tpsa>  (12) 
+74.85
+
+>  <iupac_name>  (12) 
+5-(1,2-dithiolan-3-yl)-N-(4-oxo-3,4-dihydroquinazolin-6-yl)pentanamide
+
+>  <Num_H_Acceptors_Lipinski>  (12) 
+5
+
+>  <Num_H_Donors_Lipinski>  (12) 
+2
+
+>  <Molecular_Weight>  (12) 
+349.47096
+
+>  <ALogP>  (12) 
+2.334
+
+>  <Num_RotatableBonds>  (12) 
+6
+
+>  <Molecular_PolarSurfaceArea>  (12) 
+121.16
+
+>  <Num_H_Acceptors>  (12) 
+5
+
+>  <Num_H_Donors>  (12) 
+2
+
+>  <ADMET_Solubility>  (12) 
+-3.575
+
+>  <ADMET_Solubility_Level>  (12) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (12) 
+0
+
+>  <ADMET_BBB>  (12) 
+-0.565
+
+>  <ADMET_BBB_Level>  (12) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (12) 
+-9.1920542625281
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (12) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (12) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -2100219864: [*]NC=O
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (12) 
+14.6321950422813
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (12) 
+5.28541081754909e-06
+
+>  <ADMET_EXT_Hepatotoxic>  (12) 
+-8.65180486870361
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (12) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (12) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (12) 
+12.4266250420114
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (12) 
+2.61956349219304e-05
+
+>  <ADMET_Absorption_Level>  (12) 
+0
+
+>  <ADMET_EXT_PPB>  (12) 
+-7.72318359844605
+
+>  <ADMET_EXT_PPB#Prediction>  (12) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (12) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (12) 
+13.2304485536808
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (12) 
+0.00247448055304242
+
+>  <ADMET_AlogP98>  (12) 
+2.334
+
+>  <ADMET_PSA_2D>  (12) 
+71.545
+
+$$$$
+STOCK1N-83457
+     RDKit          2D
+
+ 30 32  0  0  0  0  0  0  0  0999 V2000
+    7.6542   -4.5750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0625   -5.2750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8500   -4.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5042   -5.8917    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7792   -5.5542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9000   -3.7875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8917   -5.3542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6167   -6.0042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0792   -3.8750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2167   -4.2125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6917   -3.5500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9042   -5.5917    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2542   -3.0667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2917   -4.1042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0542   -5.9917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6292   -6.8292    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6417   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3375   -5.5875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8667   -2.7417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1917   -6.0042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6792   -4.4292    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0500   -2.8167    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4667   -5.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4917   -5.2292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6542   -3.3792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7542   -6.0167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4625   -4.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7417   -4.3667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0292   -5.6042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0292   -4.7792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  1  1  0
+  4  2  1  0
+  5  3  1  0
+  6  1  1  0
+  7  2  2  0
+  8 18  1  0
+  9 14  2  0
+ 10  3  2  0
+ 11  6  1  0
+ 12  8  1  0
+ 13 17  2  0
+ 14 11  1  0
+  5 15  1  1
+ 16  8  2  0
+ 17 19  1  0
+ 18 15  1  0
+ 19 11  2  0
+ 20 12  1  0
+ 21  9  1  0
+ 22 13  1  0
+ 23 20  1  0
+ 24 21  1  0
+ 25 22  1  0
+ 26 23  2  0
+ 27 23  1  0
+ 28 27  2  0
+ 29 26  1  0
+ 30 28  1  0
+  4  5  1  0
+ 13  9  1  0
+ 29 30  2  0
+M  END
+>  <Name>  (13) 
+STOCK1N-83457
+
+>  <id>  (13) 
+STOCK1N-83457
+
+>  <index>  (13) 
+RDNC
+
+>  <donors>  (13) 
+2
+
+>  <acceptors>  (13) 
+8
+
+>  <rotatable>  (13) 
+10
+
+>  <clogp>  (13) 
+1.136
+
+>  <rings>  (13) 
+3
+
+>  <tpsa>  (13) 
+96.97
+
+>  <iupac_name>  (13) 
+(S)-N-benzyl-3-(1-(3,4-dimethoxybenzyl)-2,5-dioxoimidazolidin-4-yl)propanamide
+
+>  <Num_H_Acceptors_Lipinski>  (13) 
+8
+
+>  <Num_H_Donors_Lipinski>  (13) 
+2
+
+>  <Molecular_Weight>  (13) 
+411.451
+
+>  <ALogP>  (13) 
+1.944
+
+>  <Num_RotatableBonds>  (13) 
+9
+
+>  <Molecular_PolarSurfaceArea>  (13) 
+96.97
+
+>  <Num_H_Acceptors>  (13) 
+5
+
+>  <Num_H_Donors>  (13) 
+2
+
+>  <ADMET_Solubility>  (13) 
+-3.432
+
+>  <ADMET_Solubility_Level>  (13) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (13) 
+0
+
+>  <ADMET_BBB>  (13) 
+-0.953
+
+>  <ADMET_BBB_Level>  (13) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (13) 
+-6.89807029355792
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (13) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (13) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (13) 
+14.3834262233925
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (13) 
+9.99800764419395e-06
+
+>  <ADMET_EXT_Hepatotoxic>  (13) 
+-4.86384500975495
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (13) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (13) 
+OPS PC11 out of range. Value: 5.0799. Training min, max, SD, explained variance: -4.0074, 4.0205, 1.463, 0.0267.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (13) 
+10.9226938584118
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (13) 
+0.00790232339611901
+
+>  <ADMET_Absorption_Level>  (13) 
+0
+
+>  <ADMET_EXT_PPB>  (13) 
+-11.3958285937813
+
+>  <ADMET_EXT_PPB#Prediction>  (13) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (13) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (13) 
+12.4903637382722
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (13) 
+0.0274939673717545
+
+>  <ADMET_AlogP98>  (13) 
+2.469
+
+>  <ADMET_PSA_2D>  (13) 
+98.735
+
+$$$$
+STOCK1N-83797
+     RDKit          2D
+
+ 29 32  0  0  0  0  0  0  0  0999 V2000
+    6.3542   -4.9500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6000   -4.6167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0792   -4.5292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2667   -5.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0500   -5.2417    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4625   -5.9417    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5042   -3.8000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8000   -4.9542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0792   -3.7042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5125   -4.5417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3167   -3.6292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2292   -2.8042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4250   -2.6417    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0750   -3.9542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8792   -6.3250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7417   -3.4667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5125   -3.7167    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8917   -2.3167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3667   -3.2875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7917   -3.2917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6500   -2.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0792   -2.0542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3667   -2.4625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7917   -2.4625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2292   -4.9542    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0167   -3.3542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0792   -1.2250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5667   -3.9667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9417   -4.5417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  3  1  1  0
+  4  1  1  0
+  5  2  1  0
+  6  4  1  0
+  7  2  1  0
+  8  3  1  0
+  9  3  1  0
+ 10  8  1  0
+ 11 14  2  0
+ 12 18  2  0
+ 13 12  1  0
+ 14 16  1  0
+ 15  4  2  0
+ 16  7  1  0
+ 17 10  2  0
+ 18 21  1  0
+ 19  9  2  0
+ 20  9  1  0
+ 21 16  2  0
+ 22 24  1  0
+ 23 19  1  0
+ 24 20  2  0
+ 25 10  1  0
+ 26 28  1  0
+ 27 22  1  0
+ 28 11  1  0
+ 29 25  1  0
+  6  5  1  0
+ 22 23  2  0
+ 12 11  1  0
+ 26 13  1  0
+M  END
+>  <Name>  (14) 
+STOCK1N-83797
+
+>  <id>  (14) 
+STOCK1N-83797
+
+>  <index>  (14) 
+DNC
+
+>  <donors>  (14) 
+3
+
+>  <acceptors>  (14) 
+7
+
+>  <rotatable>  (14) 
+7
+
+>  <clogp>  (14) 
+2.684
+
+>  <rings>  (14) 
+4
+
+>  <tpsa>  (14) 
+104.41
+
+>  <iupac_name>  (14) 
+methyl 3-(5-((2,3-dihydrobenzofuran-5-yl)methyl)-3-oxo-2,3-dihydro-1H-pyrazol-4-yl)-3-(4-hydroxyphenyl)propanoate
+
+>  <Num_H_Acceptors_Lipinski>  (14) 
+7
+
+>  <Num_H_Donors_Lipinski>  (14) 
+3
+
+>  <Molecular_Weight>  (14) 
+394.42048
+
+>  <ALogP>  (14) 
+2.193
+
+>  <Num_RotatableBonds>  (14) 
+7
+
+>  <Molecular_PolarSurfaceArea>  (14) 
+96.89
+
+>  <Num_H_Acceptors>  (14) 
+6
+
+>  <Num_H_Donors>  (14) 
+3
+
+>  <ADMET_Solubility>  (14) 
+-3.932
+
+>  <ADMET_Solubility_Level>  (14) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (14) 
+1
+
+>  <ADMET_BBB>  (14) 
+-0.921
+
+>  <ADMET_BBB_Level>  (14) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (14) 
+-2.60001910046783
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (14) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (14) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: 436975416: [*]N\C(=C\[*])\C(=[*])[*]
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (14) 
+17.9773997445261
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (14) 
+7.54611410411574e-10
+
+>  <ADMET_EXT_Hepatotoxic>  (14) 
+-6.38977204490987
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (14) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (14) 
+All properties and OPS components are within expected ranges.
+Unknown FCFP_2 feature: -885461129: [*]NNC([*])[*]
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (14) 
+13.6818046902866
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (14) 
+5.57608157731881e-08
+
+>  <ADMET_Absorption_Level>  (14) 
+0
+
+>  <ADMET_EXT_PPB>  (14) 
+1.10318031444736
+
+>  <ADMET_EXT_PPB#Prediction>  (14) 
+true
+
+>  <ADMET_EXT_PPB_Applicability>  (14) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (14) 
+15.4914699416406
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (14) 
+3.91346435354895e-08
+
+>  <ADMET_AlogP98>  (14) 
+2.581
+
+>  <ADMET_PSA_2D>  (14) 
+98.897
+
+$$$$
+STOCK1N-84792
+     RDKit          2D
+
+ 30 32  0  0  0  0  0  0  0  0999 V2000
+    3.8542   -2.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5667   -3.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5667   -4.0042    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1417   -3.1792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1292   -4.0042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8417   -4.4167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8542   -1.9417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2917   -4.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2917   -2.7792    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1500   -1.5292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1417   -0.7167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5667   -1.5292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9875   -0.7042    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8542   -0.3000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4292   -2.7667    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9917   -3.9875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7167   -4.3917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1625   -5.1917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4250   -0.3042    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8292   -5.2542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4542   -5.6167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1417   -4.3750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7292   -5.2167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4250   -3.9667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8917   -5.6000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9917   -1.5250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2792   -0.2917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5667   -0.7125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2792   -1.9417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4250    0.5208    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  2  1  0
+  4  1  2  0
+  5  4  1  0
+  6  5  2  0
+  7  1  1  0
+  8  3  1  0
+  9  2  2  0
+ 10  7  1  0
+ 11 10  1  0
+ 12  7  1  0
+ 13 26  2  0
+ 14 11  2  0
+ 15  4  1  0
+ 16  8  1  0
+ 17 16  1  0
+ 18 22  2  0
+ 19 11  1  0
+ 20  6  1  0
+ 21 23  2  0
+ 22 24  1  0
+ 23 17  1  0
+ 24 17  2  0
+ 25 18  1  0
+ 26 29  1  0
+ 27 28  2  0
+ 28 12  1  0
+ 29 12  2  0
+ 30 19  1  0
+  3  6  1  0
+ 13 27  1  0
+ 18 21  1  0
+M  END
+>  <Name>  (15) 
+STOCK1N-84792
+
+>  <id>  (15) 
+STOCK1N-84792
+
+>  <index>  (15) 
+DNC
+
+>  <donors>  (15) 
+2
+
+>  <acceptors>  (15) 
+7
+
+>  <rotatable>  (15) 
+8
+
+>  <clogp>  (15) 
+1.584
+
+>  <rings>  (15) 
+3
+
+>  <tpsa>  (15) 
+101.65
+
+>  <iupac_name>  (15) 
+methyl 3-(4-hydroxy-1-(4-hydroxyphenethyl)-6-methyl-2-oxo-1,2-dihydropyridin-3-yl)-3-(pyridin-4-yl)propanoate
+
+>  <Num_H_Acceptors_Lipinski>  (15) 
+7
+
+>  <Num_H_Donors_Lipinski>  (15) 
+2
+
+>  <Molecular_Weight>  (15) 
+408.44706
+
+>  <ALogP>  (15) 
+1.96
+
+>  <Num_RotatableBonds>  (15) 
+8
+
+>  <Molecular_PolarSurfaceArea>  (15) 
+99.96
+
+>  <Num_H_Acceptors>  (15) 
+6
+
+>  <Num_H_Donors>  (15) 
+2
+
+>  <ADMET_Solubility>  (15) 
+-2.524
+
+>  <ADMET_Solubility_Level>  (15) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (15) 
+0
+
+>  <ADMET_BBB>  (15) 
+-1.127
+
+>  <ADMET_BBB_Level>  (15) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (15) 
+-7.48132352726844
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (15) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (15) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (15) 
+17.4469852125022
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (15) 
+3.11272513913866e-09
+
+>  <ADMET_EXT_Hepatotoxic>  (15) 
+-6.52771545456203
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (15) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (15) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (15) 
+14.2415649897888
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (15) 
+2.55942290434538e-09
+
+>  <ADMET_Absorption_Level>  (15) 
+0
+
+>  <ADMET_EXT_PPB>  (15) 
+-5.4537890955575
+
+>  <ADMET_EXT_PPB#Prediction>  (15) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (15) 
+OPS PC38 out of range. Value: -3.5797. Training min, max, SD, explained variance: -3.1225, 3.1535, 0.9373, 0.0073.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (15) 
+13.9061341688334
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (15) 
+0.000158946351849358
+
+>  <ADMET_AlogP98>  (15) 
+1.96
+
+>  <ADMET_PSA_2D>  (15) 
+99.776
+
+$$$$
+STOCK1N-91297
+     RDKit          2D
+
+ 28 30  0  0  0  0  0  0  0  0999 V2000
+    6.6625   -5.8292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6500   -6.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3500   -7.0667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3667   -5.4375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0667   -5.8542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0542   -6.6667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9542   -5.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4875   -5.8667    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5417   -5.3917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2417   -5.8125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9667   -4.5917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7792   -5.4542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3375   -7.8875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5542   -4.5750    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9375   -7.0417    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6917   -4.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2542   -4.1875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8292   -5.7875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9667   -2.9417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6917   -3.3542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2542   -3.3625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9667   -2.1167    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2000   -5.4667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4792   -6.6875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6792   -1.7042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1750   -7.1042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9042   -5.8875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8917   -6.7042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  2  0
+  3  2  1  0
+  4  1  1  0
+  5  4  1  0
+  6  5  2  0
+  7  1  1  0
+  8 12  1  0
+  9 10  1  0
+ 10  7  1  0
+ 11  7  1  0
+ 12  5  1  0
+ 13  3  2  0
+ 14  9  2  0
+ 15  2  1  0
+ 16 11  2  0
+ 17 11  1  0
+ 18  9  1  0
+ 19 21  1  0
+ 20 16  1  0
+ 21 17  2  0
+ 22 19  1  0
+ 23  8  1  0
+ 24  8  1  0
+ 25 22  1  0
+ 26 24  1  0
+ 27 23  1  0
+ 28 26  1  0
+  3  6  1  0
+ 20 19  2  0
+ 27 28  1  0
+M  END
+>  <Name>  (16) 
+STOCK1N-91297
+
+>  <id>  (16) 
+STOCK1N-91297
+
+>  <index>  (16) 
+DNC
+
+>  <donors>  (16) 
+2
+
+>  <acceptors>  (16) 
+7
+
+>  <rotatable>  (16) 
+7
+
+>  <clogp>  (16) 
+0.676
+
+>  <rings>  (16) 
+3
+
+>  <tpsa>  (16) 
+106
+
+>  <iupac_name>  (16) 
+3-(3-hydroxy-4-oxo-6-(piperidin-1-ylmethyl)-4H-pyran-2-yl)-3-(4-methoxyphenyl)propanamide
+
+>  <Num_H_Acceptors_Lipinski>  (16) 
+7
+
+>  <Num_H_Donors_Lipinski>  (16) 
+3
+
+>  <Molecular_Weight>  (16) 
+386.44154
+
+>  <ALogP>  (16) 
+1.408
+
+>  <Num_RotatableBonds>  (16) 
+7
+
+>  <Molecular_PolarSurfaceArea>  (16) 
+102.09
+
+>  <Num_H_Acceptors>  (16) 
+6
+
+>  <Num_H_Donors>  (16) 
+2
+
+>  <ADMET_Solubility>  (16) 
+-2.943
+
+>  <ADMET_Solubility_Level>  (16) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (16) 
+0
+
+>  <ADMET_BBB>  (16) 
+-1.351
+
+>  <ADMET_BBB_Level>  (16) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (16) 
+-4.67372339627815
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (16) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (16) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (16) 
+11.9761908154633
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (16) 
+0.00310314064446852
+
+>  <ADMET_EXT_Hepatotoxic>  (16) 
+-6.12861360665021
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (16) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (16) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (16) 
+11.7949697797138
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (16) 
+0.000367415620815443
+
+>  <ADMET_Absorption_Level>  (16) 
+0
+
+>  <ADMET_EXT_PPB>  (16) 
+-5.24384710981072
+
+>  <ADMET_EXT_PPB#Prediction>  (16) 
+false
+
+>  <ADMET_EXT_PPB_Applicability>  (16) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (16) 
+12.7478890767407
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (16) 
+0.0127961029364404
+
+>  <ADMET_AlogP98>  (16) 
+1.408
+
+>  <ADMET_PSA_2D>  (16) 
+103.169
+
+$$$$
+STOCK1N-94649
+     RDKit          2D
+
+ 29 32  0  0  0  0  0  0  0  0999 V2000
+    0.1792   -3.2125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9375   -1.9875    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9042   -2.8125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3292   -4.0292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2250   -1.5542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5000   -1.9417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5208   -2.7750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5125   -3.3875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1417   -4.1292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6625   -1.6000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3625   -2.0375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0875   -1.6500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2375   -4.6167    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2417   -0.7292    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1167   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7875   -2.0917    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2083   -1.5250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2458   -3.1750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3292   -3.3292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6042   -4.8125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2125   -2.1417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6500   -2.1917    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5167   -1.7042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9417   -1.7542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3792   -1.8042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9250   -1.9125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9458   -2.7375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7917   -4.0042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4292   -4.7542    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  3  1  0
+  3  1  1  0
+  4  1  1  0
+  5  6  1  0
+  6  7  2  0
+  7  1  1  0
+  8  3  1  0
+  9  4  1  0
+ 10  2  1  0
+ 11 10  1  0
+ 12 11  1  0
+ 13  4  2  0
+ 14  5  2  0
+ 15 12  2  0
+ 16 12  1  0
+ 17  6  1  0
+ 18  7  1  0
+ 19  8  2  0
+ 20  9  2  0
+ 21 23  1  0
+ 22 24  1  0
+ 23 16  1  0
+ 24 21  1  0
+ 25 22  1  0
+ 26 27  1  0
+ 27 18  2  0
+ 28 19  1  0
+ 29 20  1  0
+  9  8  1  0
+  5  2  1  0
+ 26 17  2  0
+ 28 29  2  0
+M  END
+>  <Name>  (17) 
+STOCK1N-94649
+
+>  <id>  (17) 
+STOCK1N-94649
+
+>  <index>  (17) 
+DNC
+
+>  <donors>  (17) 
+1
+
+>  <acceptors>  (17) 
+7
+
+>  <rotatable>  (17) 
+8
+
+>  <clogp>  (17) 
+2.238
+
+>  <rings>  (17) 
+4
+
+>  <tpsa>  (17) 
+78.9499999999999
+
+>  <iupac_name>  (17) 
+3-(5,11-dioxoisoindolo[2,1-a]quinazolin-6(5H,6aH,11H)-yl)-N-(3-methoxypropyl)propanamide
+
+>  <Num_H_Acceptors_Lipinski>  (17) 
+7
+
+>  <Num_H_Donors_Lipinski>  (17) 
+1
+
+>  <Molecular_Weight>  (17) 
+393.43572
+
+>  <ALogP>  (17) 
+1.245
+
+>  <Num_RotatableBonds>  (17) 
+7
+
+>  <Molecular_PolarSurfaceArea>  (17) 
+78.95
+
+>  <Num_H_Acceptors>  (17) 
+4
+
+>  <Num_H_Donors>  (17) 
+1
+
+>  <ADMET_Solubility>  (17) 
+-2.712
+
+>  <ADMET_Solubility_Level>  (17) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (17) 
+0
+
+>  <ADMET_BBB>  (17) 
+-1.04
+
+>  <ADMET_BBB_Level>  (17) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (17) 
+-6.92812968266999
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (17) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (17) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (17) 
+16.6276291942651
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (17) 
+2.77610306073689e-08
+
+>  <ADMET_EXT_Hepatotoxic>  (17) 
+-7.91366549687401
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (17) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (17) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (17) 
+12.7181023917777
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (17) 
+6.95005361095087e-06
+
+>  <ADMET_Absorption_Level>  (17) 
+0
+
+>  <ADMET_EXT_PPB>  (17) 
+0.928363992726043
+
+>  <ADMET_EXT_PPB#Prediction>  (17) 
+true
+
+>  <ADMET_EXT_PPB_Applicability>  (17) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (17) 
+14.8060399493422
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (17) 
+1.92699217701845e-06
+
+>  <ADMET_AlogP98>  (17) 
+1.245
+
+>  <ADMET_PSA_2D>  (17) 
+80.347
+
+$$$$
+STOCK1N-95597
+     RDKit          2D
+
+ 30 34  0  0  0  0  0  0  0  0999 V2000
+    4.6667   -5.4125    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0792   -6.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9667   -5.1250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2125   -4.7917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8417   -5.3292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6792   -4.7000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8875   -5.9417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5000   -6.3750    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4917   -4.5667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6667   -4.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8000   -5.9417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4042   -5.1042    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1917   -5.1667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8042   -5.1167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7542   -6.8792    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3500   -3.7500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1042   -4.6875    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3542   -6.0042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6792   -3.8667    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3750   -5.0792    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5375   -5.9167    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2292   -5.9792    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4917   -7.2042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2542   -5.1417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5417   -4.7042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0667   -6.3417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5292   -3.6625    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0375   -4.3292    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7625   -7.5917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0542   -7.1750    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0
+  3  4  1  0
+  4  1  1  0
+  5  1  1  0
+  6  3  1  0
+  7  2  1  0
+  8 11  1  0
+  9  5  2  0
+ 10  9  1  0
+ 11 14  1  0
+ 12  6  1  0
+ 13 21  1  0
+ 14 17  1  6
+ 15  2  2  0
+ 16 10  1  0
+ 17 12  1  0
+ 18  5  1  0
+ 19  6  2  0
+ 20 13  1  0
+ 21 18  2  0
+ 22 24  1  0
+ 23  8  1  0
+ 24 25  1  0
+ 25 14  1  0
+ 11 26  1  6
+ 27 16  1  0
+ 28 20  1  0
+ 29 30  1  0
+ 30 26  1  0
+  3  7  1  0
+ 10 13  2  0
+ 28 27  1  0
+ 22  8  1  0
+ 29 23  1  0
+M  END
+>  <Name>  (18) 
+STOCK1N-95597
+
+>  <id>  (18) 
+STOCK1N-95597
+
+>  <index>  (18) 
+DNC
+
+>  <donors>  (18) 
+1
+
+>  <acceptors>  (18) 
+7
+
+>  <rotatable>  (18) 
+5
+
+>  <clogp>  (18) 
+2.936
+
+>  <rings>  (18) 
+5
+
+>  <tpsa>  (18) 
+71.11
+
+>  <iupac_name>  (18) 
+1-(2,3-dihydrobenzo[b][1,4]dioxin-6-yl)-N-(((1S,9aR)-octahydro-1H-quinolizin-1-yl)methyl)-5-oxopyrrolidine-3-carboxamide
+
+>  <Num_H_Acceptors_Lipinski>  (18) 
+7
+
+>  <Num_H_Donors_Lipinski>  (18) 
+1
+
+>  <Molecular_Weight>  (18) 
+413.50994
+
+>  <ALogP>  (18) 
+1.735
+
+>  <Num_RotatableBonds>  (18) 
+4
+
+>  <Molecular_PolarSurfaceArea>  (18) 
+71.11
+
+>  <Num_H_Acceptors>  (18) 
+5
+
+>  <Num_H_Donors>  (18) 
+1
+
+>  <ADMET_Solubility>  (18) 
+-3.491
+
+>  <ADMET_Solubility_Level>  (18) 
+3
+
+>  <ADMET_Unknown_AlogP98>  (18) 
+0
+
+>  <ADMET_BBB>  (18) 
+-0.756
+
+>  <ADMET_BBB_Level>  (18) 
+3
+
+>  <ADMET_EXT_CYP2D6>  (18) 
+-4.62810214180996
+
+>  <ADMET_EXT_CYP2D6#Prediction>  (18) 
+false
+
+>  <ADMET_EXT_CYP2D6_Applicability>  (18) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_CYP2D6_Applicability#MD>  (18) 
+16.0884131275723
+
+>  <ADMET_EXT_CYP2D6_Applicability#MDpvalue>  (18) 
+1.16530292395361e-07
+
+>  <ADMET_EXT_Hepatotoxic>  (18) 
+-9.97961321704723
+
+>  <ADMET_EXT_Hepatotoxic#Prediction>  (18) 
+false
+
+>  <ADMET_EXT_Hepatotoxic_Applicability>  (18) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MD>  (18) 
+11.3140238931133
+
+>  <ADMET_EXT_Hepatotoxic_Applicability#MDpvalue>  (18) 
+0.00217729119835014
+
+>  <ADMET_Absorption_Level>  (18) 
+0
+
+>  <ADMET_EXT_PPB>  (18) 
+0.00675861893946082
+
+>  <ADMET_EXT_PPB#Prediction>  (18) 
+true
+
+>  <ADMET_EXT_PPB_Applicability>  (18) 
+All properties and OPS components are within expected ranges.
+
+>  <ADMET_EXT_PPB_Applicability#MD>  (18) 
+14.3745248931388
+
+>  <ADMET_EXT_PPB_Applicability#MDpvalue>  (18) 
+1.77356818328648e-05
+
+>  <ADMET_AlogP98>  (18) 
+1.735
+
+>  <ADMET_PSA_2D>  (18) 
+71.976
+
+$$$$
