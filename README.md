@@ -81,11 +81,16 @@ import pandas as pd
 # Load the model
 model = joblib.load('./model/PTP1B_prediction_QSAR_model.pkl')
 
-# Load screening data
+# Load selected descriptors list
+with open('./Final_selected_descriptor_list.txt', 'r') as f:
+    selelted_descriptors = [line.strip() for line in f]
+
+# Load screening data and filtered data
 screening_data = pd.read_csv('screening_data.csv')
+screening_data_with_selected_descriptors = screening_data[selelted_descriptors]
 
 # Predict activity
-predictions = model.predict(screening_data)
+predictions = model.predict(screening_data_with_selected_descriptors)
 ```
 
 ---
